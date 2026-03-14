@@ -1,9 +1,13 @@
 # Obelisk Calibration
 
+> **Quick Nav:** [Objective](#objective) | [Hidden Tower Emergency Satchel](#hidden-tower-emergency-satchel) | [Calibration](#calibration) | [End](#end)
+
+<a id="objective"></a>
 ## Objective
 
 - Calibrate the obelisk and secure the core if possible.
 
+<a id="hidden-tower-emergency-satchel"></a>
 ## Hidden Tower Emergency Satchel
 
 **Type:** Find | **Threat:** None | **Delivers:** Scientific resupply + foreshadowing
@@ -19,6 +23,7 @@
 	- 1 Potion of Healing
 	- 1 field note about tremors, ley shifts, or early signs of collapse (Advantage on the first read of the obelisk if found before calibration)
 
+<a id="calibration"></a>
 ## Calibration
 
 Players calibrate [Vital-Density-Obelisk](../../../Items/Homebrew/Scientific-Equipment/Vital-Density-Obelisk.md).
@@ -49,6 +54,7 @@ Players get one round to act. No DC check. Advantage on the party's first progre
 
 > *When the read goes wrong, it goes wrong violently. The frame jerks, the shimmer tears sideways, and force spits from the crystal housing in a sharp flash that leaves the instrument humming with useless, furious energy.*
 
+<a id="end"></a>
 ## End
 
 [Political Turmoil](../scenes/50-vital-pulse.md)

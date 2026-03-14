@@ -1,15 +1,20 @@
 # Briar Hollow Investigations
 
+> **Quick Nav:** [Objective](#objective) | [Anomalies](#anomalies) | [The Silent Apiary](#the-silent-apiary) | [Grain Weighing Dispute](#grain-weighing-dispute) | [Blacksmith's Tool Crate](#blacksmiths-tool-crate) | [Leyline Compass](#leyline-compass) | [End](#end)
+
+<a id="objective"></a>
 ## Objective
 
 - Interview locals and record timelines of abnormalities.
 
+<a id="anomalies"></a>
 ## Anomalies
 
 **Who:** Farmer | **DC:** 10 Charisma
 
 >*We noticed the bees disappearing ~8 days ago*
 
+<a id="the-silent-apiary"></a>
 ## The Silent Apiary
 
 **Type:** Social + Investigation | **Threat:** None | **Skill Challenge:** 2 successes
@@ -48,6 +53,7 @@ If approached
 	- 1 Potion of Healing
 	- [common item roll](../tracker/item-tracker.md)
 
+<a id="grain-weighing-dispute"></a>
 ## Grain Weighing Dispute
 
 **Type:** Social + Investigation | **Threat:** None | **Skill Challenge:** 2 successes
@@ -66,6 +72,7 @@ If approached
 - Shoving match escalates. Militia intervenes harshly.
 - **Political Alignment:** Dagna +1 DC
 
+<a id="blacksmiths-tool-crate"></a>
 ## Blacksmith's Tool Crate
 
 **Type:** Trade or Theft | **Threat:** Low | **Delivers:** Practical survey gear
@@ -85,6 +92,7 @@ If approached
 	- 2 Flasks of Oil
 	- [common item roll](../tracker/item-tracker.md)
 
+<a id="leyline-compass"></a>
 ## Leyline Compass
 
 >*The leyline compass starts humming. It seems to be reacting to something.*
@@ -105,6 +113,7 @@ Players can use [Leyline Compass](../../../Items/Homebrew/Scientific-Equipment/L
 
 > *Over the course of the march, the compass keeps offering the same quiet warning. Every time it is opened, the lean has shifted a little more, subtle but unmistakable, like a scent picked up on the wind. By the time the pattern is clear, you are no longer just traveling through the frontier. You are walking its weakening edge.*
 
+<a id="end"></a>
 ## End
 
 Back to [Briar Hollow](../scenes/20-briar-hollow.md)

@@ -1,10 +1,14 @@
 # The River Checkpoint
 
+> **Quick Nav:** [Objective](#objective) | [Political Tension](#political-tension) | [Grain Seizure](#grain-seizure) | [Anomaly](#anomaly) | [Water Sample](#water-sample) | [River Checkpoint Lockbox](#river-checkpoint-lockbox) | [End](#end)
+
+<a id="objective"></a>
 ## Objective
 
 - Collect samples of river water. 
 - Interview locals and record timelines of abnormalities.
 
+<a id="political-tension"></a>
 ## Political Tension
 
 Two groups present here:
@@ -23,6 +27,7 @@ Two groups present here:
 
 - The militia is not unreasonable. Alric will listen to scientific results.
 
+<a id="grain-seizure"></a>
 ## Grain Seizure
 
 **Type:** Social + Investigation | **Threat:** Medium (mob + militia) | **Delivers:** Not contamination + Alric hook
@@ -54,12 +59,14 @@ This should be non combat encounter but in case players attack. This will be let
 - Party is refused entry. Go find refuge somewhere else.
 - **Political Alignment:** Alric +1 DC
 
+<a id="anomaly"></a>
 ## Anomaly
 
 **Who:** Fisherman | **DC:** 10 Charisma
 
 >*We noticed the fishes started thinning and disappearing roughly about ~6 days ago*
 
+<a id="water-sample"></a>
 ## Water Sample
 
 >*The river is flowing strong but and it looks very clear, unnaturally clear*
@@ -96,6 +103,7 @@ On failure, mark on the table:
 - Locals assume poison
 - **Science Points:** -1
 
+<a id="river-checkpoint-lockbox"></a>
 ## River Checkpoint Lockbox
 
 **Type:** Theft | **Threat:** Medium | **Delivers:** Early healing + proof of ration control
@@ -114,6 +122,7 @@ On failure, mark on the table:
 
 If the party steals it, increase suspicion around them. Apply **Political Alignment: Alric +1 DC** at minimum, or carry that hostility forward into later instability if the theft becomes public.
 
+<a id="end"></a>
 ## End
 
 Back to [Alieth River Bank](../scenes/10-alieth-river-bank.md)

@@ -1,5 +1,8 @@
 # The Forest Stalk
 
+> **Quick Nav:** [Introduction](#introduction) | [Objective](#objective) | [Wolf Encounter](#wolf-encounter) | [End](#end)
+
+<a id="introduction"></a>
 ## Introduction
 
 - DC 17 Perception or DC 15 Survival [Subtle]
@@ -12,10 +15,12 @@ You notice two wolf packs fighting each other mid-forest. Not for territory - fo
 
 You notice two wolf packs fighting each other mid-forest. Not for territory - for food. The packs look at you and immediately start charging. Roll for initiative.
 
+<a id="objective"></a>
 ## Objective
 
 - Survive the wolf attack.
 
+<a id="wolf-encounter"></a>
 ## Wolf Encounter
 
 **Type:** Combat | **Threat:** Deadly | **Skill Challenge:** Demoralize or defeat the wolves
@@ -33,6 +38,7 @@ Difficult combat encounter, at least 2 players down.
 
 - Successful checks here give a point of inspiration.
 
+<a id="end"></a>
 ## End
 
 [Whispering Woods](../scenes/40-whispering-woods.md)

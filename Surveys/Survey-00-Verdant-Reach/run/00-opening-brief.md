@@ -1,9 +1,13 @@
 # Opening Brief
 
+> **Quick Nav:** [Player Introduction](#player-introduction) | [Objective](#objective) | [Tower-Marked Equipment](#tower-marked-equipment) | [End](#end)
+
+<a id="player-introduction"></a>
 ## Player Introduction
 
 Let Players introduce themselves. Move this along quickly as they should not have any backstories.
 
+<a id="objective"></a>
 ## Objective
 
 Ask player what their objective is. Hint is in [Contract Handout](../handouts/contract.md)
@@ -15,6 +19,7 @@ Ask player what their objective is. Hint is in [Contract Handout](../handouts/co
 >- Interview locals and record timelines of abnormalities.
 >- Return with the obelisk core (intact if possible) and your notes.
 
+<a id="tower-marked-equipment"></a>
 ## Tower-Marked Equipment
 
 Inform Players that the scientific equipment has been manufactured for this Survey and entrusted to them.
@@ -27,6 +32,7 @@ Inform Players that the scientific equipment has been manufactured for this Surv
 
 Let them read while you narrate the next part.
 
+<a id="end"></a>
 ## End
 
 Back to [Start](../scenes/00-start.md)

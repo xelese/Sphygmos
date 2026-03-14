@@ -1,10 +1,14 @@
 # Whispering Woods Investigation
 
+> **Quick Nav:** [Objective](#objective) | [The Quiet Clearing](#the-quiet-clearing) | [Soil Sample](#soil-sample) | [Trapper's Forest Cache](#trappers-forest-cache) | [Hidden Path](#hidden-path) | [End](#end)
+
+<a id="objective"></a>
 ## Objective
 
 - Collect soil sample
 - Path to Briar Hollow
 
+<a id="the-quiet-clearing"></a>
 ## The Quiet Clearing
 
 **Type:** Environment | **Threat:** None | **Skill Challenge:** 1 success per stage
@@ -40,6 +44,7 @@ Run both simultaneously.
 
 **What you gather is that soil is extremely interesting here.**
 
+<a id="soil-sample"></a>
 ## Soil Sample
 
 Party can sample soil via challenge:
@@ -70,6 +75,7 @@ On failure, mark on the table:
 - Stain cross-reaction suggests toxin contamination
 - **Science Points:** -1
 
+<a id="trappers-forest-cache"></a>
 ## Trapper's Forest Cache
 
 **Type:** Find | **Threat:** None | **Delivers:** Nonmagical control tools + signs of human retreat
@@ -92,6 +98,7 @@ On failure, mark on the table:
 **Failure:**
 - A concealed trap snaps shut while the cache is being pulled free. The triggering creature takes **1d6 piercing damage** and is **restrained** until it or an adjacent creature uses an action to free it. However the cache is free to loot.
 
+<a id="hidden-path"></a>
 ## Hidden Path
 
 **Type:** Environment | **Threat:** None | **Skill Challenge:** 1 success
@@ -100,6 +107,7 @@ Party can determine a path to the village.
 
 - DC 12 Luck (Unless this is the only path then no DC)
 
+<a id="end"></a>
 ## End
 
 - [Whispering Woods - North](../scenes/40-whispering-woods.md)

@@ -1,17 +1,22 @@
 # Briar Hollow Political Instability
 
+> **Quick Nav:** [Objective](#objective) | [Science Points](#science-points) | [Tension 1 - "Who owns the grain?"](#tension-1-who-owns-the-grain) | [Tension 2 - "The father refuses evacuation"](#tension-2-the-father-refuses-evacuation) | [Tension 3 - "The records Spark"](#tension-3-the-records-spark) | [Tension 4 - "The Charter"](#tension-4-the-charter) | [End](#end)
+
+<a id="objective"></a>
 ## Objective
 
 - Resolve 3 tensions simultaneously, then decide the fate of the region in Tension 4.
 - DC increases or decreases based on political alignment + total Science Points.
 - Shorthand: AI = Alric, DI = Dagna, CH = Crowd Heat
 
+<a id="science-points"></a>
 ## Science Points
 
 - Apply the total as a flat modifier to this scene's DCs:
     - positive total: reduce DCs by that amount
     - negative total: increase DCs by that amount
 
+<a id="tension-1-who-owns-the-grain"></a>
 ## Tension 1 - "Who owns the grain?"
 
 **Type:** Social + Investigation | **Threat:** None | **Skill Challenge:** 1 successes
@@ -71,6 +76,7 @@ measure*
 - DI -1
 - CH -1
 
+<a id="tension-2-the-father-refuses-evacuation"></a>
 ## Tension 2 - "The father refuses evacuation"
 
 **Type:** Social + Investigation | **Threat:** None | **Skill Challenge:** 2 successes
@@ -110,6 +116,7 @@ Complication: A father refuses evacuation while panic surges.
 - Father refuses movement; nearby families freeze in place.
 - CH +1
 
+<a id="tension-3-the-records-spark"></a>
 ## Tension 3 - "The records Spark"
 
 **Type:** Social + Investigation | **Threat:** Medium (arson/sabotage) | **Skill Challenge:** 2 successes
@@ -147,6 +154,7 @@ Complication: Someone tries to destroy or steal ledgers/samples because Dagna's 
 - Immediate Dex save DC 14 for anyone adjacent or take 2d6 fire.
 - CH +2 and both harden: AI +1, DI +1.
 
+<a id="tension-4-the-charter"></a>
 ## Tension 4 - "The Charter"
 
 **Type:** Social + Command | **Threat:** High (alignment fracture) | **Skill Challenge:** 1 success
@@ -187,6 +195,7 @@ This round decides who the village follows.
 - Council fractures in public.
 - CH +1
 
+<a id="end"></a>
 ## End
 
 [Vital Pulse](../scenes/50-vital-pulse.md)

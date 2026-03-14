@@ -1,15 +1,19 @@
 # The Cataclysmic Pulse
 
+> **Quick Nav:** [Objective](#objective) | [Quick Setup](#quick-setup) | [GM Summary](#gm-summary) | [Win / Lose](#win-lose) | [Round Loop](#round-loop) | [Shelter Tokens](#shelter-tokens) | [Downed And Lost](#downed-and-lost) | [Pulse Timeline](#pulse-timeline) | [Round Details](#round-details) | [End](#end)
+
 > *The world turns hostile. Pressure becomes weight. Stone becomes teeth.*
 
 Escape the collapse before it swallows you.
 
+<a id="objective"></a>
 ## Objective
 
 - Escape the collapse before the Pulse swallows the party.
 
 **Type:** Environment | **Threat:** Lethal | **Skill Challenge:** **Shelter Clock (Earn up to 4 Shelter Tokens)** | **Duration:** Up to 8 rounds (DM discretion)
 
+<a id="quick-setup"></a>
 ## Quick Setup
 
 Before the first round, do all of the following:
@@ -20,6 +24,7 @@ Before the first round, do all of the following:
 
 ---
 
+<a id="gm-summary"></a>
 ## GM Summary
 
 - The Pulse lasts up to **8 rounds**.
@@ -30,6 +35,7 @@ Before the first round, do all of the following:
 
 ---
 
+<a id="win-lose"></a>
 ## Win / Lose
 
 ### Survive
@@ -46,6 +52,7 @@ A PC becomes **Lost** if any of the following occur:
 
 ---
 
+<a id="round-loop"></a>
 ## Round Loop
 
 Each round has **two layers**:
@@ -79,6 +86,7 @@ Other PCs can do one of the following:
 
 ---
 
+<a id="shelter-tokens"></a>
 ## Shelter Tokens
 
 **Spend 1 Shelter Token (any time during the round) to do ONE:**
@@ -89,6 +97,7 @@ Other PCs can do one of the following:
 
 ---
 
+<a id="downed-and-lost"></a>
 ## Downed And Lost
 
 If a PC drops to **0 HP** during the Pulse:
@@ -103,6 +112,7 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="pulse-timeline"></a>
 ## Pulse Timeline
 
 | Round | DC | Scene | Special Rule | Hazard Trigger |
@@ -118,8 +128,10 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="round-details"></a>
 ## Round Details
 
+<a id="round-1-pressure-shift-dc-10"></a>
 ## Round 1 - Pressure Shift (DC 10)
 **Scene:** The obelisk spikes violently; debris hammers the ground.
 
@@ -128,6 +140,7 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="round-2-ground-fracture-dc-11"></a>
 ## Round 2 - Ground Fracture (DC 11)
 **Scene:** Stone cracks; wells collapse; footing turns to sliding plates.
 
@@ -137,6 +150,7 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="round-3-neural-stress-dc-12"></a>
 ## Round 3 - Neural Stress (DC 12)
 **Scene:** Your nerves fire wrong. Structures feel like predators.
 
@@ -147,6 +161,7 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="round-4-metabolic-collapse-dc-13"></a>
 ## Round 4 - Metabolic Collapse (DC 13)
 **Scene:** Blood thickens. Breath becomes labor. Magic feels thin.
 
@@ -159,6 +174,7 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="round-5-vital-floor-breach-dc-14"></a>
 ## Round 5 - Vital Floor Breach (DC 14)
 **Scene:** The ground "takes" energy-like your body is paying a toll.
 
@@ -169,6 +185,7 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="round-6-grey-bloom-wave-dc-15"></a>
 ## Round 6 - Grey Bloom Wave (DC 15)
 **Scene:** A wave rolls through the area-air goes wrong, sound warps.
 
@@ -182,6 +199,7 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="round-7-aftershock-implosion-dc-16"></a>
 ## Round 7 - Aftershock Implosion (DC 16)
 **Scene:** A structure collapses inward like it's folding itself.
 
@@ -190,6 +208,7 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="round-8-total-collapse-dc-17"></a>
 ## Round 8 - Total Collapse (DC 17)
 **Scene:** The zone fails completely.
 
@@ -198,5 +217,6 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
+<a id="end"></a>
 ## End
 Continue to [Vital Pulse](../scenes/50-vital-pulse.md)

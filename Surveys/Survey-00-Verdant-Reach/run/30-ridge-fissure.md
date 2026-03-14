@@ -1,9 +1,13 @@
 # Ridge Fissure
 
+> **Quick Nav:** [Objective](#objective) | [Ridge Fissure](#ridge-fissure) | [End](#end)
+
+<a id="objective"></a>
 ## Objective
 
 - Survive the ridge fissure.
 
+<a id="ridge-fissure"></a>
 ## Ridge Fissure
 
 **Type:** Environment | **Threat:** Lethal | **Skill Challenge:** 3 successes
@@ -22,6 +26,7 @@
 **On 3 failures:**
 Major fracture -> Everyone takes 4d6 damage and falls (climbing required).
 
+<a id="end"></a>
 ## End
 
 [Granite Ridge](../scenes/30-granite-ridge.md)

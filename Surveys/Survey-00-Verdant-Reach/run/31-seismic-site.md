@@ -1,10 +1,14 @@
 # Seismic Site
 
+> **Quick Nav:** [Objective](#objective) | [Singing Stone](#singing-stone) | [Seismic Rod Placement](#seismic-rod-placement) | [Ridge Casualty Satchel](#ridge-casualty-satchel) | [Hidden Path](#hidden-path) | [End](#end)
+
+<a id="objective"></a>
 ## Objective
 
 - Seismic rod placement
 - Path to Briar Hollow
 
+<a id="singing-stone"></a>
 ## Singing Stone
 
 **Type:** Environment | **Threat:** Minor | **Skill Challenge:** 1 success
@@ -24,6 +28,7 @@ Micro-fracture erupts -> Dex DC 14 or take 2d6 slashing from stone shards.
 
 **Advantage** on locating the placement for Seismic Rods.
 
+<a id="seismic-rod-placement"></a>
 ## Seismic Rod Placement
 
 Party can determine the tremors via [Seismic-Resonance-Rods](../../../Items/Homebrew/Scientific-Equipment/Seismic-Resonance-Rods.md)
@@ -44,6 +49,7 @@ Note: may have **Advantage** on locating the placement for Seismic Rods.
 
 > *Once the wax caps are set and the ground has had a moment to settle, the array begins to whisper back. Tiny tremors score faint repeating marks into the wax, the crystal sleeves hum almost below hearing, and when the pattern lines up across more than one rod it stops looking like chance and starts looking like rhythm.*
 
+<a id="ridge-casualty-satchel"></a>
 ## Ridge Casualty Satchel
 
 **Type:** Find | **Threat:** None | **Delivers:** Fallback climbing gear
@@ -62,6 +68,7 @@ Note: may have **Advantage** on locating the placement for Seismic Rods.
 	- 1 Potion of Healing
 	- [common item roll](../tracker/item-tracker.md)
 
+<a id="hidden-path"></a>
 ## Hidden Path
 
 **Type:** Environment | **Threat:** None | **Skill Challenge:** 1 success
@@ -70,6 +77,7 @@ Party can determine a path to the village.
 
 - DC 12 Luck (Unless this is the only path then no DC)
 
+<a id="end"></a>
 ## End
 
 - [Granite Ridge](../scenes/30-granite-ridge.md)
