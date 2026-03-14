@@ -1,25 +1,16 @@
-<style>
-/* Step 5 page and everything after it */
-.page, .phb {
-  column-count: 1 !important;
-  column-gap: 0 !important;
-}
-</style>
-
 # Captain Alric Venn
 
-<div style="display:flex; gap:16px; align-items:flex-start; margin:12px 0;">
-  <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Alric_portrait.png" alt="Captain Alric Venn" width="180" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Alric_portrait.png" alt="Captain Alric Venn" width="180" style="border-radius:8px;" />
 
-{{note
-  <strong>Captain Alric Venn</strong><br/><br/>
-  <strong>Role:</strong> Militia captain of Briar Hollow<br/><br/>
-  <strong>Voice:</strong> Commanding, tired, protective, edged by grief<br/><br/>
-  <strong>First Impression:</strong> Charismatic but tense. Protective of his people. Skeptical of Tower promises.<br/><br/>
-  <strong>Hidden Depth:</strong> Alric has lost two children to stillbirth in the past few days. He believes something is poisoning the future. His aggression is grief wearing armor.
-}}
-
-</div>
+> **Captain Alric Venn**
+>
+> **Role:** Militia captain of Briar Hollow
+>
+> **Voice:** Commanding, tired, protective, edged by grief
+>
+> **First Impression:** Charismatic but tense. Protective of his people. Skeptical of Tower promises.
+>
+> **Hidden Depth:** Alric has lost two children to stillbirth in the past few days. He believes something is poisoning the future. His aggression is grief wearing armor.
 
 ### Who is He?
 

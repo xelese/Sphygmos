@@ -1,25 +1,16 @@
-<style>
-/* Step 5 page and everything after it */
-.page, .phb {
-  column-count: 1 !important;
-  column-gap: 0 !important;
-}
-</style>
-
 # Seraphine Ilyra
 
-<div style="display:flex; gap:16px; align-items:flex-start; margin:12px 0;">
-  <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Seraphine_portrait.png" alt="Seraphine Ilyra" width="180" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Seraphine_portrait.png" alt="Seraphine Ilyra" width="180" style="border-radius:8px;" />
 
-{{note  
-<strong>Seraphine Ilyra</strong><br/><br/>
-<strong>Role:</strong> Tower Field Scholar<br/><br/>
-<strong>Voice:</strong> Precise, measured, intellectually hungry<br/><br/>
-<strong>First Impression:</strong> Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.<br/><br/>
-<strong>Hidden Depth:</strong> She already suspects the source is subterranean. She does not share this fully at first. She wants proof.
-}}
-
-</div>
+> **Seraphine Ilyra**
+>
+> **Role:** Tower Field Scholar
+>
+> **Voice:** Precise, measured, intellectually hungry
+>
+> **First Impression:** Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.
+>
+> **Hidden Depth:** She already suspects the source is subterranean. She does not share this fully at first. She wants proof.
 
 ### Who is she?
 

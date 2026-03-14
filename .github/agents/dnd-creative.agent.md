@@ -14,8 +14,8 @@ When working inside a workspace with existing campaign files, read them first to
 Design location-based scene cards with:
 - A top-level heading (`#`) for the location name
 - **Type** and **Goal** summary line
-- NPC panels using the HTML flexbox format (see Formatting section)
-- Read-aloud flavor text in `{{descriptive}}` blocks (see Formatting section)
+- NPC panels with image and blockquote (see Formatting section)
+- Read-aloud flavor text in blockquotes (see Formatting section)
 - Navigation links to related scene cards, GM run sheets, or handouts
 - Branching paths or decision points for player agency
 
@@ -41,17 +41,16 @@ Design items with awareness of GM/Player version splits:
 - **Player version:** Describes appearance, flavor, and structured skill challenge steps (Test A, B, C format with skill checks and Success / Strong Success outcomes). No DCs or hidden mechanics.
 - **GM version:** Includes DC values, hidden outcomes, failure consequences, and narrative implications the GM controls.
 - Use tables for index scales, condition tiers, or result matrices.
-- Wrap purpose and description in `{{note ... }}` blocks when using Homebrewery/GMBinder formatting.
+- Wrap purpose and description in blockquotes.
 
 ### Read-Aloud Flavor Text & GM Narration
 
 Write immersive read-aloud passages using:
-- `{{descriptive}}` block format — the tan/parchment boxed text from published D&D adventures
+- Blockquote (`>`) format with italic text
 - Sensory-first writing — ground the reader in what they see, hear, and feel before revealing meaning
 - Short, rhythmic sentences for tension; longer flowing prose for beauty or calm
 - End with a pause beat or unanswered question to invite player response
-- Keep `*italic markers*` inside — `{{descriptive}}` does not auto-italicize text
-- Insert a standalone `:` line between prose paragraphs when a visible paragraph break is needed in Homebrewery/GMBinder
+- Use `*italic markers*` inside blockquotes for read-aloud text
 - Separate GM-only narration notes from player-facing read-aloud text
 
 ### Image Prompts
@@ -83,8 +82,7 @@ Create in-world documents with:
 - In-character voice — written as if by an NPC or organization, not the GM
 - Clear structure: assignment, payment, rules, signature line
 - Personality and tone that reflect the issuing faction (bureaucratic, casual, threatening, etc.)
-- Use `:` on its own line for spacing or visual separation where helpful
-- Use `\column` to separate columns and `\page` to separate pages in Homebrewery/GMBinder output
+- Use `---` (horizontal rule) for major section breaks where helpful
 
 ### Survey Planning & Plot Arcs
 
@@ -97,77 +95,51 @@ Help structure surveys, sessions, and arcs with:
 
 ## Markdown Formatting Conventions
 
-Follow these conventions when creating or editing campaign documents:
+Follow these conventions when creating or editing campaign documents. Use simple GitHub-flavored Markdown only — no Homebrewery, GMBinder, or Dungeons & Markdown syntax.
 
 **Headings:** Use standard markdown (`#`, `##`, `###`) for document structure.
 
-**Read-aloud / flavor text:** Use `{{descriptive ... }}` for GM read-aloud passages, NPC dialogue delivered to players, environmental reveals, and "What do you do?" beats. Renders as the tan/parchment boxed text from published D&D adventures:
+**Read-aloud / flavor text:** Use blockquotes (`>`) with italic text for GM read-aloud passages, NPC dialogue delivered to players, environmental reveals, and "What do you do?" beats:
 ```markdown
-{{descriptive
-*The wind carries the scent of wet stone and something faintly metallic...*
-}}
-```
-Keep `*italic markers*` inside — `{{descriptive}}` does not auto-italicize text. Do NOT use `>` blockquotes for read-aloud text — they render as black boxes in Dungeons & Markdown.
-
-**NPC panels:** Use inline HTML flexbox with portrait image:
-```html
-<div style="display:flex; gap:16px; align-items:flex-start; margin:12px 0;">
-  <img src="[path]" alt="[Name]" width="180" style="border-radius:8px;" />
-  <div style="flex:1; border:1px solid #6664; border-radius:8px; padding:10px 12px;">
-    <strong>[NPC Name]</strong><br/><br/>
-    <strong>First Impression:</strong> [description]<br/><br/>
-    <strong>Hidden Depth:</strong> [description]
-  </div>
-</div>
+> *The wind carries the scent of wet stone and something faintly metallic...*
 ```
 
-**Important points / rules callouts:** Use `{{note ... }}` blocks for key rules, mechanics, and GM-facing information:
+**NPC panels:** Use an `<img>` tag for the portrait followed by a blockquote with bold labels:
 ```markdown
-{{note
-Important rule or callout text here.
-}}
+<img src="[path]" alt="[Name]" width="180" style="border-radius:8px;" />
+
+> **[NPC Name]**
+>
+> **Role:** [role]
+>
+> **Voice:** [voice notes]
+>
+> **First Impression:** [description]
+>
+> **Hidden Depth:** [description]
 ```
 
-**Examples (purple box):** Use `{{note,text-align:left,background:#aa88aa55 ... }}` for examples, play scenarios, and illustrative text:
+**Important points / rules callouts:** Use blockquotes:
 ```markdown
-{{note,text-align:left,background:#aa88aa55
-**Example**
-:
-Descriptive example text here.
-}}
+> Important rule or callout text here.
+```
+
+**Examples:** Use blockquotes with a bold **Example** header:
+```markdown
+> **Example**
+>
+> Descriptive example text here.
 ```
 
 **Tables:** Standard markdown tables with visual alignment.
 
-**Images:** HTML `<img>` tags with inline styling (`width`, `border-radius: 8px`).
+**Images:** Use `![alt](url)` for standalone images. Use `<img>` tags when sizing (`width`) is needed.
 
 **Links:** Markdown links with relative paths. URL-encode spaces: `GM%20Run%20sheet`.
 
 **Emphasis:** `**Bold**` for structural labels (First Impression, Hidden Depth, Purpose, etc.).
 
-**Spacing:** Use `:` on its own line for spacing or visual separation. Insert one between prose paragraphs whenever you want Homebrewery/GMBinder to preserve a visible paragraph break. Do not use it as a substitute for actual column or page breaks.
-
-**Homebrewery/GMBinder layout:** Use `\column` to separate columns. Use `\page` only when content does not fit on the current page and must continue onto the next page.
-
-**Single-column layout (scoped):** To force single-column layout from a specific page onward, place a `<style>` block at the top of that page using `nth-of-type(n+N)` where N is the 1-based page number:
-```html
-<style>
-.page:nth-of-type(n+3),
-.phb:nth-of-type(n+3) {
-  column-count: 1 !important;
-  column-gap: 0 !important;
-}
-</style>
-```
-To force single-column for the **entire document** (e.g., short or sparse documents), use the unscoped version:
-```html
-<style>
-.page, .phb {
-  column-count: 1 !important;
-  column-gap: 0 !important;
-}
-</style>
-```
+**Section breaks:** Use `---` (horizontal rule) for major section breaks.
 
 ## Constraints
 

@@ -1,10 +1,8 @@
 # The Vital Gradient Collapse
 
-{{note
-- **Core Premise:** Life depends on an invisible planetary field called the Vital Gradient.
-- **What It Is:** The ecological current that allows biological complexity, recovery, and stable magic.
-- **What Is Going Wrong:** The system is weakening, destabilizing, and releasing stored pressure in catastrophic pulses.
-}}
+> - **Core Premise:** Life depends on an invisible planetary field called the Vital Gradient.
+> - **What It Is:** The ecological current that allows biological complexity, recovery, and stable magic.
+> - **What Is Going Wrong:** The system is weakening, destabilizing, and releasing stored pressure in catastrophic pulses.
 
 Life on this world depends on an invisible planetary field. Scholars call it the Vital Gradient. It is not exactly magic, though magic relies on it. It is not divine. It is the environmental and biological current that lets complex life persist:
 
@@ -59,9 +57,7 @@ Exploration here should feel like walking across an abandoned operating table.
 
 ## Player-Facing Knowledge
 
-{{note
-Use this section when players ask what people know about the collapse, what their characters have heard, or what they can infer from the world without learning the full truth.
-}}
+> Use this section when players ask what people know about the collapse, what their characters have heard, or what they can infer from the world without learning the full truth.
 
 ### What Ordinary People Know
 
@@ -85,8 +81,7 @@ They describe the collapse through symptoms, superstition, and local stories.
 
 This tier works well for practical characters who live close to the land.
 
-\page
-
+---
 ### What Arcanists and Tower Scholars Suspect
 
 - Magic is entangled with the phenomenon.
@@ -149,12 +144,10 @@ After each Pulse:
 - Aggression spikes in newly Unstable zones.
 - Suicide rises quietly in the places no one is watching.
 
-{{note
-- **Campaign Pressure:** After each Pulse, a region already in Strained or worse is at risk of civic breakdown.
-- **Common Outcomes:** Resource contributions drop, leaders blame the Tower, and factions form around fear, scarcity, or local protection.
-- **Escalation Point:** Once a region reaches Grey Bloom, outside support may stop entirely unless the players intervene.
-- **Practical Tempo:** Two surveys should feel like a countdown clock between major deterioration events.
-}}
+> - **Campaign Pressure:** After each Pulse, a region already in Strained or worse is at risk of civic breakdown.
+> - **Common Outcomes:** Resource contributions drop, leaders blame the Tower, and factions form around fear, scarcity, or local protection.
+> - **Escalation Point:** Once a region reaches Grey Bloom, outside support may stop entirely unless the players intervene.
+> - **Practical Tempo:** Two surveys should feel like a countdown clock between major deterioration events.
 
 ### What Investigators May Eventually Learn
 
@@ -164,8 +157,7 @@ After each Pulse:
 - This cycle appears to be accelerating.
 - Many scholars suspect civilization itself has pushed the system past a natural threshold.
 
-\page
-
+---
 ## GM-Only Ground Truth
 
 Everything below this point is full-spoiler material.
@@ -286,8 +278,7 @@ Not dead.
 
 Disconnected.
 
-\page
-
+---
 ## GM-Only Stabilization
 
 ### The Harmonic Counter-Oscillator
@@ -341,8 +332,7 @@ The living conduit must make the micro-phase adjustments instinctively.
 
 Without that adaptive correction, phase drift becomes catastrophic amplification.
 
-\column
-
+---
 ### Activation Sequence
 
 To stabilize the system:

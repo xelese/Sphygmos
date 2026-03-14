@@ -2,10 +2,8 @@
 
 <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Vital-Density-Obelisk.png" alt="Vital Density Obelisk" style="width:100%; border-radius:8px; margin:8px 0;" />
 
-{{note
-- **Purpose:** Measure regional Vital potential, produce a waveform, and help predict next Pulse timing.
-- **Description:** *A waist-high brass obelisk with a crystal core and anchor struts. When powered, it projects a faint waveform shimmer.*
-}}
+> - **Purpose:** Measure regional Vital potential, produce a waveform, and help predict next Pulse timing.
+> - **Description:** *A waist-high brass obelisk with a crystal core and anchor struts. When powered, it projects a faint waveform shimmer.*
 
 ## Player Reference
 
@@ -23,8 +21,7 @@ Each check represents about 1 minute of calibration.
 - **Strength:** Stabilize during vibration.
 - **Wisdom:** Compensate for soil instability.
 
-\page
-
+---
 ## GM Reference
 
 ### Structured Skill Challenge

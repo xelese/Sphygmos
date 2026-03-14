@@ -1,50 +1,31 @@
-<style>
-/* Step 5 page and everything after it */
-.page, .phb {
-  column-count: 1 !important;
-  column-gap: 0 !important;
-}
-</style>
-
 # Verdant Reach
 
-<div style="margin:12px 0;">
-  <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Verdant%20Reach.png" alt="The Verdant Reach" width="900" style="border-radius:8px; display:block;" />
-</div>
+![The Verdant Reach](https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Verdant%20Reach.png)
 
-{{descriptive
-*The Verdant Reach looks prosperous first and wrong second. Amber fields still bend around irrigation canals, the River Alieth still catches the light like worked silver, and old wind-towers still turn above the grain. But the place sounds underpopulated by life. Too few insects. Birdsong with too much distance between calls. Every healthy surface sits over a quiet that feels structural rather than seasonal.*
-}}
+> *The Verdant Reach looks prosperous first and wrong second. Amber fields still bend around irrigation canals, the River Alieth still catches the light like worked silver, and old wind-towers still turn above the grain. But the place sounds underpopulated by life. Too few insects. Birdsong with too much distance between calls. Every healthy surface sits over a quiet that feels structural rather than seasonal.*
 
 ## Region Overview
 
 The Verdant Reach is a productive basin shaped by the River Alieth, old farming roads, and a buried spine of granite ridges under the soil. It was built to feel dependable: low-magic agriculture, measured yields, practical trade, and enough river access to keep several settlements linked by wagon and ferry.
 
-:
 
 Historically, the Reach has been one of the High Tower's most dependable food-producing regions. Its reputation comes from restraint rather than abundance; people here trust soil records, irrigation schedules, and seasonal labor more than spectacle.
 
-:
 
 Now that same discipline has curdled into defensive scarcity. Bees have gone quiet. Fish grow thin without obvious contamination. Tremors run through the ridge line in rhythmic intervals. Neighbors have begun treating one another like future thieves.
 
-\page
-
+---
 ## Cities Towns and Settlements
 
 ### Briar Hollow
 
-{{note
-**Type:** Farming village and administrative hub
-}}
+> **Type:** Farming village and administrative hub
 
 Briar Hollow is the settlement most likely to define the party's understanding of the Reach. It is small, practical, and organized around grain, ledgers, trade, and survival decisions that have recently turned mean.
 
-:
 
 What players notice first is preparation for trouble rather than visible ruin: whispered arguments, reinforced doors, silent hives, carts packed before any formal evacuation order, and tradesfolk turning from craft to utility.
 
-:
 
 What the village reveals over time is that collapse here expresses itself socially before it becomes spectacular. The people of Briar Hollow are still functioning. They are measuring one another for weakness while they do it.
 

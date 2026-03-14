@@ -2,10 +2,8 @@
 
 <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Aqua-Vital-Assay-Kit.png" alt="Aqua-Vital Assay Kit" style="width:100%; border-radius:8px; margin:8px 0;" />
 
-{{note
-- **Purpose:** Test river health and identify whether collapse is happening at the smallest living level in water.
-- **Description:** *A field filter cone with three reagent vials (clarifier, oxygen froth, vital stain), a glass float hydrometer, and a wax-sealed sample tube.*
-}}
+> - **Purpose:** Test river health and identify whether collapse is happening at the smallest living level in water.
+> - **Description:** *A field filter cone with three reagent vials (clarifier, oxygen froth, vital stain), a glass float hydrometer, and a wax-sealed sample tube.*
 
 ## Player Reference
 
@@ -25,8 +23,7 @@ Run three tests in sequence.
   - **Success:** Oxygen can read as normal even when life is thinning.
   - **Strong Success:** Estimate fish stress risk.
 
-\column
-
+---
 #### Test C - Micro-fauna / Plankton Viability
 - Requires two samples: surface + 3-6 feet depth.
 - Nature + Medicine (or Nature + Arcana for an Arcanist)
@@ -44,8 +41,7 @@ Run three tests in sequence.
 | 1 | Rare cysts/spores only |
 | 0 | Functional sterility / ecological death |
 
-\page
-
+---
 ## GM Reference
 
 ### Structured Skill Challenge

@@ -2,11 +2,9 @@
 
 <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Leyline-Compass.png" alt="Leyline Compass" style="width:100%; border-radius:8px; margin:8px 0;" />
 
-{{note
-- **Purpose:** Detect shifting Vital/ley stress and help identify the next region likely to degrade.
-- **Item Type:** Wondrous item, uncommon, requires attunement.
-- **Description:** *A crystal-needle compass that leans with hidden flow. During major tremors, it may spin and lock to a new bearing.*
-}}
+> - **Purpose:** Detect shifting Vital/ley stress and help identify the next region likely to degrade.
+> - **Item Type:** Wondrous item, uncommon, requires attunement.
+> - **Description:** *A crystal-needle compass that leans with hidden flow. During major tremors, it may spin and lock to a new bearing.*
 
 ## Player Reference
 
@@ -15,8 +13,7 @@
 - Near active ley flow, the needle leans toward the strongest direction.
 - In stressed regions, tremors can make the needle twitch.
 
-\column
-
+---
 ### Active Reads
 
 #### Baseline Sweep
@@ -40,8 +37,7 @@
 - Helps pick safer routes.
 - Helps narrow where the next frontier may fail.
 
-\page
-
+---
 ## GM Reference
 
 ### Passive Behavior (While Attuned)

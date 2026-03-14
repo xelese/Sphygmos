@@ -1,10 +1,8 @@
 # Resting
 
-:
 
 This module makes Long Rests uncertain, resource-dependent, and shaped by the Collapse Wheel. The goal is not to punish travel. The goal is to make shelter, supplies, campcraft, and safe territory matter.
 
-:
 
 ### Core Rest Rule
 
@@ -12,7 +10,7 @@ To attempt a **Long Rest**, each character must have all of the following:
 - A place where sleep is reasonably possible
 - A camp, shelter, or defensible resting position
 
-:
+
 If any of those are missing, that character cannot gain a **Full Long Rest**.
 
 ### What Players Should Know
@@ -46,8 +44,7 @@ If the party rests in a Safe Haven and spends the required food and water, they 
 
 If the refuge is under siege, panic, fire, sabotage, or active threat, stop treating it as a Safe Haven and use the region's actual Collapse Wheel state instead.
 
-\column
-
+---
 ### Harsh Scarcity Option
 
 For particularly hostile stretches of travel, increase the cost of rest.
@@ -60,8 +57,7 @@ Examples:
 
 Use this for severe travel segments, not every night.
 
-\page
-
+---
 ## GM Quick Guide
 
 ### Step 1: Set the Rest Context
@@ -88,8 +84,7 @@ Allow  **camp actions** as necessary before the rest is resolved. Each successfu
 | How are you handling food and water? | Medicine, Nature, Herbalism Kit | The party reduces spoilage, contamination, or sickness risk. |
 | What gear, magic, or field tools are you using? | Arcana, Nature, Tower gear, scientific equipment | The camp better resists pulses, whispers, or environmental wrongness. |
 
-\column
-
+---
 ### Step 3: Award Camp Points Secretly
 
 Use Camp Points to measure how well the party prepared the camp.
@@ -117,27 +112,14 @@ Use Camp Points to measure how well the party prepared the camp.
 
 Minimum Camp Points after penalties is 0.
 
-\page
-
-<style>
-/* Step 5 page and everything after it */
-.page:nth-of-type(n+3),
-.phb:nth-of-type(n+3) {
-  column-count: 1 !important;
-  column-gap: 0 !important;
-}
-</style>
-
+---
 ### Step 4: Resolve the Night
 
-::
-{{note
-If a character lacks the required ration or clean water, cap that character's best possible result at:
 
-- **Strained Long Rest** in Safe Haven, Stable, or Strained regions
-- **Poor Rest** in Unstable, Grey Bloom, or Dormant regions
-}}
-:
+> If a character lacks the required ration or clean water, cap that character's best possible result at:
+>
+> - **Strained Long Rest** in Safe Haven, Stable, or Strained regions
+> - **Poor Rest** in Unstable, Grey Bloom, or Dormant regions
 
 Use total Camp Points and the region's current state.
 

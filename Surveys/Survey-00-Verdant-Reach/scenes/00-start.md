@@ -6,15 +6,15 @@
 
 Read Opening World Introduction.
 
-<div style="display:flex; gap:16px; align-items:flex-start; margin:12px 0;">
-  <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Seraphine_portrait.png" alt="Seraphine" width="180" style="border-radius:8px;" />
-  <div style="flex:1; border:1px solid #6664; border-radius:8px; padding:10px 12px;">
-    <strong>Seraphine Ilyra</strong><br/><br/>
-    <strong>First Impression:</strong> Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.<br/><br/>
-    <strong>Hidden Depth:</strong> She already suspects the source is subterranean. She does not share this fully at first. She wants proof.<br/><br/>
-    <a href="../../../NPCs/Seraphine-Ilyra.md">Full profile</a>
-  </div>
-</div>
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Seraphine_portrait.png" alt="Seraphine" width="180" style="border-radius:8px;" />
+
+> **Seraphine Ilyra**
+>
+> **First Impression:** Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.
+>
+> **Hidden Depth:** She already suspects the source is subterranean. She does not share this fully at first. She wants proof.
+>
+> [Full profile](../../../NPCs/Seraphine-Ilyra.md)
 
 ## Read-Aloud
 
@@ -31,16 +31,17 @@ Run [Opening Brief](../run/00-opening-brief.md)
 
 ## Location
 
-<div style="margin:12px 0;">
-    <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Verdant Reach.png" alt="The Verdant Reach" width="800" style="border-radius:8px; display:block;" />
-    <div style="margin-top:12px; border:1px solid #6664; border-radius:8px; padding:10px 12px;">
-        <strong>The Verdant Reach</strong><br/>
-        Distance from High Tower: 2 days by caravan <br/><br/>
-        Biome: River-fed agricultural basin bordered by old-growth forest and low granite ridges <br/><br/>
-    Current State: Unstable (about to become Grey Bloom)<br/><br/>
-    <a href="../../../Locations/Verdant-Reach.md">Full regional profile</a>
-    </div>
-</div>
+![The Verdant Reach](https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Verdant Reach.png)
+
+**The Verdant Reach**
+
+Distance from High Tower: 2 days by caravan
+
+Biome: River-fed agricultural basin bordered by old-growth forest and low granite ridges
+
+Current State: Unstable (about to become Grey Bloom)
+
+[Full regional profile](../../../Locations/Verdant-Reach.md)
 
 ### Read-Aloud
 

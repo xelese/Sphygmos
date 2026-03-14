@@ -1,10 +1,8 @@
 # The Collapse Wheel
 
-{{note
-- **Purpose:** Track how collapse spreads from region to region over time.
-- **Default Pace:** Each state lasts about 4 days before the next threshold becomes possible.
-- **GM Use:** Advance the wheel after each survey, then decide exactly when the next Pulse pushes a region over the line.
-}}
+> - **Purpose:** Track how collapse spreads from region to region over time.
+> - **Default Pace:** Each state lasts about 4 days before the next threshold becomes possible.
+> - **GM Use:** Advance the wheel after each survey, then decide exactly when the next Pulse pushes a region over the line.
 
 ## How the Wheel Works
 
@@ -20,9 +18,7 @@ Each state usually lasts about 4 days.
 
 After that, the region becomes eligible to tip into the next state whenever a Pulse, survey result, or narrative trigger pushes it forward.
 
-{{note
-If a region is on day 14, it is already in the Grey Bloom window. You do not need to wait until day 16 exactly. The Pulse can push it over at any point in that span if the timing feels right.
-}}
+> If a region is on day 14, it is already in the Grey Bloom window. You do not need to wait until day 16 exactly. The Pulse can push it over at any point in that span if the timing feels right.
 
 ## How the Wheel Advances
 
@@ -41,8 +37,7 @@ They can slow specific outcomes.
 
 They cannot stop the wheel outright.
 
-\column
-
+---
 ## What Each State Feels Like
 
 ### Stable

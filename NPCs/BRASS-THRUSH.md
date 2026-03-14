@@ -1,25 +1,16 @@
-<style>
-/* Step 5 page and everything after it */
-.page, .phb {
-  column-count: 1 !important;
-  column-gap: 0 !important;
-}
-</style>
-
 # T.H.R.U.S.H (Tower Heuristic Resupply Unit for Survey Haulage)
 
-<div style="display:flex; gap:16px; align-items:flex-start; margin:12px 0;">
 <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Thrush.png" alt="THRUSH" width="180" style="border-radius:8px;" />
 
-{{note
-<strong>T.H.R.U.S.H (Tower Heuristic Resupply Unit for Survey Haulage)</strong><br/><br/>
-<strong>Role:</strong> Tower survey quartermaster<br/><br/>
-<strong>Voice:</strong> Adorable machine noises delivered with hostile-accountant energy<br/><br/>
-<strong>First Impression:</strong> A rail-gliding Tower automaton with polished brass fittings, lens shutters, and drawers full of immaculate field supplies. It sounds almost cute until it starts judging the state of your gear, your paperwork, and your priorities.<br/><br/>
-<strong>Hidden Depth:</strong> T.H.R.U.S.H is stricter than most people, but not colder. It has a soft spot for exhausted survey teams, quietly prioritizes survival over heroics, and begins reacting to Pulse precursors before most living staff realize anything is wrong.
-}}
-
-</div>
+> **T.H.R.U.S.H (Tower Heuristic Resupply Unit for Survey Haulage)**
+>
+> **Role:** Tower survey quartermaster
+>
+> **Voice:** Adorable machine noises delivered with hostile-accountant energy
+>
+> **First Impression:** A rail-gliding Tower automaton with polished brass fittings, lens shutters, and drawers full of immaculate field supplies. It sounds almost cute until it starts judging the state of your gear, your paperwork, and your priorities.
+>
+> **Hidden Depth:** T.H.R.U.S.H is stricter than most people, but not colder. It has a soft spot for exhausted survey teams, quietly prioritizes survival over heroics, and begins reacting to Pulse precursors before most living staff realize anything is wrong.
 
 ### What is it?
 

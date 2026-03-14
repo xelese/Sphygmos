@@ -47,8 +47,7 @@ To reinforce the setting’s tone:
 | Torch | 1 cp | Cheap backup lighting |
 | Tinderbox | 5 sp | Basic necessity |
 
-\column
-
+---
 ### Specialist Kits and Tools
 
 These are standard kits, tools, and trade supplies that may be available before a survey, especially in well-supplied settlements or Tower-connected markets.
@@ -79,8 +78,7 @@ These are standard kits, tools, and trade supplies that may be available before 
 | Weaver's Tools | 1 gp | Useful for mending cloth, tents, wraps, and bandages |
 | Woodcarver's Tools | 1 gp | Useful for stakes, markers, pegs, and simple field shaping |
 
-\page
-
+---
 ### Tower Supplies
 
 These are homebrew items intended to support the campaign’s scientific equipment and fieldwork.

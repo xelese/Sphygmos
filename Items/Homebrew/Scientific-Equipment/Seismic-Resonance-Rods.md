@@ -2,10 +2,8 @@
 
 <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Seismic-Resonance-Rods.png" alt="Seismic Resonance Rods" style="width:100%; border-radius:8px; margin:8px 0;" />
 
-{{note
-- **Purpose:** Measure subsurface oscillation and prove tremors are periodic.
-- **Description:** *Three iron rods (18-24 inches) with crystal reed sleeves and etched tick-marks. When planted, micro-vibration patterns imprint into wax caps.*
-}}
+> - **Purpose:** Measure subsurface oscillation and prove tremors are periodic.
+> - **Description:** *Three iron rods (18-24 inches) with crystal reed sleeves and etched tick-marks. When planted, micro-vibration patterns imprint into wax caps.*
 
 ## Player Reference
 
@@ -29,8 +27,7 @@ Players plant 3 rods as a triangle.
 - **2 rods:** Confirms rhythmic interval.
 - **1 rod:** Confirms activity, but not full periodicity.
 
-\page
-
+---
 ## GM Reference
 
 ### Structured Skill Challenge

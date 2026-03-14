@@ -14,15 +14,15 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#alieth-r
 
 ## The River Checkpoint
 
-<div style="display:flex; gap:16px; align-items:flex-start; margin:12px 0;">
-  <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Alric_portrait.png" alt="Alric" width="180" style="border-radius:8px;" />
-  <div style="flex:1; border:1px solid #6664; border-radius:8px; padding:10px 12px;">
-    <strong>Captain Alric Venn</strong><br/><br/>
-    <strong>First Impression:</strong> Charismatic but tense. Protective of his people. Skeptical of Tower promises.<br/><br/>
-    <strong>Hidden Depth: </strong>Alric has lost two children to stillbirth in the past few days. He believes something is poisoning the future. His aggression is grief wearing armor.<br/><br/>
-     <a href="../../../NPCs/Captain-Alric-Venn.md">Full profile</a>
-  </div>
-</div>
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Alric_portrait.png" alt="Alric" width="180" style="border-radius:8px;" />
+
+> **Captain Alric Venn**
+>
+> **First Impression:** Charismatic but tense. Protective of his people. Skeptical of Tower promises.
+>
+> **Hidden Depth: **Alric has lost two children to stillbirth in the past few days. He believes something is poisoning the future. His aggression is grief wearing armor.
+>
+> [Full profile](../../../NPCs/Captain-Alric-Venn.md)
 
 ### Read-Aloud
 

@@ -2,10 +2,8 @@
 
 <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Soil-Micro-Lense-Kit.png" alt="Soil Micro-Lense Kit" style="width:100%; border-radius:8px; margin:8px 0;" />
 
-{{note
-- **Purpose:** Detect and stage microbial collapse in soil; determine whether extinction is bottom-up or toxin-based.
-- **Description:** *A brass fold-microscope with arcane focusing crystal, stain ampoules, slide plates, a depth-auger, and a viability clock that counts how long a sample remains readable.*
-}}
+> - **Purpose:** Detect and stage microbial collapse in soil; determine whether extinction is bottom-up or toxin-based.
+> - **Description:** *A brass fold-microscope with arcane focusing crystal, stain ampoules, slide plates, a depth-auger, and a viability clock that counts how long a sample remains readable.*
 
 ## Player Reference
 
@@ -35,8 +33,7 @@ One PC rolls Nature, and a second rolls Medicine or Survival, or one PC rolls bo
 | 1 | Only rare cysts or spores remain |
 | 0 | Dormant / ecological death |
 
-\page
-
+---
 ## GM Reference
 
 ### Structured Skill Challenge

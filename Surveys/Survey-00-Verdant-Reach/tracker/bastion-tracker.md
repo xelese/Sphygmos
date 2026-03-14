@@ -1,18 +1,9 @@
-<style>
-.page, .phb {
-  column-count: 1 !important;
-  column-gap: 0 !important;
-}
-</style>
-
 # Bastion Tracker
 
-{{note
-- **Starting Level:** 4
-- **Current SP:** 2
-- **Next Level At:** 6 SP
-- **Full Rules:** [Bastion Rules](../Core-Rules/Bastion.md)
-}}
+> - **Starting Level:** 4
+> - **Current SP:** 2
+> - **Next Level At:** 6 SP
+> - **Full Rules:** [Bastion Rules](../Core-Rules/Bastion.md)
 
 ### Wing Status
 
