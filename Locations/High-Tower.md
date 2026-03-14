@@ -30,7 +30,7 @@ The counter is a long slab of scarred wood darkened by oil, soot, ink, and years
 Overall, the shop feels procedural, severe, and dependable. This is where expeditions are measured, not inspired. People come here before going into dangerous places. They leave with rope, instruments, sealed cases, warnings, and the uncomfortable sense that the Tower has already calculated the odds.
 
 
-T.H.R.U.S.H resides here.
+[T.H.R.U.S.H](../NPCs/BRASS-THRUSH.md) resides here.
 
 ---
 ### Research Wing
