@@ -1,6 +1,6 @@
 # Briar Hollow Political Instability
 
-> **Quick Nav:** [Objective](#objective) | [Science Points](#science-points) | [Tension 1 - "Who owns the grain?"](#tension-1-who-owns-the-grain) | [Tension 2 - "The father refuses evacuation"](#tension-2-the-father-refuses-evacuation) | [Tension 3 - "The records Spark"](#tension-3-the-records-spark) | [Tension 4 - "The Charter"](#tension-4-the-charter) | [End](#end)
+> **Quick Nav:** [Objective](#objective) | [Science Points](#science-points) | [Tension 1 - "Who owns the grain?"](#tension-1-who-owns-the-grain) | [Tension 2 - "The father refuses evacuation"](#tension-2-the-father-refuses-evacuation) | [Tension 3 - "The records Spark"](#tension-3-the-records-spark) | [Tension 4 - "The Charter"](#tension-4-the-charter) | [Outcomes](#outcomes) | [End](#end)
 
 <a id="objective"></a>
 ## Objective
@@ -194,6 +194,94 @@ This round decides who the village follows.
 
 - Council fractures in public.
 - CH +1
+
+<a id="outcomes"></a>
+## Outcomes
+
+### Both Help (AI <= -3, DI <= -3, CH <= 4)
+
+>*Alric lowers his blade-barely.*
+>
+>*Dagna opens the ledger-hands steady.*
+>
+>*For the first time since the Pulse, the square obeys a plan instead of a rumor.*
+
+Consequence: region stays functional; caravans move with escort; records preserved.
+
+#### Compromise Dialogue
+
+>***Alric:** Give me three rules I can enforce and a place to put my shields.*
+>
+>***Dagna:** Give me names, measures, and witnesses-so no one can rewrite this afterward.*
+>
+>***Alric:** Fine. But if someone lights a match-*
+>
+>***Dagna:** -we record who struck it, and we feed who didn't.*
+
+### Dagna Hostile (DI >= +2)
+
+>*Dagna's voice goes cold. "Then you've chosen force over proof."*
+>
+>*She steps back from the granary steps like she's stepping away from you.*
+
+Consequence: she begins building the Agricultural Coalition; grain withheld from Tower projects until prioritized.
+
+### Alric Hostile (AI >= +2)
+
+>*Alric's jaw sets. "Then you've chosen paper over survival."*
+>
+>*His militia closes ranks-not against the crowd, but against you.*
+
+Consequence: martial isolation; Tower writs questioned; you need stealth/bribes to move supplies.
+
+### Both Hostile (CH >= 6 OR (AI >= +2 AND DI >= +2))
+
+>*They stop arguing-because the crowd has become the argument.*
+>
+>*Alric sees betrayal. Dagna sees tyranny.*
+>
+>*And the village sees only hunger.*
+
+Consequence: splintered enclaves (matches Grey Bloom behavior: fracture, violence, refusal to spend resources elsewhere).
+
+### Uneasy Truce (default)
+
+#### Virtu Deck Setup
+
+Populate this in [Virtu Deck](https://pwlinkas.github.io/virtudeck/).
+
+one card per line.
+
+```text
+HELP BOTH
+DAGNA HOSTILE
+ALRIC HOSTILE
+BOTH HOSTILE
++DI if DI > 0
++AI if AI > 0
++CH-4 if CH > 4
++abs(AI) +abs(DI) if AI < 0 and DI < 0
+```
+
+Draw 1 card, resolve.
+
+Crowd (panic, hunger, suspicion)
+
+>*"Why do they get guards and we get speeches?"*
+>
+>*"I saw sacks go in-why don't sacks come out?"*
+>
+>*"They're measuring our deaths like it's weather!"*
+
+Militia (tired, defensive, afraid)
+
+>*"We're holding the line so your kids don't get trampled."*
+>
+>*"One spark and this becomes a massacre."*
+>
+>*"You want gentle? Then give us time."*
+
+Consequence: the village functions short-term but with simmering resentment (escort delays, record disputes, "one more incident and it snaps").
 
 <a id="end"></a>
 ## End
