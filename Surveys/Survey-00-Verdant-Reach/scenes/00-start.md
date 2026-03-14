@@ -38,7 +38,9 @@ Run [Opening Brief](../run/00-opening-brief.md)
 
 ## Location
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Verdant Reach.png" alt="Verdant Reach" width="600" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Verdant Reach.png" alt="Verdant Reach" width="800" style="border-radius:8px;" />
+
+<div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
 
 **The Verdant Reach**
 
@@ -49,6 +51,7 @@ Biome: River-fed agricultural basin bordered by old-growth forest and low granit
 Current State: Unstable (about to become Grey Bloom)
 
 [Full regional profile](../../../Locations/Verdant-Reach.md)
+</div>
 
 ### Read-Aloud
 

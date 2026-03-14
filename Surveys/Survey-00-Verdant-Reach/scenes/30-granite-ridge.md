@@ -2,7 +2,7 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#granite-ridge)
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/rift.png" alt="Granite Ridge" width="600" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/rift.png" alt="Granite Ridge" width="800" style="border-radius:8px;" />
 
 ## Introduction
 
