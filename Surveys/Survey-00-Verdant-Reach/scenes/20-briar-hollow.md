@@ -2,7 +2,8 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#briar-hollow)
 
-![Briar-Hollow](https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Briar-Hollow-Before.png)
+
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Briar-Hollow-Before.png" alt="Dagna" width="600" style="border-radius:8px;" />
 
 ## Introduction
 
@@ -22,19 +23,23 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#briar-ho
 
 All encounters will eventually lead to meeting Dagna. Regional Yield Director.
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Dagna_portrait.png" alt="Dagna" width="180" style="border-radius:8px;" />
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+<div style="flex:0 0 180px; width:180px; max-width:100%; align-self:stretch;">
+    <img
+        src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Dagna_portrait.png"
+        alt="Dagna Feldrun"
+        style="width:100%; height:100%; object-fit:cover; border-radius:8px; display:block;"
+    />
+</div>
 
-> **Dagna Feldrun (Regional Yield Director)**
->
-> **First Impression:** Practical, steady, blunt. Proud of Verdant Reach's low-magic farming methods. She believes ecological resilience comes
-> from discipline, not arcane shortcuts.
->
-> **Hidden Depth: **She secretly suspects high-magic urban centers are the true destabilizers.
-> Later she may demand limits on wizard guilds.
-> She is not anti-science.
-> She is anti-excess.
->
-> [Full profile](../../../NPCs/Dagna-Feldrun.md)
+<div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <p><strong>Dagna Feldrun (Regional Yield Director)</strong></p>
+    <p><strong>First Impression:</strong> Practical, steady, blunt. Proud of Verdant Reach's low-magic farming methods. She believes ecological resilience comes from discipline, not arcane shortcuts.</p>
+    <p><strong>Hidden Depth:</strong> She secretly suspects high-magic urban centers are the true destabilizers. Later she may demand limits on wizard guilds. She is not anti-science. She is anti-excess.</p>
+    <p><a href="../../../NPCs/Dagna-Feldrun.md">Full profile</a></p>
+</div>
+
+</div>
 
 - Dagna asks them for their objectives and how far they have come through.
 - Dagna will let players know about soil samples in Northern forest and water samples in the river bank, and about the seismic activity in Granite Ridge.

@@ -14,13 +14,13 @@
 
 **Initial Save:** Dex save 10 or suffer **disadvantage** on skill checks.
 
+- Nature DC 14 -> Predict tremor timing.
+- Investigation DC 15 -> Identify stable rock.
 - Athletics DC 15 -> Secure rope anchors.
 - Acrobatics DC 14 -> Cross unstable ledge.
-- Investigation DC 15 -> Identify stable rock.
-- Nature DC 14 -> Predict tremor timing.
 
 **On 3 failures:**
-Major fracture -> Random PC Dex DC 15 or fall (4d6 damage, climbing required).
+Major fracture -> Everyone takes 4d6 damage and falls (climbing required).
 
 ## End
 
