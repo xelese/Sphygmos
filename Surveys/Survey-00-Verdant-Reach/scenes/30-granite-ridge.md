@@ -2,6 +2,8 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#granite-ridge)
 
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/rift.png" alt="Granite Ridge" width="600" style="border-radius:8px;" />
+
 ## Introduction
 
 > *As you head south of the Alieth River bank, tremors start answering your footsteps through the stone. Ahead, a fresh crack races across the caravan path, pebbles skitter toward it, and a breath of warm air rises from somewhere deep below.*

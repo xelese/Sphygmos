@@ -2,6 +2,8 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#whispering-woods)
 
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Whispering-Woods.png" alt="Whispering Woods" width="600" style="border-radius:8px;" />
+
 ## Introduction
 
 >*As you head north, the last signs of settlement fall away behind you and the forest starts closing in. The air turns damp and foul. It is far too quiet, the soil feels unstable underfoot, and somewhere ahead the undergrowth erupts with the sound of something large moving fast through leaves.*

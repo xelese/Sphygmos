@@ -2,6 +2,8 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#points-of-interest)
 
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Briar-Hollow-After.png" alt="Briar Hollow" width="600" style="border-radius:8px;" />
+
 ## Introduction
 
 Start the tension tracker with already acquired favour from earlier. If none then start with 0.

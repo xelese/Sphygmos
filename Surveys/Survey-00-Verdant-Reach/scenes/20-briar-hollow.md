@@ -3,7 +3,7 @@
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#briar-hollow)
 
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Briar-Hollow-Before.png" alt="Dagna" width="600" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Briar-Hollow-Before.png" alt="Briar Hollow" width="600" style="border-radius:8px;" />
 
 ## Introduction
 

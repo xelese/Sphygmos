@@ -2,6 +2,8 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#alieth-river-bank)
 
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/river-crossing.png" alt="Alieth River Bank" width="600" style="border-radius:8px;" />
+
 ## Introduction
 
 > *As you head east, you can clearly see Briar Hollow on the far side of the river. Before you reach the bridge, a militia checkpoint and an angry crowd force the road to a stop.*
@@ -10,7 +12,7 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#alieth-r
 > 
 > *A fisherman is holding up a string of unnaturally thin fish while shouting that the river cannot be poisoned if it still runs clear.*
 >
-> *Captain stands at the center of it with the militia, he commands them.*
+> *Captain Alric Venn stands at the center of it with the militia, he commands them.*
 
 ## The River Checkpoint
 
@@ -35,7 +37,7 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#alieth-r
 
 Halt says one of the guards.
 
->*Captain Alric demands that all grains, supplies and travel bags be seized at this checkpoint before entering Briar Hollow. We believe the food, water and equipment you carry is poisoned and will harm you. Turn around if you must. But if you have to pass through the bridge we will need to confiscate your food, water and any unauthorized supplies.*
+>*Captain Alric Venn demands that all grains, supplies and travel bags be seized at this checkpoint before entering Briar Hollow. We believe the food, water and equipment you carry is poisoned and will harm you. Turn around if you must. But if you have to pass through the bridge we will need to confiscate your food, water and any unauthorized supplies.*
 
 >*What do you do?*
 

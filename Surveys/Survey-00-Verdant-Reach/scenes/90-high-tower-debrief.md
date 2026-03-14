@@ -1,5 +1,7 @@
 # High Tower Debrief
 
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/High%20Tower/high-tower.png" alt="High Tower" width="600" style="border-radius:8px;" />
+
 ## Introduction
 
 > *The journey back takes 2 days.*

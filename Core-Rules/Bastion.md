@@ -101,25 +101,24 @@ The Tower maintains a shared roster of trained surveyors. The players collective
 
 > Example: A 4-player party starts with a pool of 4 (one each). At Level 5 the pool grows to 6. At Level 7 it reaches 9.
 
-> **Entry Level** is the level at which a newly created character joins the roster. It reflects the Tower's growing training capacity and the caliber of talent it attracts.
->
-> **Filling Slots.** When new pool slots open, players collectively fill them by:
->
-> - Creating a new character at the current Entry Level.
-> - Accepting an NPC arrival offered by the GM.
-> - Promoting an existing hireling or NPC ally the party has recruited through play (e.g., NPCs encountered during a survey who agree to join the Tower).
->
-> Any player can claim an open slot. The group decides together how to distribute extras.
->
-> **Deployment.** Before each survey, the party assembles a team from the roster. Each player deploys **1 character**. Remaining roster characters stay at the Tower.
->
-> **Bench Characters.** Characters left at the Tower between surveys do not stagnate. They train, assist research, or run smaller errands off-screen. Between surveys, benched characters advance to **1 level below** the lowest-level deployed character (minimum: their current level). This prevents the roster from becoming one main and throwaway alts.
->
-> **NPCs to PCs.** Some NPCs encountered during surveys may become recruitable. If the party earns their trust or alliance, those NPCs can fill open roster slots and become fully playable characters.
->
-> **Retiring.** A character can be retired at any time to free a roster slot. Retired characters leave the Tower and are no longer available. If the story earns it, a retired character could return as an NPC.
->
-> **Death.** If a deployed character dies during a survey, that roster slot opens immediately. The player may fill it before the next survey using the current Entry Level.
+**Entry Level** is the level at which a newly created character joins the roster. It reflects the Tower's growing training capacity and the caliber of talent it attracts.
+
+**Filling Slots.** When new pool slots open, players collectively fill them by:
+- Creating a new character at the current Entry Level.
+- Accepting an NPC arrival offered by the GM.
+- Promoting an existing hireling or NPC ally the party has recruited through play (e.g., NPCs encountered during a survey who agree to join the Tower).
+
+Any player can claim an open slot. The group decides together how to distribute extras.
+
+**Deployment.** Before each survey, the party assembles a team from the roster. Each player deploys **1 character**. Remaining roster characters stay at the Tower.
+
+**Bench Characters.** Characters left at the Tower between surveys do not stagnate. They train, assist research, or run smaller errands off-screen. Between surveys, benched characters advance to **1 level below** the lowest-level deployed character (minimum: their current level). This prevents the roster from becoming one main and throwaway alts.
+
+**NPCs to PCs.** Some NPCs encountered during surveys may become recruitable. If the party earns their trust or alliance, those NPCs can fill open roster slots and become fully playable characters.
+
+**Retiring.** A character can be retired at any time to free a roster slot. Retired characters leave the Tower and are no longer available. If the story earns it, a retired character could return as an NPC.
+
+**Death.** If a deployed character dies during a survey, that roster slot opens immediately. The player may fill it before the next survey using the current Entry Level.
 
 ---
 ### Running the Science Point Loop

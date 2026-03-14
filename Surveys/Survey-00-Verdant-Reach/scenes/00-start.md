@@ -38,7 +38,7 @@ Run [Opening Brief](../run/00-opening-brief.md)
 
 ## Location
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Verdant Reach.png" alt="Dagna" width="600" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Verdant Reach.png" alt="Verdant Reach" width="600" style="border-radius:8px;" />
 
 **The Verdant Reach**
 
