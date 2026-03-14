@@ -1,0 +1,75 @@
+# Start
+
+**Type:** Intro / tone set | **Goal:** "ending with quiet" + mission framing
+
+## Introduction
+
+Read Opening World Introduction.
+
+<div style="display:flex; gap:16px; align-items:flex-start; margin:12px 0;">
+  <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/Seraphine_portrait.png" alt="Seraphine" width="180" style="border-radius:8px;" />
+  <div style="flex:1; border:1px solid #6664; border-radius:8px; padding:10px 12px;">
+    <strong>Seraphine Ilyra</strong><br/><br/>
+    <strong>First Impression:</strong> Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.<br/><br/>
+    <strong>Hidden Depth:</strong> She already suspects the source is subterranean. She does not share this fully at first. She wants proof.<br/><br/>
+    <a href="../../../NPCs/Seraphine-Ilyra.md">Full profile</a>
+  </div>
+</div>
+
+## Read-Aloud
+
+>*The world is not at war. There is no demon incursion. No shattered sky. No prophecy carved into stone. The sun rises each morning over green valleys and silver rivers. Trade caravans still roll across open roads. Children still chase dogs through village squares. But something is thinning. The scholars of the High Tower call it fluctuation. Farmers call it bad luck. Hunters call it the Quiet.
+Bees vanish. Wolves grow bold. Crops sprout unevenly. Wells taste faintly metallic. And beneath it all... the ground hums. Not loudly. Not violently. Just enough that if you press your palm to stone at night... you swear you can feel it breathing.*
+
+Pause...
+
+>*You have been sent to the Verdant Reach to measure, record, and report. This is not a rescue mission. It is an observation.*
+
+Show [Contract Handout](../handouts/contract.md) to PCs in Roll20.
+
+Run [Opening Brief](../run/00-opening-brief.md)
+
+## Location
+
+<div style="margin:12px 0;">
+    <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Verdant Reach.png" alt="The Verdant Reach" width="800" style="border-radius:8px; display:block;" />
+    <div style="margin-top:12px; border:1px solid #6664; border-radius:8px; padding:10px 12px;">
+        <strong>The Verdant Reach</strong><br/>
+        Distance from High Tower: 2 days by caravan <br/><br/>
+        Biome: River-fed agricultural basin bordered by old-growth forest and low granite ridges <br/><br/>
+    Current State: Unstable (about to become Grey Bloom)<br/><br/>
+    <a href="../../../Locations/Verdant-Reach.md">Full regional profile</a>
+    </div>
+</div>
+
+### Read-Aloud
+
+As you travel on the back of this carriage you see,
+
+>*Rolling amber fields broken by irrigation canals and Massive wind-driven grain towers.*
+>
+>*The River Alieth, slow and silver.*
+>
+>*Dense forest to the north, ancient and rarely logged.*
+>
+>*Granite ridges running beneath the soil like a buried spine.*
+>
+>*The land looks healthy. But it sounds wrong. Fewer insects. Bird calls spaced too far apart. The wind feels thin.*
+
+Pause.
+
+> *You arrive at a crossroads from the western edge. The sign reads:*
+>
+> *East: Briar Hollow. Raised voices carry from the bridge long before you reach it.*
+>
+> *North: Whispering Woods. The treeline is too still, with no birds moving above it.*
+>
+> *South: Granite Ridge. The ground gives off a faint tremor and a low sound like a kettle beginning to sing.*
+
+>*What do you do?*
+
+## Navigation
+
+- [Whispering Woods - North](./40-whispering-woods.md)
+- [Town of Briar Hollow - East](./10-alieth-river-bank.md)
+- [Granite Ridge - South](./30-granite-ridge.md)
