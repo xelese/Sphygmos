@@ -273,10 +273,6 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 > *"We did not witness a disaster."*
 >
 > *"We witnessed a process."*
->
-> *A beat.*
->
-> *"Maybe even a heartbeat."*
 
 ## Science Point Tally
 
