@@ -6,3 +6,4 @@ This survey is the campaign opener. It establishes the quiet-collapse tone, intr
 
 - Opening scene: [scenes/00-start.md](scenes/00-start.md)
 - Opening GM procedure: [run/00-opening-brief.md](run/00-opening-brief.md)
+- Use [notes/notes.md](notes/notes.md) to track the Tower's actual post-survey knowledge state.

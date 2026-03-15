@@ -164,7 +164,7 @@ Start with 0 and add 1 point per success. Each point allows them to claim one be
 
 ## Seraphine's Closing Monologue
 
-Run this after reviewing the data. Use the lines below as modular pieces depending on what the party actually proved. Seraphine should only speak with certainty about what the players successfully established; on failed experiments, she should note uncertainty, contestation, or suspicion rather than confirmed fact.
+Run this after reviewing the data.
 
 ### Opening
 > *Later that night, in a smaller chamber.*
@@ -214,6 +214,28 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 > *"The tremors may be rhythmic."*
 >
 > *"May be. That word will matter to everyone who wants permission to wait."*
+
+### If No Credible Science Was Recovered
+> *She does not stand at the projection for long.*
+>
+> *"The Reach is failing. That much is real."*
+>
+> *"But reality is not the same thing as proof."*
+>
+> *"What you brought back tells me to fear the pattern. It does not yet let me name it."*
+>
+> *"The Tower will keep guessing. The factions will keep lying. And I cannot stop either of them with intuition."*
+
+### If Partial Evidence Exists But The Obelisk Failed
+> *She keeps the surviving notes spread out, but leaves the cracked core untouched.*
+>
+> *"This is not one bad harvest. Not one poisoned river. Not one frightened superstition."*
+>
+> *"The failures relate to one another. I can defend that much."*
+>
+> *"But relation is not the same thing as mechanism."*
+>
+> *"Without a clean obelisk read, I cannot prove the field. I can only narrow the lies."*
 
 ### If Vital Density Obelisk bonus success triggered
 > *She taps the phase mark with one fingernail.*
@@ -279,6 +301,16 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 > *"We did not witness a disaster."*
 >
 > *"We witnessed a process."*
+
+If the party recovered no credible science, replace the Final close with:
+
+> *She gathers the scattered notes into one neat stack, as if tidiness might compensate for uncertainty.*
+>
+> *"I know the Reach is failing."*
+>
+> *"I do not yet know how to force the Tower to understand it."*
+>
+> *"That is the difference between dread and knowledge."*
 
 ## Science Point Tally
 
