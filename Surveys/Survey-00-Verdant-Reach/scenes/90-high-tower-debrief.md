@@ -96,13 +96,13 @@ Start with 0 and add 1 point per success. Each point allows them to claim one be
 >
 > Then the crystal catches light and a waveform crawls into existence-tightening, tightening, tightening-like a fist closing.
 >
-> "You obtained a clean contraction profile," the archivist says. "The soil failure, the clean dying water, the tremors, and the Collapse are not separate incidents. They are one system."
+> "You obtained a clean contraction profile," the archivist says. "The soil failure, the clean dying water, the tremors, and the Collapse are not separate incidents. They are expressions of one measurable field."
 >
-> Another scholar answers too quickly, as though afraid the idea will disappear if nobody says it aloud: "One gradient."
+> Another scholar answers too quickly, as though afraid the idea will disappear if nobody says it aloud: "A field."
 >
-> The archivist does not look away from the light. "Yes. The old term fits after all. The Vital Gradient."
+> The archivist does not look away from the light. "A field, yes. Beyond that, we are not naming what we cannot yet explain."
 >
-> They look up. "Not prevent. Predict."
+> They look up. "Not prevent. Predict, perhaps."
 
 **Bonus Success: Perfect Reading (No Failures)**
 > Addendum: phase relation confirmed.
@@ -227,24 +227,30 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 >
 > *"The waveform contracts before release."*
 >
-> *"That was the missing proof. The thinning, the tremors, the Collapse, the dying substrate - they belong to the same held system."*
+> *"That was the missing proof. The thinning, the tremors, the Collapse, the dying substrate - they belong to the same held field."*
 >
-> *"The old cosmology term fits better than the others."*
+> *"Not a superstition. Not four separate crises. A field."*
 >
-> *"The Vital Gradient."*
+> *"And I think that field is held across a difference - something below, something broad above."*
 >
-> *"We can predict the next event."*
+> *"Two plates, if I am right. A lower anchor and a living upper one."*
+>
+> *"The difference between them is the gradient."*
+>
+> *"I can describe the shape. I cannot yet tell you why it exists, what drives it, or how spellwork truly relates to it."*
+>
+> *"We may be able to predict the next event."*
 >
 > *She looks up then, with something harsher than fear.*
 >
-> *"Not stop it. Predict it."*
+> *"Not stop it. Maybe only see it coming."*
 
 ### If Vital Density Obelisk failed
 > *The cracked core sits on the table between you like a tooth pulled from a god.*
 >
 > *"I saw enough to fear it,"* she says quietly.
 >
-> *"Not enough to model it. Not enough to name it cleanly."*
+> *"Not enough to prove the field. Not enough to name the structure cleanly."*
 
 ### If Soil + Water both succeeded
 > *"The collapse is biological before it is visible."*
@@ -256,7 +262,7 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 >
 > *"If the pattern holds, the next Collapse will exceed this one."*
 >
-> *"And the one after that will exceed the next."*
+> *"And the one after that may come sooner still."*
 
 ### Final close
 
@@ -266,7 +272,7 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 >
 > *"This is systemic."*
 >
-> *"Something below the Reach is discharging through the whole living structure."*
+> *"There is structure beneath what we witnessed, but not yet an answer."*
 >
 > *She looks to the window instead of the charts.*
 >
@@ -297,4 +303,4 @@ If Alric is NEUTRAL or ENEMY, this offer does not happen.
 
 ## End
 
-Survey 0 complete. Advance the [Collapse Wheel](../../../World-Lore/Collapse-Wheel.md). Update the [High Tower Bastion tracker](../../../Locations/High-Tower.md#bastion).
+Survey 0 complete. Advance the [Collapse Wheel](../../../World-Lore/Collapse-Wheel.md). Update the [High Tower Bastion tracker](../../../Locations/High-Tower.md#bastion). Track what has been established.

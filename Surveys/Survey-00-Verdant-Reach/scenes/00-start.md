@@ -18,7 +18,7 @@ Read Opening World Introduction.
 <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
     <p><strong>Seraphine Ilyra</strong></p>
     <p><strong>First Impression:</strong> Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.</p>
-    <p><strong>Hidden Depth:</strong> She suspects the anomalies share a subterranean source. She refuses to name the model until the obelisk gives her proof.</p>
+    <p><strong>Hidden Depth:</strong> She suspects the anomalies reveal a real field held between depth and the living surface. She refuses to name the structure until the obelisk gives her proof.</p>
     <p><a href="../../../NPCs/Seraphine-Ilyra.md">Full profile</a></p>
 </div>
 </div>

@@ -6,7 +6,7 @@
 
 ## How the Wheel Works
 
-Each region has a tracked collapse state representing how coherent its local biosphere plate remains and how much Vital Current surface life can still draw.
+Each region has a tracked collapse state representing how coherent its local upper plate remains and how responsive the surface still is to the Vital field.
 
 Each region moves through these states:
 
@@ -20,7 +20,7 @@ Each state usually lasts about 4 days.
 
 After that, the region becomes eligible to tip into the next state whenever a Collapse, survey result, or narrative trigger strips away more surface accessibility.
 
-> If a region is on day 14, it is already in the Grey Bloom window. You do not need to wait until day 16 exactly. The Collapse does not create the weakness from nothing. It pushes a thinned region past the point where surface life can no longer draw reliably.
+> If a region is on day 14, it is already in the Grey Bloom window. You do not need to wait until day 16 exactly. The Collapse does not create the weakness from nothing. It pushes a thinned region past the point where the surface can no longer respond normally.
 
 ## How the Wheel Advances
 
@@ -46,7 +46,7 @@ They cannot stop the wheel outright.
 
 ### Stable
 
-- The local biosphere plate is coherent and healthy.
+- The local upper plate is coherent and healthy.
 - Life is vibrant.
 - Only subtle anomalies are detectable, usually by trained observers or instruments.
 
@@ -77,11 +77,11 @@ They cannot stop the wheel outright.
 
 Grey Bloom is not normal death. It is ecological standstill.
 
-Vital support still exists in the planetary system, but it has retreated too far for ordinary surface life to use normally.
+The field still exists in the planetary system, but the surface no longer answers it normally.
 
 ### Dormant
 
-- Local mantle-biosphere coupling is almost entirely gone.
+- Local depth-surface coupling is almost entirely gone.
 - Microbial activity is gone.
 - The air feels thin and wrong.
 - Natural healing fails.
@@ -90,4 +90,4 @@ Vital support still exists in the planetary system, but it has retreated too far
 
 It is not dead.
 
-It is disconnected from ordinary access.
+It is disconnected from ordinary function.

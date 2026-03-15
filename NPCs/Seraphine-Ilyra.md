@@ -14,7 +14,7 @@
     <p><strong>Role:</strong> Tower Field Scholar</p>
     <p><strong>Voice:</strong> Precise, measured, intellectually hungry</p>
     <p><strong>First Impression:</strong> Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.</p>
-    <p><strong>Hidden Depth:</strong> She suspects the anomalies share a subterranean source. She will not name the model until the obelisk gives her proof strong enough to survive scrutiny.</p>
+    <p><strong>Hidden Depth:</strong> She suspects the anomalies reveal a real field held between something deep below and something broad across the living surface. She will not name the structure until the obelisk gives her proof strong enough to survive scrutiny.</p>
 </div>
 </div>
 
