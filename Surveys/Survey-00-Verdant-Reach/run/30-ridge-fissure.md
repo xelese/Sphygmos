@@ -12,7 +12,7 @@
 
 **Type:** Environment | **Threat:** Lethal | **Skill Challenge:** 3 successes
 
-> *A newly formed crack splits the party's path. It's 15 feet wide in places. Depth unknown. Wind rises from below - warm. You see molten rock*
+> *A newly formed crack splits the party's path. It's 15 feet wide in places. Depth unknown. Wind rises from below — warm and wrong, carrying the faint mineral smell of deep stone that should never reach the surface.*
 
 >*What do you do?*
 

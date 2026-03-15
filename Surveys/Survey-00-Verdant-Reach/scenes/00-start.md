@@ -25,7 +25,7 @@ Read Opening World Introduction.
 
 ## Read-Aloud
 
->*The world is not at war. There is no demon incursion. No shattered sky. No prophecy carved into stone. The sun rises each morning over green valleys and silver rivers. Trade caravans still roll across open roads. Children still chase dogs through village squares. But something is thinning. The scholars of the High Tower call it fluctuation. Farmers call it bad luck. Hunters call it the Quiet.
+>*The world is not at war. There is no demon incursion. No shattered sky. No prophecy carved into stone. The sun rises each morning over green valleys and silver rivers. Trade caravans still roll across open roads. Children still chase dogs through village squares. But something is thinning. The scholars of the High Tower call it the Vital Gradient. Farmers call it bad luck. Hunters call it the Quiet.
 Bees vanish. Wolves grow bold. Crops sprout unevenly. Wells taste faintly metallic. And beneath it all... the ground hums. Not loudly. Not violently. Just enough that if you press your palm to stone at night... you swear you can feel it breathing.*
 
 Pause...

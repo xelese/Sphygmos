@@ -192,6 +192,30 @@ After a Collapse, the Vital support is still in the planetary system, but it is 
 
 In diagram language, the field across the gap has not been annihilated. It has failed to remain coherently usable from the surface side.
 
+## What Happens When a Region Collapses
+
+When a region Collapses, that part of the biosphere stops functioning as a reliable part of the upper plate.
+
+The rest of the biosphere does not simply ignore that failure. Because the biosphere plate is one connected living system, surrounding regions attempt to rebalance coherence and preserve wider field stability.
+
+That rebalancing is real, but it is not free.
+
+- neighboring regions take on extra strain
+- support redistributes unevenly
+- weak zones become thinner
+- magical instability spreads more easily across damaged boundaries
+- the plate as a whole becomes less uniform and less resilient
+
+This means a regional Collapse has three layers of consequence:
+
+1. The collapsed region loses reliable surface access.
+2. Nearby regions become more vulnerable as they compensate.
+3. The global biosphere plate becomes weaker and more prone to future Collapse events.
+
+In other words, the upper plate does try to restore coherence after local failure, but every forced rebalance makes the whole system pay a cost.
+
+That is why repeated local Collapses do not stay local for long.
+
 ## Grey Bloom and Dormancy
 
 ### Grey Bloom

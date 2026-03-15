@@ -31,7 +31,7 @@ One PC rolls Nature, and a second rolls Medicine or Survival, or one PC rolls bo
 | 3 | Root-zone "holes," surface still active |
 | 2 | Deep layers dead first, surface "last gasp" |
 | 1 | Only rare cysts or spores remain |
-| 0 | Dormant / ecological death |
+| 0 | Dormant / ecological standstill |
 
 ---
 ## GM Reference
@@ -65,7 +65,7 @@ One PC rolls Nature, and a second rolls Medicine or Survival, or one PC rolls bo
 | 3 | Root-zone "holes," surface still active (Unstable) |
 | 2 | Deep layers dead first, surface "last gasp" (Grey Bloom onset) |
 | 1 | Only rare cysts or spores remain (late Grey Bloom) |
-| 0 | Sterile (Dormant / ecological death) |
+| 0 | Sterile (Dormant / ecological standstill) |
 
 ### Outcome
 

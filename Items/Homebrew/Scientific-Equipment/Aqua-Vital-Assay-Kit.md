@@ -39,7 +39,7 @@ Run three tests in sequence.
 | 3 | Notable die-off pockets |
 | 2 | Deep sample collapse, surface "last gasp" |
 | 1 | Rare cysts/spores only |
-| 0 | Functional sterility / ecological death |
+| 0 | Functional sterility / ecological standstill |
 
 ---
 ## GM Reference
