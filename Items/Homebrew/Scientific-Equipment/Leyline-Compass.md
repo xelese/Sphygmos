@@ -21,8 +21,8 @@
 - Arcana or Survival
   - **Success:** Reveals flow axis and whether it is strengthening or weakening.
 
-#### Pulse Vector Lock
-- Triggered when a Pulse or sharp tremor spike hits.
+#### Collapse Vector Lock
+- Triggered when a Collapse or sharp tremor spike hits.
 - Arcana
   - **Success:** Gives a clean bearing toward stress redistribution.
   - **Strong Success:** Adds a rough distance band: near, mid, or far.
@@ -53,8 +53,8 @@
   - **Success:** Learn the dominant lateral flow axis, for example NE-SW, and whether it is strengthening or weakening.
   - **Failure:** The read appears clean, but is mirrored in the wrong direction.
 
-#### Pulse Vector Lock (During a Pulse)
-- Reaction when the Pulse hits, or when the tremor spike starts.
+#### Collapse Vector Lock (During a Collapse)
+- Reaction when the Collapse hits, or when the tremor spike starts.
 - Arcana DC 15
   - **Success:** Needle spins, then snaps toward the stress redistribution zone, accurate within about 10 degrees.
   - **Success by 5+:** Also estimate the distance band to the next failing frontier: near, mid, or far.
@@ -68,4 +68,4 @@
 ### Field Use Summary
 
 - Best for route planning around Grey Bloom fringes.
-- Strongest value appears when paired with Pulse timing and seismic tools.
+- Strongest value appears when paired with Collapse timing and seismic tools.

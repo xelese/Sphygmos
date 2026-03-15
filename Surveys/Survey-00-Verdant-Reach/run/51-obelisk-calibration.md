@@ -6,6 +6,7 @@
 ## Objective
 
 - Calibrate the obelisk and secure the core if possible.
+- Capture proof that the Reach's symptoms belong to one underlying phenomenon if the waveform stabilizes.
 
 <a id="hidden-tower-emergency-satchel"></a>
 ## Hidden Tower Emergency Satchel
@@ -57,4 +58,4 @@ Players get one round to act. No DC check. Advantage on the party's first progre
 <a id="end"></a>
 ## End
 
-[Political Turmoil](../scenes/50-vital-pulse.md)
+[Vital Collapse](../scenes/50-vital-collapse.md)

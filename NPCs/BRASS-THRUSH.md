@@ -14,7 +14,7 @@
     <p><strong>Role:</strong> Tower survey quartermaster</p>
     <p><strong>Voice:</strong> Adorable machine noises delivered with hostile-accountant energy</p>
     <p><strong>First Impression:</strong> A rail-gliding Tower automaton with polished brass fittings, lens shutters, and drawers full of immaculate field supplies. It sounds almost cute until it starts judging the state of your gear, your paperwork, and your priorities.</p>
-    <p><strong>Hidden Depth:</strong> T.H.R.U.S.H is stricter than most people, but not colder. It has a soft spot for exhausted survey teams, quietly prioritizes survival over heroics, and begins reacting to Pulse precursors before most living staff realize anything is wrong.</p>
+    <p><strong>Hidden Depth:</strong> T.H.R.U.S.H is stricter than most people, but not colder. It has a soft spot for exhausted survey teams, quietly prioritizes survival over heroics, and begins reacting to Collapse precursors before most living staff realize anything is wrong.</p>
 </div>
 </div>
 

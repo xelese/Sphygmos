@@ -82,7 +82,7 @@ Allow  **camp actions** as necessary before the rest is resolved. Each successfu
 |  How are you hiding the camp?  | Stealth, Survival, Thieves' Tools | The camp is harder to find. |
 |  How are you securing the camp?  | Rotation, alertness, visibility, discipline | The camp is secured by barricades, traps, chokepoints watch rotations. |
 | How are you handling food and water? | Medicine, Nature, Herbalism Kit | The party reduces spoilage, contamination, or sickness risk. |
-| What gear, magic, or field tools are you using? | Arcana, Nature, Tower gear, scientific equipment | The camp better resists pulses, whispers, or environmental wrongness. |
+| What gear, magic, or field tools are you using? | Arcana, Nature, Tower gear, scientific equipment | The camp better resists Collapse surges, whispers, or environmental wrongness. |
 
 ---
 ### Step 3: Award Camp Points Secretly
@@ -107,7 +107,7 @@ Use Camp Points to measure how well the party prepared the camp.
 | Open weather exposure | -1 |
 | Active pursuit or nearby enemies | -1 |
 | Noticeable Grey Bloom contamination nearby | -1 |
-| Tremors, whispers, or pulse disturbance | -1 |
+| Tremors, whispers, or Collapse disturbance | -1 |
 | Problems backed by the fiction (per issue) | -1 |
 
 Minimum Camp Points after penalties is 0.
@@ -141,7 +141,7 @@ When the Night Result table gives a challenge, choose or roll an event that fits
 | Quiet | The night passes without a meaningful interruption. |
 | Minor | A brief problem disturbs the camp: cold rain, failing fire, scavengers, spoiled food, or nerves on watch. Usually one group check or a simple choice. |
 | Major | The camp faces a real problem: tremor burst, exposed position, tainted water, prowling beast, hostile scout, or damaged shelter. Usually one or two checks, with failure costing supplies, sleep quality, or position. |
-| Severe | The rest is threatened outright: pulse echo, active collapse, major contamination, Grey Bloom intrusion, or a dangerous encounter. The camp may have to move, spend rare resources, or abandon hope of recovery. |
+| Severe | The rest is threatened outright: Collapse echo, active collapse, major contamination, Grey Bloom intrusion, or a dangerous encounter. The camp may have to move, spend rare resources, or abandon hope of recovery. |
 
 ### Quick Challenge Prompts
 
@@ -149,5 +149,5 @@ When the Night Result table gives a challenge, choose or roll an event that fits
 |:---|---|
 | Minor | Rain gets through the shelter, the fire starts dying, someone hears movement outside the watch line, or a ration cache turns foul. |
 | Major | A tremor shifts the ground, a beast circles camp, a watch failure exposes the party, or water storage is contaminated. |
-| Severe | A pulse tears through the camp, the shelter partially collapses, Grey Bloom pressure rolls in, or enemies arrive on the party's resting place. |
+| Severe | A Collapse tears through the camp, the shelter partially collapses, Grey Bloom pressure rolls in, or enemies arrive on the party's resting place. |
 

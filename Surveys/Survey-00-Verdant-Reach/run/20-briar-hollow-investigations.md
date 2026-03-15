@@ -105,9 +105,9 @@ Players can use [Leyline Compass](../../../Items/Homebrew/Scientific-Equipment/L
 
 > *The compass needle does not point north so much as it leans, hesitant at first, then with growing conviction, toward a line only it can feel beneath the stone. The crystal at its heart gives off a dim inner glow, and the etched rings along the brass casing seem almost to tighten around the bearing as the hidden flow settles into sense.*
 
-#### Pulse Vector Lock
+#### Collapse Vector Lock
 
-> *When the Pulse hits, the instrument comes alive in your hands. The needle whips into a frantic circle, the crystal flashes like trapped lightning, and then, all at once, the chaos resolves into a single hard snap toward the place the stress is running to.*
+> *When the Collapse hits, the instrument comes alive in your hands. The needle whips into a frantic circle, the crystal flashes like trapped lightning, and then, all at once, the chaos resolves into a single hard snap toward the place the stress is running to.*
 
 #### Trail of Thinning
 

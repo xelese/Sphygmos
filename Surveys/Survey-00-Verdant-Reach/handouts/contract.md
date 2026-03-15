@@ -12,11 +12,14 @@ The world isn't ending with fire and prophecy. It's ending with quiet. The Verda
 Travel two days by caravan route to the Verdant Reach (agricultural basin; multi-species settlements; low-magic farming tradition).
 Your tasks are simple and measurable:
 - Install a Tower-issued Vital Density Obelisk in the region.
+- Obtain a stable waveform from the obelisk if conditions allow.
 - Collect 
     - sealed samples: soil (3 depths) 
     - river water 
 - Interview locals and record timelines of abnormalities.
 - Return with the obelisk core (intact if possible) and your notes. 
+
+The Tower's current theory is incomplete. The obelisk is being field-tested to determine whether the Quiet is one underlying phenomenon or several overlapping crises.
 
 You are not expected to solve anything. You are expected to come back with data.
 

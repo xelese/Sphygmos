@@ -49,4 +49,4 @@ All encounters will eventually lead to meeting Dagna. Regional Yield Director.
 
 ## End
 
-Move to [Vital Pulse](./50-vital-pulse.md) when ready.
+Move to [Vital Collapse](./50-vital-collapse.md) when ready.

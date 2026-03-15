@@ -204,7 +204,7 @@ This round decides who the village follows.
 >
 >*Dagna opens the ledger-hands steady.*
 >
->*For the first time since the Pulse, the square obeys a plan instead of a rumor.*
+>*For the first time since the Collapse, the square obeys a plan instead of a rumor.*
 
 Consequence: region stays functional; caravans move with escort; records preserved.
 
@@ -286,4 +286,4 @@ Consequence: the village functions short-term but with simmering resentment (esc
 <a id="end"></a>
 ## End
 
-[Vital Pulse](../scenes/50-vital-pulse.md)
+[Vital Collapse](../scenes/50-vital-collapse.md)

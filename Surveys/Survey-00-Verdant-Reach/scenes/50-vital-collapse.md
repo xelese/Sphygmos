@@ -1,4 +1,4 @@
-# Vital Pulse
+# Vital Collapse
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#points-of-interest)
 
@@ -32,7 +32,7 @@ Run [Obelisk Calibration](../run/51-obelisk-calibration.md)
 >
 >*It's compressing. Next contraction imminent.*
 
-**The Moment Before the Pulse**
+**The Moment Before the Collapse**
 
 >*The wind stops.*
 >
@@ -43,7 +43,7 @@ Run [Obelisk Calibration](../run/51-obelisk-calibration.md)
 >*The obelisk hum deepens until you feel it in your teeth.*
 
 
-**Pulse Hits**
+**Collapse Hits**
 
 >*The air tightens.*
 >
@@ -53,7 +53,7 @@ Run [Obelisk Calibration](../run/51-obelisk-calibration.md)
 >
 >*Absence.*
 
-Run [Pulse Event](../run/60-cataclysmic-pulse.md)
+Run [Collapse Event](../run/60-cataclysmic-collapse.md)
 
 Let the players breathe, then describe the aftermath.
 

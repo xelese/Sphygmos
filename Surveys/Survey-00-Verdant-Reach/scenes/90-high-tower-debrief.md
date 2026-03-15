@@ -96,7 +96,11 @@ Start with 0 and add 1 point per success. Each point allows them to claim one be
 >
 > Then the crystal catches light and a waveform crawls into existence-tightening, tightening, tightening-like a fist closing.
 >
-> "You obtained a clean contraction profile," the archivist says. "We can predict the next event."
+> "You obtained a clean contraction profile," the archivist says. "The soil failure, the clean dying water, the tremors, and the Collapse are not separate incidents. They are one system."
+>
+> Another scholar answers too quickly, as though afraid the idea will disappear if nobody says it aloud: "One gradient."
+>
+> The archivist does not look away from the light. "Yes. The old term fits after all. The Vital Gradient."
 >
 > They look up. "Not prevent. Predict."
 
@@ -223,6 +227,12 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 >
 > *"The waveform contracts before release."*
 >
+> *"That was the missing proof. The thinning, the tremors, the Collapse, the dying substrate - they belong to the same held system."*
+>
+> *"The old cosmology term fits better than the others."*
+>
+> *"The Vital Gradient."*
+>
 > *"We can predict the next event."*
 >
 > *She looks up then, with something harsher than fear.*
@@ -234,7 +244,7 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 >
 > *"I saw enough to fear it,"* she says quietly.
 >
-> *"Not enough to model it."*
+> *"Not enough to model it. Not enough to name it cleanly."*
 
 ### If Soil + Water both succeeded
 > *"The collapse is biological before it is visible."*
@@ -244,7 +254,7 @@ Run this after reviewing the data. Use the lines below as modular pieces dependi
 ### If Seismic + Obelisk both succeeded
 > *She overlays projected cycles. Each one larger. Each interval shorter.*
 >
-> *"If the pattern holds, the next Pulse will exceed this one."*
+> *"If the pattern holds, the next Collapse will exceed this one."*
 >
 > *"And the one after that will exceed the next."*
 

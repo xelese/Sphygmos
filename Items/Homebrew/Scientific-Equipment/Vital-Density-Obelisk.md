@@ -2,10 +2,12 @@
 
 <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Vital-Density-Obelisk.png" alt="Vital Density Obelisk" style="width:100%; border-radius:8px; margin:8px 0;" />
 
-> - **Purpose:** Measure regional Vital potential, produce a waveform, and help predict next Pulse timing.
+> - **Purpose:** Test whether a region's tremors, ecological thinning, and Collapse behavior belong to one connected field phenomenon; if the read stabilizes, it produces a waveform and helps predict the next Collapse timing.
 > - **Description:** *A waist-high brass obelisk with a crystal core and anchor struts. When powered, it projects a faint waveform shimmer.*
 
 ## Player Reference
+
+Tower staff describe this as an experimental survey instrument. What, exactly, it is measuring is still under dispute at the start of Survey 0.
 
 ### Structured Skill Challenge
 
@@ -48,12 +50,13 @@ Each check represents about 1 minute of calibration.
 
 #### Success
 - Gain precise waveform reading.
+- **Scientific Clue:** Confirms the Reach's tremors, ecological thinning, and Collapse behavior are part of one connected field phenomenon.
 - **Science Points:** +1
 
 #### Perfect Reading Bonus (4 Successes, 0 Failures)
-- **Scientific Clue:** The seismic tremor precedes Vital collapse by about 1.3 seconds.
+- **Scientific Clue:** The seismic tremor precedes the quiet collapse by about 1.3 seconds.
 - **Science Points:** +1
-- One-round option at "Moment Before the Pulse": brace the obelisk, abandon it, or grab the core.
+- One-round option at "Moment Before the Collapse": brace the obelisk, abandon it, or grab the core.
 
 #### Failure
 - Reading incomplete.

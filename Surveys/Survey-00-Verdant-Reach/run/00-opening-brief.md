@@ -13,11 +13,14 @@ Let Players introduce themselves. Move this along quickly as they should not hav
 Ask player what their objective is. Hint is in [Contract Handout](../handouts/contract.md)
 
 >- Install a Tower-issued Vital Density Obelisk in the region.
+>- Capture a clean obelisk waveform if possible.
 >- Collect 
 >    - sealed samples: soil (3 depths) 
 >    - river water 
 >- Interview locals and record timelines of abnormalities.
 >- Return with the obelisk core (intact if possible) and your notes.
+
+> The obelisk is experimental. The Tower believes it may prove whether the dying soil, thinning wildlife, tremors, and Collapse event are one connected phenomenon or only a cluster of related failures.
 
 <a id="tower-marked-equipment"></a>
 ## Tower-Marked Equipment

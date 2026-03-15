@@ -1,6 +1,6 @@
 # Survey 00: Verdant Reach
 
-This survey is the campaign opener. It establishes the quiet-collapse tone, introduces field procedure, and ends with the party's first direct experience of a Pulse event.
+This survey is the campaign opener. It establishes the quiet-collapse tone, introduces field procedure, and ends with the party's first direct experience of a Collapse event.
 
 ## Start Here
 

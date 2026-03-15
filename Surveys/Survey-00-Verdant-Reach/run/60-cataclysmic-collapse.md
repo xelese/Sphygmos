@@ -1,6 +1,6 @@
-# The Cataclysmic Pulse
+# The Cataclysmic Collapse
 
-> **Quick Nav:** [Objective](#objective) | [Quick Setup](#quick-setup) | [GM Summary](#gm-summary) | [Win / Lose](#win-lose) | [Round Loop](#round-loop) | [Shelter Tokens](#shelter-tokens) | [Downed And Lost](#downed-and-lost) | [Pulse Timeline](#pulse-timeline) | [Round Details](#round-details) | [End](#end)
+> **Quick Nav:** [Objective](#objective) | [Quick Setup](#quick-setup) | [GM Summary](#gm-summary) | [Win / Lose](#win-lose) | [Round Loop](#round-loop) | [Shelter Tokens](#shelter-tokens) | [Downed And Lost](#downed-and-lost) | [Collapse Timeline](#collapse-timeline) | [Round Details](#round-details) | [End](#end)
 
 > *The world turns hostile. Pressure becomes weight. Stone becomes teeth.*
 
@@ -9,7 +9,7 @@ Escape the collapse before it swallows you.
 <a id="objective"></a>
 ## Objective
 
-- Escape the collapse before the Pulse swallows the party.
+- Escape before the Collapse swallows the party.
 
 **Type:** Environment | **Threat:** Lethal | **Skill Challenge:** **Shelter Clock (Earn up to 4 Shelter Tokens)** | **Duration:** Up to 8 rounds (DM discretion)
 
@@ -27,7 +27,7 @@ Before the first round, do all of the following:
 <a id="gm-summary"></a>
 ## GM Summary
 
-- The Pulse lasts up to **8 rounds**.
+- The Collapse lasts up to **8 rounds**.
 - Each round has a **Global Con Save** and one **Lead Check**.
 - A successful Lead Check gives **1 Shelter Token**.
 - A failed Lead Check triggers that round's hazard.
@@ -100,7 +100,7 @@ Other PCs can do one of the following:
 <a id="downed-and-lost"></a>
 ## Downed And Lost
 
-If a PC drops to **0 HP** during the Pulse:
+If a PC drops to **0 HP** during the Collapse:
 
 - They are **Downed** as normal.
 - If **no ally uses their action** that round to **Drag** them, they become **Lost** at end of the round.
@@ -112,8 +112,8 @@ If a PC drops to **0 HP** during the Pulse:
 
 ---
 
-<a id="pulse-timeline"></a>
-## Pulse Timeline
+<a id="collapse-timeline"></a>
+## Collapse Timeline
 
 | Round | DC | Scene | Special Rule | Hazard Trigger |
 | --- | --- | --- | --- | --- |
@@ -219,4 +219,4 @@ If a PC drops to **0 HP** during the Pulse:
 
 <a id="end"></a>
 ## End
-Continue to [Vital Pulse](../scenes/50-vital-pulse.md)
+Continue to [Vital Collapse](../scenes/50-vital-collapse.md)

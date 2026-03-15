@@ -18,14 +18,14 @@ Read Opening World Introduction.
 <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
     <p><strong>Seraphine Ilyra</strong></p>
     <p><strong>First Impression:</strong> Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.</p>
-    <p><strong>Hidden Depth:</strong> She already suspects the source is subterranean. She does not share this fully at first. She wants proof.</p>
+    <p><strong>Hidden Depth:</strong> She suspects the anomalies share a subterranean source. She refuses to name the model until the obelisk gives her proof.</p>
     <p><a href="../../../NPCs/Seraphine-Ilyra.md">Full profile</a></p>
 </div>
 </div>
 
 ## Read-Aloud
 
->*The world is not at war. There is no demon incursion. No shattered sky. No prophecy carved into stone. The sun rises each morning over green valleys and silver rivers. Trade caravans still roll across open roads. Children still chase dogs through village squares. But something is thinning. The scholars of the High Tower call it the Vital Gradient. Farmers call it bad luck. Hunters call it the Quiet.
+>*The world is not at war. There is no demon incursion. No shattered sky. No prophecy carved into stone. The sun rises each morning over green valleys and silver rivers. Trade caravans still roll across open roads. Children still chase dogs through village squares. But something is thinning. The scholars of the High Tower can measure pieces of it, but they still argue over what it is. Farmers call it bad luck. Hunters call it the Quiet.
 Bees vanish. Wolves grow bold. Crops sprout unevenly. Wells taste faintly metallic. And beneath it all... the ground hums. Not loudly. Not violently. Just enough that if you press your palm to stone at night... you swear you can feel it breathing.*
 
 Pause...

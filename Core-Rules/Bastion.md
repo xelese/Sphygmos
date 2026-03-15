@@ -83,7 +83,7 @@ Advancement benefits do not apply retroactively. If the Tower reaches Level 5 at
 | Arcane Workshop | Calibrate magical instruments. Minor enchantments for field gear. |
 | Leyline Tap | Direct leyline connection. Advantage on first Arcana check per survey. |
 | Deep Archive | Cross-reference all survey data. Reveal hidden patterns across regions. |
-| Predictive Model | Estimate next Pulse timing with improved accuracy. |
+| Predictive Model | Estimate next Collapse timing with improved accuracy. |
 
 ### Surveyor Roster
 
@@ -160,7 +160,7 @@ Special facilities are **not automatic**. They require a narrative trigger in ad
 | Teleportation Circle | An arcanist NPC is recruited who knows the ritual, and the party secures a focus component. |
 | Restoration Chamber | A healer or priest is recruited, and the infirmary sees a clear need for magical restoration. |
 | Leyline Tap | The party maps a leyline conduit passing beneath the Tower, and a team stabilizes access. |
-| Predictive Model | Enough seismic, vital, and leyline data has been collected to build a statistical model of Pulse timing. |
+| Predictive Model | Enough seismic, vital, and leyline data has been collected to build a statistical model of Collapse timing. |
 
 ### Running the Surveyor Roster
 
