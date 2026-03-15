@@ -6,7 +6,9 @@
 
 ## How the Wheel Works
 
-Each region has a tracked collapse state:
+Each region has a tracked collapse state representing how coherent its local biosphere plate remains and how much Vital Current surface life can still draw.
+
+Each region moves through these states:
 
 1. Stable (day 1-4)
 2. Strained (day 5-8)
@@ -16,9 +18,9 @@ Each region has a tracked collapse state:
 
 Each state usually lasts about 4 days.
 
-After that, the region becomes eligible to tip into the next state whenever a Pulse, survey result, or narrative trigger pushes it forward.
+After that, the region becomes eligible to tip into the next state whenever a Pulse, survey result, or narrative trigger strips away more surface accessibility.
 
-> If a region is on day 14, it is already in the Grey Bloom window. You do not need to wait until day 16 exactly. The Pulse can push it over at any point in that span if the timing feels right.
+> If a region is on day 14, it is already in the Grey Bloom window. You do not need to wait until day 16 exactly. The Pulse does not create the weakness from nothing. It pushes a thinned region past the point where surface life can no longer draw reliably.
 
 ## How the Wheel Advances
 
@@ -37,28 +39,36 @@ They can slow specific outcomes.
 
 They cannot stop the wheel outright.
 
+> Major stabilization can hold a region in place or pull it back a tier, but recovery should usually be partial, uneven, and visibly scarred unless the party solves the larger system.
+
 ---
 ## What Each State Feels Like
 
 ### Stable
 
+- The local biosphere plate is coherent and healthy.
 - Life is vibrant.
 - Only subtle anomalies are detectable, usually by trained observers or instruments.
 
 ### Strained
 
+- The field still supports life, but unevenly.
 - Wildlife encounters become less common.
 - Rest becomes less reliable and may require a Constitution save.
+- Healing slows.
 - Food spoils in odd or premature ways.
 
 ### Unstable
 
+- Surface support becomes patchy.
 - Reproduction failures become visible in the environment.
 - Exhaustion risks rise during travel and extended exposure.
+- Dead zones, surges, and weak recovery appear side by side.
 - The region feels increasingly fragile, reactive, and depleted.
 
 ### Grey Bloom
 
+- Accessible surface support has fallen below a sustainable threshold.
 - Decay stops.
 - Insects are absent.
 - Sound feels muffled.
@@ -67,8 +77,11 @@ They cannot stop the wheel outright.
 
 Grey Bloom is not normal death. It is ecological standstill.
 
+Vital support still exists in the planetary system, but it has retreated too far for ordinary surface life to use normally.
+
 ### Dormant
 
+- Local mantle-biosphere coupling is almost entirely gone.
 - Microbial activity is gone.
 - The air feels thin and wrong.
 - Natural healing fails.
@@ -77,4 +90,4 @@ Grey Bloom is not normal death. It is ecological standstill.
 
 It is not dead.
 
-It is baseline.
+It is disconnected from ordinary access.

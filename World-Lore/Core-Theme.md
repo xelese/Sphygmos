@@ -1,18 +1,20 @@
 # The Vital Gradient Collapse
 
-> - **Core Premise:** Life depends on an invisible planetary field called the Vital Gradient.
-> - **What It Is:** The ecological current that allows biological complexity, recovery, and stable magic.
-> - **What Is Going Wrong:** The system is weakening, destabilizing, and releasing stored pressure in catastrophic pulses.
+> - **Core Premise:** Life depends on a planetary Vital field held between a deep reservoir below and the living biosphere above.
+> - **What It Is:** Vital Potential becomes usable as Vital Current when living things couple locally to that field.
+> - **What Is Going Wrong:** The biosphere is losing coherence as the planet's upper Vital plate, and Pulses are driving accessible support away from the surface.
 
-Life on this world depends on an invisible planetary field. Scholars call it the Vital Gradient. It is not exactly magic, though magic relies on it. It is not divine. It is the environmental and biological current that lets complex life persist:
+Life on this world depends on an invisible planetary field. Scholars call the whole phenomenon the Vital Gradient. In technical writing they often split that model into finer terms, but common speech keeps the older name. It is not exactly magic, though magic relies on it. It is not divine. It is the environmental field-state that allows complex life to persist, heal, think, grow, reproduce, and practice stable magic.
 
-They call it a gradient because it is not a single invisible substance sitting evenly across the world. It behaves more like a difference in pressure, density, and livability between places. In some regions the field is rich, stable, and easy for life to draw upon. In others it is thin, stressed, or already slipping. Life, recovery, migration, and magical stability all follow those differences the way water follows slope or heat follows a temperature gradient.
+They call it a gradient because it is not a single invisible substance sitting evenly across the world. It behaves more like a difference in availability between depth and surface life. In some regions the field is rich, stable, and easy for life to draw upon. In others it is thin, stressed, or already slipping. Recovery, fertility, migration, and magical reliability all follow those differences the way roots follow groundwater or blood follows pressure.
 
 It is failing. Neither evenly nor predictably.
 
+For the dedicated cosmology reference, see [The Vital Gradient](./Vital-Gradient.md).
+
 ## How the Collapse Appears in the World
 
-The Vital Gradient does not fail like a plague or a curse. It behaves more like environmental pressure loss.
+The Vital Gradient does not fail like a plague or a curse. It behaves more like loss of access to something life still needs but can no longer reliably reach.
 
 ### Trophic Cascade Failure
 
@@ -34,13 +36,15 @@ Creatures in stressed regions begin to live at a deficit.
 
 ### Arcane Instability
 
-Magic above a certain intensity destabilizes the Vital Gradient locally.
+Magic does not create the Vital Current. It shapes the field through which that current is accessible.
 
-High-level spellcasting does not merely react to the collapse. It accelerates it.
+When spellwork becomes too intense, too frequent, or badly phased, it distorts weak regions further.
+
+High-level spellcasting does not merely react to the collapse. In already stressed places, it can accelerate it.
 
 ### Grey Bloom Zones
 
-Grey Bloom is the most dangerous visible manifestation of the collapse.
+Grey Bloom is the most dangerous visible manifestation of the collapse short of full Dormancy.
 
 In these regions:
 
@@ -48,12 +52,26 @@ In these regions:
 - Sound seems muted.
 - Insects vanish.
 - Carcasses do not rot.
+- Wounds stop closing at a normal pace.
 
-Grey Bloom is not death. It is metabolic standstill.
-
-These are ecological vacuum zones: no decay, no renewal, no healthy cycle of life continuing beneath the surface.
+Grey Bloom is not ordinary death. It is a state in which surface life can no longer draw enough Vital Current to maintain normal cycles of decay, renewal, and recovery.
 
 Exploration here should feel like walking across an abandoned operating table.
+
+### Dormant Regions
+
+Dormant regions are worse.
+
+The Vital support is still in the planetary system, but it has retreated too far downward for ordinary surface life to use.
+
+- Microbial activity fails.
+- Regrowth stops.
+- Natural healing collapses.
+- Stable magic becomes rare, weak, or distorted.
+
+Dormancy is not annihilation.
+
+It is disconnection.
 
 ## Player-Facing Knowledge
 
@@ -78,6 +96,7 @@ They describe the collapse through symptoms, superstition, and local stories.
 - Food spoils strangely, or else stops rotting in the worst zones.
 - Wildlife migrates before people realize a region is in trouble.
 - The damage spreads in patterns rather than at random.
+- Some regions recover slightly after a Pulse, but never evenly and rarely back to what they were.
 
 This tier works well for practical characters who live close to the land.
 
@@ -86,9 +105,9 @@ This tier works well for practical characters who live close to the land.
 
 - Magic is entangled with the phenomenon.
 - High-intensity spellcasting seems to make local conditions worse.
-- The collapse behaves more like pressure failure than plague, curse, or divine punishment.
-- Pulses appear to push already weakened regions over the edge.
-- Some ancient structures may have been built to monitor or stabilize the process.
+- The collapse behaves more like field failure than plague, curse, or divine punishment.
+- Pulses appear to push already weakened regions past a threshold of access.
+- Some ancient structures may have been built to monitor, align, or stabilize the process.
 
 This is a strong mid-campaign knowledge tier: useful, credible, and incomplete.
 
@@ -99,6 +118,7 @@ This is a strong mid-campaign knowledge tier: useful, credible, and incomplete.
 - Different regions fail at different rates.
 - A Pulse is a real event with repeatable warning signs.
 - Local stabilization may be possible, but nothing about it is simple.
+- Recovery after a Pulse is possible, but usually partial, patchy, and scarred.
 
 This tier fits successful surveys, careful observation, and instrument-driven investigation.
 
@@ -119,12 +139,12 @@ When a Pulse hits:
 - Animals go silent.
 - A low-frequency vibration hums through stone.
 - Spellcasters feel pressure behind their eyes.
-- Water ripples inward toward no visible center.
+- Water ripples inward as if tugged toward depth.
 - Clocks skip half a second.
 
 In Grey Bloom zones, the Pulse causes visible air distortion like heat haze.
 
-In Dormant zones, almost nothing happens, because nothing reacts anymore.
+In Dormant zones, almost nothing happens, because almost nothing still reacts.
 
 ### Social Effects of a Pulsing World
 
@@ -153,18 +173,43 @@ After each Pulse:
 
 - Similar collapse cycles seem to occur roughly every 10,000 to 15,000 years.
 - Fossil strata suggest prior mass extinctions.
-- Deep caverns contain ruins left by a civilization that stabilized parts of the planet temporarily.
+- Deep caverns contain ruins left by a civilization that attempted to stabilize parts of the planet temporarily.
 - This cycle appears to be accelerating.
-- Many scholars suspect civilization itself has pushed the system past a natural threshold.
+- Many scholars suspect civilization itself has pushed the living surface system beyond what it can coherently sustain.
 
 ---
 ## GM-Only Ground Truth
 
 Everything below this point is full-spoiler material.
 
+### The Planetary Model
+
+The world is sustained by a Vital field held between a deep mantle reservoir and the living biosphere above.
+
+| Term | Meaning |
+| --- | --- |
+| Vital Potential | Stored life-supporting potential in the coupled planetary system |
+| Vital Gradient | The difference in availability between deep reservoir and surface life |
+| Vital Current | The active usable flow organisms draw to sustain living activity |
+| Biosphere Plate | The living surface layer that holds and distributes support |
+
+Life does not create Vitality from nothing.
+
+Life forms the living structure that can hold, distribute, and draw on Vital Potential.
+
+Magic is not that current itself. Magic shapes the field through alignment, resonance, redirection, gating, and distortion.
+
 ### In-World Explanation of the Pulse
 
-The Vital Mantle operates like a pressure reservoir.
+A Pulse is a field-collapse event in which the biosphere can no longer function as the planet's upper Vital plate, causing surface support to fail and accessible Vital Potential to retreat downward toward depth.
+
+The Collapse is not an attack.
+
+It is not a simple discharge.
+
+It is a planetary coherence failure.
+
+### How Strain Builds
 
 Over millennia:
 
@@ -173,66 +218,36 @@ Over millennia:
 - Population increases.
 - Ecosystems become denser and more interconnected.
 
-All of this stores Vital potential in the biosphere.
+Living activity draws Vital Current from the field.
 
-Eventually, the system crosses a threshold. The mantle destabilizes and contracts violently in pulses.
+Magic, especially at scale, distorts the field that makes that current accessible.
 
-The Collapse is not an attack.
-
-It is a planetary pressure-release cycle.
-
-It is a reset.
+When draw and distortion outpace the biosphere's ability to recharge, repair, and remain coherently aligned, the surface plate becomes patchy, thin, and unstable.
 
 ### Why It Is Happening Now
 
-This cycle is accelerating because civilization has amplified Vital density far beyond natural thresholds through concentrated magic, planar summoning, arcane industry, and mass urbanization.
+This cycle is accelerating because civilization has amplified both demand and distortion through concentrated magic, planar summoning, arcane industry, and mass urbanization.
 
-The system is overloaded.
+The problem is not that life has become evil, artificial, or unnatural.
 
-It is discharging violently.
-
-### The Planetary Model
-
-The planet contains a Mantle Bio-Crystalline Lattice: a vast naturally occurring crystal network embedded in the upper mantle.
-
-This lattice:
-
-- Conducts geothermal energy upward.
-- Couples with surface biospheres.
-- Stores biological complexity as structured energy.
-- Stabilizes magic by maintaining energetic gradients.
-
-In practical terms, it behaves like a capacitor system between mantle heat and surface life.
-
-Life increases the charge.
-
-Magic increases it faster.
-
-Civilization increases it exponentially.
-
-### The Instability
-
-Over millennia, the lattice accumulates Vital Potential.
-
-Once that potential exceeds structural tolerance, microfractures spread through the crystal network. Instead of venting gradually, the system discharges catastrophically.
-
-That discharge is a Pulse.
+The problem is that the living surface system is being pushed past what it can coherently hold.
 
 ### What a Pulse Is Physically
 
 A Pulse is:
 
-- A sudden downward draw of Vital Potential.
-- A rapid energy reabsorption into mantle conduits.
-- A pressure-contraction wave moving through biospheric coupling fields.
+- A break in field coherence.
+- A sudden failure of surface support.
+- A downward retreat of accessible Vital Potential toward the deep reservoir.
+- A sharp reduction in usable Vital Current at the surface.
 
-It behaves like a subsonic shockwave.
+It behaves like a subsonic pressure-and-phase shock through the living world.
 
 It is not heat.
 
 It is not radiation.
 
-It is a sudden drop in energetic support for complexity.
+It is not glowing fluid pouring into the earth.
 
 Where it passes:
 
@@ -240,149 +255,45 @@ Where it passes:
 - Neural regulation falters.
 - Microbial networks collapse.
 - Emotional regulation declines.
+- Stable magic sputters, distorts, or fails.
 
 The Pulse does not kill directly. It lowers the complexity ceiling until whatever was barely sustainable fails first.
 
 ### Why Pulses Keep Coming Faster
 
-The lattice is already fractured.
+The biosphere plate is already patchy and weakened.
 
-Each discharge:
+Each Pulse:
 
-1. Relieves some immediate stress.
-2. Increases fracture propagation.
-3. Reduces long-term stability.
-4. Shortens the time until the next breach.
+1. Strips coherence from regions that were already thin.
+2. Deepens phase mismatch between neighboring regions.
+3. Makes future draw harder to sustain cleanly.
+4. Shortens the time until the next threshold failure.
 
-It is a cracked bell struck over and over again.
-
-The interval between pulses shrinks because fractures spread, energy redistributes unevenly, and surface complexity remains dangerously high.
-
-The planet is oscillating toward catastrophic full discharge.
+The interval between pulses shrinks because the surface system is losing its ability to hold planetary tension as a unified whole.
 
 ### Why Regions Degrade Step by Step
 
-Vital Potential density is not uniform.
+Vital access is not uniform.
 
-Urban centers, magical nexuses, and biodiverse regions are charge-rich. When a Pulse passes through them, the differential drop is sharper.
+Urban centers, magical nexuses, and biodiverse regions all depend on high, stable surface access. When a Pulse passes through them, places that were already strained lose that access first.
 
 That is why regions degrade in a visible sequence:
 
 **Stable -> Strained -> Unstable -> Grey Bloom -> Dormant**
 
-Grey Bloom means the local Vital floor has collapsed.
+Grey Bloom means the local surface support has fallen below a sustainable threshold.
 
-Dormant means the lattice coupling has failed.
+Dormant means local mantle-biosphere coupling is too weak for ordinary surface life to use.
 
 Not dead.
 
-Disconnected.
+Inaccessible.
 
----
-## GM-Only Stabilization
+### Recovery After a Pulse
 
-### The Harmonic Counter-Oscillator
+A Pulse does not mean the biosphere plate ceases to exist forever.
 
-If the Mantle lattice is oscillating at an unstable frequency, the only way to reduce the spike is to introduce a synchronized counter-frequency.
+Some mantle-biosphere tension can re-establish after a collapse, but often at a weaker, patchier, lower-complexity level than before.
 
-When properly phased:
-
-- Peak contraction meets controlled expansion.
-- Energy is redistributed laterally instead of downward.
-- Stress fractures seal instead of spreading.
-
-This is resonance engineering, not simple healing.
-
-It is closer to stabilizing a bridge by counter-vibration than casting a repair spell.
-
-### Required Components
-
-#### 1. Phase Detection Array
-
-- Planet-wide sensor obelisks.
-- Measures contraction amplitude in real time.
-- Calculates oscillation phase lag.
-- Must be installed across multiple regions.
-
-#### 2. Geothermal Amplifiers
-
-- Built over deep mantle conduits.
-- Convert geothermal flow into modulated harmonic output.
-- Dangerous to operate near Pulse peak.
-- Function as regional mega-projects.
-
-#### 3. Leyline Synchronization Towers
-
-- Align surface magical fields.
-- Prevent the counter-wave from fragmenting.
-- Require cooperation between regions.
-- Fail if political support collapses and the system desynchronizes.
-
-#### 4. Biological Feedback Conduit
-
-This is the irreplaceable component.
-
-The lattice evolved in response to living biological complexity. It will not entrain fully to inert machinery alone.
-
-The HCO requires a living nervous system integrated into the core node.
-
-The machine can calculate.
-
-The living conduit must make the micro-phase adjustments instinctively.
-
-Without that adaptive correction, phase drift becomes catastrophic amplification.
-
----
-### Activation Sequence
-
-To stabilize the system:
-
-1. Wait for peak Pulse contraction.
-2. Engage the geothermal amplifiers.
-3. Align the leyline towers.
-4. Initiate harmonic injection precisely 0.7 to 1.3 seconds after contraction apex.
-5. Maintain phase across multiple oscillation cycles.
-
-Failure outcomes include:
-
-- Mistimed phase causing a doubled Pulse amplitude.
-- Partial synchronization causing a regional Dormancy cascade.
-- Overcorrection causing localized seismic collapse.
-
-It is extremely dangerous even when performed correctly.
-
-### What Countering the Pulse Actually Does
-
-The Harmonic Counter-Oscillator does not eliminate Pulses.
-
-It reduces their amplitude over successive cycles.
-
-The desired progression looks like this:
-
-- Violent spikes become damped oscillation.
-- Vital floor stabilizes.
-- Fractures begin to anneal.
-- The interval between pulses lengthens.
-
-If successful, the planet eventually returns to a stable dynamic equilibrium.
-
-But it returns there at a lower total Vital density.
-
-That is where the cost enters.
-
-### Why the Cost Is Inevitable
-
-Energy must go somewhere.
-
-If the Pulse is damped artificially, the excess burden still has to be absorbed or displaced.
-
-Possible costs include:
-
-- Venting excess Vital density into lifespan compression.
-- Burning it off through massive geothermal heat loss.
-- Intentionally sacrificing selected regions.
-- Storing the burden permanently in a living conduit.
-
-The HCO does not create stability from nothing.
-
-It redistributes the burden of survival.
+Full recovery is possible in theory over 10,000 - 15,000 years. Partial recovery in between. Failed recovery leaves permanent blight.
