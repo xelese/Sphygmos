@@ -1,0 +1,127 @@
+<mxfile host="65bd71144e">
+    <diagram name="Page-1" id="pI1T138_VxzNxRsHKeAL">
+        <mxGraphModel dx="1511" dy="2028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-80" y="-400" width="1750" height="720" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-54" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Planetary Vital Field Model&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
+                    <mxGeometry y="-320" width="520" height="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=-0.002;exitY=0.467;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-47" target="BmdDU4ruW2ch1Wvgm0hb-48" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="758" y="-30" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-51" value="Uses" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="BmdDU4ruW2ch1Wvgm0hb-50" connectable="0" vertex="1">
+                    <mxGeometry x="-0.0687" relative="1" as="geometry">
+                        <mxPoint y="-14" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Local Biological Draw&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;horizontal=1;" parent="1" vertex="1">
+                    <mxGeometry x="760" y="-320" width="840" height="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-1" value="Deep Mantle Reservoir &#xa;(lower source/sink)" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;legacyAnchorPoints=0;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="120" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-55" target="BmdDU4ruW2ch1Wvgm0hb-3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="770.0000000000002" y="-220" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-2" value="Vital Field Across the Gap" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;legacyAnchorPoints=0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="-160" width="160" height="240" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-3" value="Biosphere &#xa;(non-ideal upper plate)" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;legacyAnchorPoints=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="240" y="-240" width="240" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-7" value="" style="startArrow=block;endArrow=block;rounded=0;startFill=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="80" as="targetPoint"/>
+                        <mxPoint x="360" y="120" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-8" value="" style="startArrow=block;endArrow=block;rounded=0;startFill=1;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="-160" as="sourcePoint"/>
+                        <mxPoint x="360" y="-200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-13" target="BmdDU4ruW2ch1Wvgm0hb-27" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-13" target="BmdDU4ruW2ch1Wvgm0hb-28" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-13" target="BmdDU4ruW2ch1Wvgm0hb-26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-13" target="BmdDU4ruW2ch1Wvgm0hb-29" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-55" target="BmdDU4ruW2ch1Wvgm0hb-13" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="1180" y="-150"/>
+                            <mxPoint x="1180" y="-150"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-13" target="BmdDU4ruW2ch1Wvgm0hb-57" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-13" value="Vital current drawn" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;legacyAnchorPoints=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="1100" y="-110" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-15" target="BmdDU4ruW2ch1Wvgm0hb-1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="360" y="200" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-15" value="Deep Planetary Activity / Source Pressure" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;legacyAnchorPoints=0;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="200" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-26" value="Metabolism" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="800" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-27" value="Healing" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="960" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-28" value="Thought and nerves" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="1120" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-29" value="Growth and fertility" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="1280" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-48" target="BmdDU4ruW2ch1Wvgm0hb-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-53" value="Interacts via&lt;br&gt;&lt;br&gt;shapes field alignment" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" parent="BmdDU4ruW2ch1Wvgm0hb-52" connectable="0" vertex="1">
+                    <mxGeometry x="-0.1313" relative="1" as="geometry">
+                        <mxPoint x="27" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-48" value="Magic" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;legacyAnchorPoints=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="640" y="-60" width="80" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-55" value="Organisms couple locally to biosphere field" style="whiteSpace=wrap;strokeWidth=2;direction=east;flipV=1;legacyAnchorPoints=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="1100" y="-240" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-57" value="ecological cycling" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="1440" y="160" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;" parent="1" source="BmdDU4ruW2ch1Wvgm0hb-59" target="BmdDU4ruW2ch1Wvgm0hb-60" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-59" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;dashed=1;" parent="1" vertex="1">
+                    <mxGeometry x="170" y="-220" width="60" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="BmdDU4ruW2ch1Wvgm0hb-60" value="&lt;div align=&quot;center&quot;&gt;Vital Gradient&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;strokeWidth=2;pointerEvents=1;fontColor=default;" parent="1" vertex="1">
+                    <mxGeometry x="40" y="-80" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

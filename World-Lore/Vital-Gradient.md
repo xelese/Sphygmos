@@ -1,8 +1,8 @@
 # The Vital Gradient
 
 > - **Purpose:** Canon reference for the Vital field model that underlies life, collapse, and stabilization across the setting.
-> - **Short Version:** The world holds a deep Vital reservoir below and a living biosphere above. Life draws usable Vital Current through the field between them. A Pulse happens when that surface system loses coherence.
-> - **Use:** Reference this file when explaining the cosmology, Pulse behavior, Grey Bloom, Dormancy, or the role of magic.
+> - **Short Version:** Deep planetary source pressure feeds a deep Vital reservoir below and a living biosphere above. The field across that gap is the Vital Gradient. Life draws usable Vital Current through it. A Collapse happens when that surface system loses coherence.
+> - **Use:** Reference this file when explaining the cosmology, Collapse behavior, Grey Bloom, Dormancy, or the role of magic.
 
 ## Core Model
 
@@ -10,48 +10,64 @@ The world is sustained by a Vital field held between a deep mantle reservoir and
 
 This is the basic model:
 
-1. The planet holds a deep Vital reservoir.
-2. The biosphere forms a living surface structure that can hold and distribute support.
-3. Organisms couple locally to that structure.
-4. Usable Vital Current is drawn into metabolism, healing, thought, growth, fertility, ecological cycling, and stable magic.
+1. Deep Planetary Activity, or Source Pressure, feeds the lower system.
+2. That lower system is held in the Deep Mantle Reservoir, the world's lower source and sink of Vital support.
+3. Across the gap between depth and surface, a Vital Field is held in tension.
+4. The biosphere acts as the world's non-ideal upper plate, also called the Biosphere Plate.
+5. Organisms couple locally to the biosphere field.
+6. Vital Current is then drawn into metabolism, healing, thought and nerves, growth and fertility, and ecological cycling.
 
-Life does not create Vitality from nothing.
+Life does not create Vitality from nothing. Life forms the living structure that can hold, distribute, and draw on it.
 
-Life forms the living structure that can hold, distribute, and draw on it.
+![Vital-model](https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Draw-io/Vitality.png)
 
 ## Term Map
 
 | Term | Meaning | Notes |
 | --- | --- | --- |
+| Deep Planetary Activity / Source Pressure | The deep driving pressure that feeds the lower system | The deepest engine in the model, beneath the reservoir itself |
 | Vital Potential | Stored life-supporting potential in the coupled planetary system | Not a separate pool from the field-state; the stored support of the whole system |
 | Vital Gradient | The difference in availability between deep reservoir and surface life | The broad term most people use for the entire phenomenon |
+| Vital Field Across the Gap | The held field-state between deep mantle support and the biosphere | The actual span across which access is maintained |
 | Vital Current | The active usable flow organisms draw | Powers living activity directly |
-| Biosphere Plate | The living surface layer that holds and distributes support | Non-ideal, living, patchy, self-repairing, and fragile |
+| Biosphere / Biosphere Plate | The living surface layer that holds and distributes support | The biosphere in its role as the world's non-ideal upper plate |
 | Deep Mantle Reservoir | The lower source and sink of Vital support | The deep anchor of the world-system |
-| Pulse | Collapse of biosphere-plate coherence | Surface support fails and accessible Vital Potential retreats downward |
+| Local Biological Draw | The process by which organisms couple to the biosphere field and draw current | The living-use side of the model |
+| Organism Coupling | The local attachment of living systems to the biosphere field | This is how usable current is accessed |
+| Magic | Field interaction through alignment, resonance, redirection, gating, and distortion | It shapes field alignment rather than becoming the current |
+| Collapse | Collapse of biosphere-plate coherence | Surface support fails and accessible Vital Potential retreats downward |
 
 ## How Life Uses It
 
 Life draws on Vital Potential the way roots draw on groundwater or organs draw on blood pressure.
 
+In diagram terms, this is the Local Biological Draw sequence:
+
+1. Organisms couple locally to the biosphere field.
+2. Vital Current is drawn.
+3. That current supports the active work of life.
+
 Vital Current supports:
 
 - metabolism
 - healing
-- neural activity and thought
-- growth and reproduction
+- thought and nerves
+- growth and fertility
 - ecological cycling
-- stable magical working
 
-In practical setting terms, life stores it, channels it, and draws on it. 
+Stable magic depends on the same field, but not as a simple direct output in the way metabolism or healing do. Magic acts on access, phase, and alignment.
 
-***Internally it wills the biological cells carry out tasks to sustain life.***
+In practical setting terms, life stores it, channels it, and draws on it.
+
+Internally, Vital Current wills biological cells, tissues, and nervous systems to keep performing the work of life.
 
 ## The Role of Magic
 
 Magic is not the Vital Current itself.
 
-Magic shapes the field through which Vitality is accessible.
+Magic interacts through the field by shaping alignment.
+
+In practical terms, magic shapes the field through which Vitality is accessible like a magnet induced by current.
 
 Magic can:
 
@@ -69,6 +85,8 @@ This matters because current draw and magical strain are related but not identic
 - Excessive draw weakens coherence.
 - Excessive distortion destabilizes coherence.
 
+So the model is not that magic is the current. The model is that magic interacts with the field that determines how current can be accessed.
+
 ## Stable, Unstable, and Collapse States
 
 ### Stable
@@ -76,15 +94,17 @@ This matters because current draw and magical strain are related but not identic
 In a stable state, the biosphere plate is coherent and healthy.
 
 ```text
+Deep Planetary Activity / Source Pressure
+        ↑
 Deep mantle reservoir
         ↑
-Strong Vital Gradient held across the world
+Strong Vital Field Across the Gap
         ↑
 Healthy biosphere plate stores and distributes support
         ↑
 Organisms draw Vital Current
         ↑
-Metabolism, healing, growth, thought, fertility, stable magic
+Metabolism, healing, thought and nerves, growth and fertility, ecological cycling
 ```
 
 - Fertility is strong.
@@ -98,13 +118,15 @@ Metabolism, healing, growth, thought, fertility, stable magic
 In an unstable state, the biosphere plate still exists, but it is strained and uneven.
 
 ```text
+Deep Planetary Activity / Source Pressure
+        ↑
 Deep mantle reservoir
         ↑
-Vital Gradient still exists, but fluctuates
+Vital Field Across the Gap still exists, but fluctuates
         ↑
 Biosphere plate becomes patchy, thin, and stressed
         ↑
-Organisms draw current unevenly
+Organisms couple and draw current unevenly
         ↑
 Fatigue, weaker recovery, sterile zones, ecological failure, unstable magic
 ```
@@ -116,9 +138,9 @@ Fatigue, weaker recovery, sterile zones, ecological failure, unstable magic
 - Mental fog and nervous instability increase.
 - Ecologies become patchy and brittle.
 
-### Pulse
+### Collapse
 
-A Pulse is a field-collapse event in which the biosphere can no longer function as the planet's upper Vital plate.
+A Collapse is a field-collapse event in which the biosphere can no longer function as the planet's upper Vital plate.
 
 When that happens:
 
@@ -127,15 +149,15 @@ When that happens:
 - accessible Vital Potential retreats downward toward depth
 - usable Vital Current fails at the surface
 
-The Pulse does not kill by heat, plague, or radiation.
+The Collapse does not kill by heat, plague, or radiation.
 
 It lowers the complexity ceiling until whatever was barely sustainable fails first.
 
 ```text
-Before Pulse:
+Before Collapse:
 Deep reservoir ↔ surface biosphere field held in tension
 
-At Pulse:
+At Collapse:
 Field coherence breaks
         ↓
 Surface support collapses
@@ -145,7 +167,7 @@ Accessible Vital support retreats downward
 Surface life loses access
 ```
 
-During the Pulse:
+During the Collapse:
 
 ```text
 Deep mantle reservoir becomes dominant sink
@@ -166,7 +188,9 @@ The best analogy is a falling water table:
 - the water still exists
 - but it is now too deep for the roots to reach
 
-After a Pulse, the Vital support is still in the planetary system, but it is no longer accessible to surface life in the same way.
+After a Collapse, the Vital support is still in the planetary system, but it is no longer accessible to surface life in the same way.
+
+In diagram language, the field across the gap has not been annihilated. It has failed to remain coherently usable from the surface side.
 
 ## Grey Bloom and Dormancy
 
@@ -223,11 +247,11 @@ Surface support becomes patchy and unstable
 
 Civilization accelerates this process because it concentrates population, arcane industry, infrastructure, and magical demand into the same living system.
 
-## Why Pulses Accelerate
+## Why Collapses Accelerate
 
-Pulses come faster when the biosphere plate is already patchy and weakened.
+Collapses come faster when the biosphere plate is already patchy and weakened.
 
-Each Pulse:
+Each Collapse:
 
 1. strips coherence from regions that were already thin
 2. deepens phase mismatch between neighboring regions
@@ -238,9 +262,9 @@ The world is not simply emptying.
 
 It is losing its ability to hold planetary tension as a unified whole.
 
-## Recovery After a Pulse
+## Recovery After a Collapse
 
-A Pulse does not mean the biosphere plate ceases to exist forever.
+A Collapse does not mean the biosphere plate ceases to exist forever.
 
 Some mantle-biosphere tension can re-establish after collapse, but often at a weaker, patchier, lower-complexity level than before.
 
@@ -254,47 +278,8 @@ For this setting, partial recovery is the strongest default.
 
 ## Canon Definitions
 
-> **Pulse:** A field-collapse event in which the biosphere can no longer function as the planet's upper Vital plate, causing surface support to fail and accessible Vital Potential to retreat downward toward depth.
+> **Collapse:** A field-collapse event in which the biosphere can no longer function as the planet's upper Vital plate, causing surface support to fail and accessible Vital Potential to retreat downward toward depth.
 
 > **Magic:** Not the Vital Current itself, but the art of shaping the field through which Vitality is accessible: aligning, focusing, bending, gating, and resonating it.
 
 > **Life:** It does not create Vitality from nothing. It forms the living structure that can hold, distribute, and draw on Vital Potential.
-
-## GitHub-ready Mermaid diagrams
-
-### Core model
-
-```mermaid
-flowchart TD
-    A[Deep Mantle Reservoir] --> B[Vital Potential Field]
-    B --> C[Biosphere Plate]
-    C --> D[Vital Current]
-    D --> E[Metabolism, Healing, Thought, Growth]
-
-    M[Magic = Field Shaping] -.-> B
-    M -.-> C
-```
-
-### Stable → Unstable → Pulse
-
-```mermaid
-flowchart TD
-    S[Stable Biosphere Plate] --> U[Unstable: patchy strained support]
-    U --> P[Pulse: coherence collapse]
-    P --> R[Accessible Vital Potential retreats downward]
-    R --> F[Surface life loses usable current]
-```
-
-### How life draws on Vital Potential
-
-```mermaid
-flowchart TD
-    A[Deep Mantle Reservoir] --> B[Vital Potential held across the system]
-    B --> C[Biosphere Plate stores and distributes support]
-    C --> D[Organisms couple locally to the field]
-    D --> E[Vital Current is drawn]
-    E --> F[Metabolism]
-    E --> G[Healing]
-    E --> H[Thought and nerves]
-    E --> I[Growth and fertility]
-```

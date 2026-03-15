@@ -2,7 +2,7 @@
 
 > - **Core Premise:** Life depends on a planetary Vital field held between a deep reservoir below and the living biosphere above.
 > - **What It Is:** Vital Potential becomes usable as Vital Current when living things couple locally to that field.
-> - **What Is Going Wrong:** The biosphere is losing coherence as the planet's upper Vital plate, and Pulses are driving accessible support away from the surface.
+> - **What Is Going Wrong:** The biosphere is losing coherence as the planet's upper Vital plate, and Collapses are driving accessible support away from the surface.
 
 Life on this world depends on an invisible planetary field. Scholars call the whole phenomenon the Vital Gradient. In technical writing they often split that model into finer terms, but common speech keeps the older name. It is not exactly magic, though magic relies on it. It is not divine. It is the environmental field-state that allows complex life to persist, heal, think, grow, reproduce, and practice stable magic.
 
@@ -96,7 +96,7 @@ They describe the collapse through symptoms, superstition, and local stories.
 - Food spoils strangely, or else stops rotting in the worst zones.
 - Wildlife migrates before people realize a region is in trouble.
 - The damage spreads in patterns rather than at random.
-- Some regions recover slightly after a Pulse, but never evenly and rarely back to what they were.
+- Some regions recover slightly after a Collapse, but never evenly and rarely back to what they were.
 
 This tier works well for practical characters who live close to the land.
 
@@ -106,7 +106,7 @@ This tier works well for practical characters who live close to the land.
 - Magic is entangled with the phenomenon.
 - High-intensity spellcasting seems to make local conditions worse.
 - The collapse behaves more like field failure than plague, curse, or divine punishment.
-- Pulses appear to push already weakened regions past a threshold of access.
+- Collapses appear to push already weakened regions past a threshold of access.
 - Some ancient structures may have been built to monitor, align, or stabilize the process.
 
 This is a strong mid-campaign knowledge tier: useful, credible, and incomplete.
@@ -116,9 +116,9 @@ This is a strong mid-campaign knowledge tier: useful, credible, and incomplete.
 - Grey Bloom is not ordinary death.
 - The collapse can be measured indirectly through ecological and physiological changes.
 - Different regions fail at different rates.
-- A Pulse is a real event with repeatable warning signs.
+- A Collapse is a real event with repeatable warning signs.
 - Local stabilization may be possible, but nothing about it is simple.
-- Recovery after a Pulse is possible, but usually partial, patchy, and scarred.
+- Recovery after a Collapse is possible, but usually partial, patchy, and scarred.
 
 This tier fits successful surveys, careful observation, and instrument-driven investigation.
 
@@ -128,13 +128,13 @@ This tier fits successful surveys, careful observation, and instrument-driven in
 - It is divine punishment for magical arrogance.
 - It was caused by one rival nation, species, or faction.
 - Grey Bloom means the dead are trapped and haunting the land.
-- Sacrifice, prayer, or evacuation alone can prevent the next Pulse.
+- Sacrifice, prayer, or evacuation alone can prevent the next Collapse.
 
 These theories should remain common because they create fear, blame, and political friction without requiring people to be irrational.
 
-### What a Pulse Feels Like
+### What a Collapse Feels Like
 
-When a Pulse hits:
+When a Collapse hits:
 
 - Animals go silent.
 - A low-frequency vibration hums through stone.
@@ -142,7 +142,7 @@ When a Pulse hits:
 - Water ripples inward as if tugged toward depth.
 - Clocks skip half a second.
 
-In Grey Bloom zones, the Pulse causes visible air distortion like heat haze.
+In Grey Bloom zones, the Collapse causes visible air distortion like heat haze.
 
 In Dormant zones, almost nothing happens, because almost nothing still reacts.
 
@@ -150,21 +150,21 @@ In Dormant zones, almost nothing happens, because almost nothing still reacts.
 
 The psychological pressure becomes cyclical as well.
 
-As each Pulse approaches:
+As each Collapse approaches:
 
 - Markets panic.
 - Refugees move before the damage arrives.
 - Militias mobilize.
 - Regions demand stabilizers first.
 
-After each Pulse:
+After each Collapse:
 
 - Resource shortages worsen.
 - Fertility rates drop.
 - Aggression spikes in newly Unstable zones.
 - Suicide rises quietly in the places no one is watching.
 
-> - **Campaign Pressure:** After each Pulse, a region already in Strained or worse is at risk of civic breakdown.
+> - **Campaign Pressure:** After each Collapse, a region already in Strained or worse is at risk of civic breakdown.
 > - **Common Outcomes:** Resource contributions drop, leaders blame the Tower, and factions form around fear, scarcity, or local protection.
 > - **Escalation Point:** Once a region reaches Grey Bloom, outside support may stop entirely unless the players intervene.
 > - **Practical Tempo:** Two surveys should feel like a countdown clock between major deterioration events.
@@ -199,9 +199,9 @@ Life forms the living structure that can hold, distribute, and draw on Vital Pot
 
 Magic is not that current itself. Magic shapes the field through alignment, resonance, redirection, gating, and distortion.
 
-### In-World Explanation of the Pulse
+### In-World Explanation of the Collapse
 
-A Pulse is a field-collapse event in which the biosphere can no longer function as the planet's upper Vital plate, causing surface support to fail and accessible Vital Potential to retreat downward toward depth.
+A Collapse is a field-collapse event in which the biosphere can no longer function as the planet's upper Vital plate, causing surface support to fail and accessible Vital Potential to retreat downward toward depth.
 
 The Collapse is not an attack.
 
@@ -232,9 +232,9 @@ The problem is not that life has become evil, artificial, or unnatural.
 
 The problem is that the living surface system is being pushed past what it can coherently hold.
 
-### What a Pulse Is Physically
+### What a Collapse Is Physically
 
-A Pulse is:
+A Collapse is:
 
 - A break in field coherence.
 - A sudden failure of surface support.
@@ -257,26 +257,26 @@ Where it passes:
 - Emotional regulation declines.
 - Stable magic sputters, distorts, or fails.
 
-The Pulse does not kill directly. It lowers the complexity ceiling until whatever was barely sustainable fails first.
+The Collapse does not kill directly. It lowers the complexity ceiling until whatever was barely sustainable fails first.
 
-### Why Pulses Keep Coming Faster
+### Why Collapses Keep Coming Faster
 
 The biosphere plate is already patchy and weakened.
 
-Each Pulse:
+Each Collapse:
 
 1. Strips coherence from regions that were already thin.
 2. Deepens phase mismatch between neighboring regions.
 3. Makes future draw harder to sustain cleanly.
 4. Shortens the time until the next threshold failure.
 
-The interval between pulses shrinks because the surface system is losing its ability to hold planetary tension as a unified whole.
+The interval between Collapses shrinks because the surface system is losing its ability to hold planetary tension as a unified whole.
 
 ### Why Regions Degrade Step by Step
 
 Vital access is not uniform.
 
-Urban centers, magical nexuses, and biodiverse regions all depend on high, stable surface access. When a Pulse passes through them, places that were already strained lose that access first.
+Urban centers, magical nexuses, and biodiverse regions all depend on high, stable surface access. When a Collapse passes through them, places that were already strained lose that access first.
 
 That is why regions degrade in a visible sequence:
 
@@ -290,9 +290,9 @@ Not dead.
 
 Inaccessible.
 
-### Recovery After a Pulse
+### Recovery After a Collapse
 
-A Pulse does not mean the biosphere plate ceases to exist forever.
+A Collapse does not mean the biosphere plate ceases to exist forever.
 
 Some mantle-biosphere tension can re-establish after a collapse, but often at a weaker, patchier, lower-complexity level than before.
 
