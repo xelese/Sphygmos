@@ -30,8 +30,6 @@ Two groups present here:
 <a id="grain-seizure"></a>
 ## Grain Seizure
 
-**Type:** Social | **Threat:** Medium (mob + militia) | **Delivers:** Not contamination + Alric hook
-
 ### Combat
 
 **Type:** Combat | **Threat:** Lethal | **Skill Challenge:** Demoralize or defeat the guards | **Combat shape:** *(CR 4) + (3 x CR 2)* 
@@ -43,6 +41,8 @@ Two groups present here:
 This should be non combat encounter but in case players attack. This will be lethal.
 
 ### Challenge
+
+**Type:** Social | **Threat:** Medium (mob + militia) | **Delivers:** Not contamination + Alric hook
 
 - DC 14 Persuasion neutral -> Convince to allow party through.
     - Each successful scientific discovery lowers DC by 1

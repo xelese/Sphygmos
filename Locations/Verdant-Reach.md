@@ -19,8 +19,6 @@ Now that same discipline has curdled into defensive scarcity. Bees have gone qui
 
 ### Briar Hollow
 
-> **Type:** Location
-
 Briar Hollow is the settlement most likely to define the party's understanding of the Reach. It is small, practical, and organized around grain, ledgers, trade, and survival decisions that have recently turned mean.
 
 

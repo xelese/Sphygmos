@@ -1,7 +1,5 @@
 # Start
 
-**Type:** Location | **Goal:** "ending with quiet" + mission framing
-
 ## Introduction
 
 Read Opening World Introduction.
