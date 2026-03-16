@@ -29,11 +29,11 @@ The answer is in the [Contract Handout](../handouts/contract.md).
 
 Inform Players that the scientific equipment has been manufactured for this Survey and entrusted to them.
 
-- [Vital Density Obelisk](../../../Items/Homebrew/Scientific-Equipment/Vital-Density-Obelisk.md)
-- [Soil-Micro-Lens-Kit](../../../Items/Homebrew/Scientific-Equipment/Soil-Micro-Lens-Kit.md)
-- [Aqua-Vital-Assay-Kit](../../../Items/Homebrew/Scientific-Equipment/Aqua-Vital-Assay-Kit.md)
-- [Seismic-Resonance-Rods](../../../Items/Homebrew/Scientific-Equipment/Seismic-Resonance-Rods.md)
-- [Leyline-Compass](../../../Items/Homebrew/Scientific-Equipment/Leyline-Compass.md)
+- [ A waist-high brass obelisk with a crystal core and anchor struts.](../../../Items/Homebrew/Scientific-Equipment/Vital-Density-Obelisk.md)
+- [A heavy closed briefcase](../../../Items/Homebrew/Scientific-Equipment/Soil-Micro-Lens-Kit.md)
+- [A pouch that seems to contain vials](../../../Items/Homebrew/Scientific-Equipment/Aqua-Vital-Assay-Kit.md)
+- [Three iron rods (18-24 inches) with crystal reed sleeves and etched tick-marks](../../../Items/Homebrew/Scientific-Equipment/Seismic-Resonance-Rods.md)
+- [A crystal-needle compass](../../../Items/Homebrew/Scientific-Equipment/Leyline-Compass.md)
 
 Let them read while you narrate the next part.
 
