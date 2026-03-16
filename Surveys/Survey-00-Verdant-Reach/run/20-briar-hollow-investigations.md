@@ -40,7 +40,7 @@ If approached
 
 ### Silent Apiary Cache
 
-**Type:** Find | **Threat:** None | **Delivers:** Thematic recovery items
+**Type:** Treasure | **Threat:** None | **Delivers:** Thematic recovery items
 
 >*Behind one of the abandoned hives, a warped orchard shed still smells faintly of wax and smoke. Someone packed a few useful things away before the apiary went quiet.*
 
@@ -75,7 +75,7 @@ If approached
 <a id="blacksmiths-tool-crate"></a>
 ## Blacksmith's Tool Crate
 
-**Type:** Trade or Theft | **Threat:** Low | **Delivers:** Practical survey gear
+**Type:** Treasure | **Threat:** Low | **Delivers:** Practical survey gear
 
 >*The blacksmith is not turning out horseshoes anymore. Near the forge sits a banded crate of salvageable field tools, the kind a settlement keeps making when beauty has become a luxury.*
 

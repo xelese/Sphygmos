@@ -53,7 +53,7 @@ Run [Obelisk Calibration](../run/51-obelisk-calibration.md)
 >
 >*Absence.*
 
-Run [Collapse Event](../run/60-cataclysmic-collapse.md)
+Run [Collapse Event](../run/52-cataclysmic-collapse.md)
 
 Let the players breathe, then describe the aftermath.
 
@@ -81,4 +81,4 @@ As they leave, read:
 
 ## End
 
-[Mission Debrief](./90-high-tower-debrief.md)
+[Mission Debrief](./60-high-tower-debrief.md)

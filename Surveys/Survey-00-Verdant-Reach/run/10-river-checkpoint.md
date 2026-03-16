@@ -106,7 +106,7 @@ On failure, mark on the table:
 <a id="river-checkpoint-lockbox"></a>
 ## River Checkpoint Lockbox
 
-**Type:** Theft | **Threat:** Medium | **Delivers:** Early healing + proof of ration control
+**Type:** Treasure | **Threat:** Medium | **Delivers:** Early healing + proof of ration control
 
 >*A militia lockbox sits under a confiscation table, close enough to the emergency grain that anyone opening it is admitting what matters most here: medicine, food, and the right to decide who keeps them.*
 

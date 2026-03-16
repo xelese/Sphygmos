@@ -11,7 +11,7 @@
 <a id="hidden-tower-emergency-satchel"></a>
 ## Hidden Tower Emergency Satchel
 
-**Type:** Find | **Threat:** None | **Delivers:** Scientific resupply + foreshadowing
+**Type:** Treasure | **Threat:** None | **Delivers:** Scientific resupply + foreshadowing
 
 >*Near the chosen site, half-hidden under a collapsed tarp and a scatter of rusted stakes, lies an emergency satchel stamped with an old Tower field sigil. Whoever left it planned for the ground to go bad before anyone else believed it would.*
 

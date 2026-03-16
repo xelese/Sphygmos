@@ -19,7 +19,7 @@
 <a id="tension-1-who-owns-the-grain"></a>
 ## Tension 1 - "Who owns the grain?"
 
-**Type:** Social + Investigation | **Threat:** None | **Skill Challenge:** 1 successes
+**Type:** Social | **Threat:** None | **Skill Challenge:** 1 successes
 
 Militia begins confiscations; Dagna refuses to release stores without an audit.
 
@@ -79,7 +79,7 @@ measure*
 <a id="tension-2-the-father-refuses-evacuation"></a>
 ## Tension 2 - "The father refuses evacuation"
 
-**Type:** Social + Investigation | **Threat:** None | **Skill Challenge:** 2 successes
+**Type:** Social | **Threat:** None | **Skill Challenge:** 2 successes
 
 Complication: A father refuses evacuation while panic surges.
 
@@ -157,7 +157,7 @@ Complication: Someone tries to destroy or steal ledgers/samples because Dagna's 
 <a id="tension-4-the-charter"></a>
 ## Tension 4 - "The Charter"
 
-**Type:** Social + Command | **Threat:** High (alignment fracture) | **Skill Challenge:** 1 success
+**Type:** Social | **Threat:** High (alignment fracture) | **Skill Challenge:** 1 success
 
 This round decides who the village follows.
 

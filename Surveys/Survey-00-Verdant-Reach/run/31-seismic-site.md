@@ -11,7 +11,7 @@
 <a id="singing-stone"></a>
 ## Singing Stone
 
-**Type:** Environment | **Threat:** Minor | **Skill Challenge:** 1 success
+**Type:** Investigation | **Threat:** Minor | **Skill Challenge:** 1 success
 
 >*Certain granite outcrops emit a low harmonic hum. It vibrates like distant thunder that never arrives.*
 
@@ -52,7 +52,7 @@ Note: may have **Advantage** on locating the placement for Seismic Rods.
 <a id="ridge-casualty-satchel"></a>
 ## Ridge Casualty Satchel
 
-**Type:** Find | **Threat:** None | **Delivers:** Fallback climbing gear
+**Type:** Treasure | **Threat:** None | **Delivers:** Fallback climbing gear
 
 >*Partway down the caravan path, half-buried under shale and torn survey cloth, lies a satchel someone dropped when the ridge first opened. The buckle is split. The contents are not.*
 

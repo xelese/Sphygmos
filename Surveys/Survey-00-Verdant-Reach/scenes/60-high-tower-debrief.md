@@ -19,7 +19,7 @@ Give the players a moment.
 
 Then:
 
->*"The Verdant Reach is now classified Verdant Stasis."*
+>*"The region of Verdant Reach has collapsed. This phenomenon is now being referred to as the "Verdant stasis"."*
 
 The words feel bureaucratic. Wrong and small.
 
@@ -173,6 +173,8 @@ Run this after reviewing the data.
 >
 > *Seraphine stands before the projection. She looks exhausted. Not frightened. Focused.*
 
+---
+
 ### If Soil Micro-Lens Kit succeeded
 > *"The substrate is collapsing first."*
 >
@@ -182,6 +184,8 @@ Run this after reviewing the data.
 > *"The soil evidence is incomplete."*
 >
 > *"I suspect the foundation is failing from below, but suspicion is not proof."*
+
+---
 
 ### If Aqua-Vital Assay succeeded
 > *She gestures to a river cross-section marked in fading blue.*
@@ -199,6 +203,15 @@ Run this after reviewing the data.
 >
 > *"Right now, fear has better evidence than we do."*
 
+---
+
+### If Soil + Water both succeeded
+> *"The collapse is biological before it is visible."*
+>
+> *"The world is starving from the bottom up."*
+
+---
+
 ### If Seismic Resonance Rods succeeded
 > *She overlays three points beneath the Reach. A triangle blooms. Then an inward vector.*
 >
@@ -215,34 +228,7 @@ Run this after reviewing the data.
 >
 > *"May be. That word will matter to everyone who wants permission to wait."*
 
-### If No Credible Science Was Recovered
-> *She does not stand at the projection for long.*
->
-> *"The Reach is failing. That much is real."*
->
-> *"But reality is not the same thing as proof."*
->
-> *"What you brought back tells me to fear the pattern. It does not yet let me name it."*
->
-> *"The Tower will keep guessing. The factions will keep lying. And I cannot stop either of them with intuition."*
-
-### If Partial Evidence Exists But The Obelisk Failed
-> *She keeps the surviving notes spread out, but leaves the cracked core untouched.*
->
-> *"This is not one bad harvest. Not one poisoned river. Not one frightened superstition."*
->
-> *"The failures relate to one another. I can defend that much."*
->
-> *"But relation is not the same thing as mechanism."*
->
-> *"Without a clean obelisk read, I cannot prove the field. I can only narrow the lies."*
-
-### If Vital Density Obelisk bonus success triggered
-> *She taps the phase mark with one fingernail.*
->
-> *"Seismic lead time: one point three seconds."*
->
-> *"That is not warning. It is a countdown."*
+---
 
 ### If Vital Density Obelisk succeeded
 > *Her hand rests on the stabilized obelisk core.*
@@ -267,6 +253,13 @@ Run this after reviewing the data.
 >
 > *"Not stop it. Maybe only see it coming."*
 
+### If Vital Density Obelisk bonus success triggered
+> *She taps the phase mark with one fingernail.*
+>
+> *"Seismic lead time: one point three seconds."*
+>
+> *"That is not warning. It is a countdown."*
+
 ### If Vital Density Obelisk failed
 > *The cracked core sits on the table between you like a tooth pulled from a god.*
 >
@@ -274,10 +267,7 @@ Run this after reviewing the data.
 >
 > *"Not enough to prove the field. Not enough to name the structure cleanly."*
 
-### If Soil + Water both succeeded
-> *"The collapse is biological before it is visible."*
->
-> *"The world is starving from the bottom up."*
+---
 
 ### If Seismic + Obelisk both succeeded
 > *She overlays projected cycles. Each one larger. Each interval shorter.*
@@ -286,7 +276,22 @@ Run this after reviewing the data.
 >
 > *"And the one after that may come sooner still."*
 
-### Final close
+---
+
+### If No Credible Science Was Recovered
+> *She does not stand at the projection for long.*
+>
+> *"The Reach is failing. That much is real."*
+>
+> *"But reality is not the same thing as proof."*
+>
+> *"What you brought back tells me to fear the pattern. It does not yet let me name it."*
+>
+> *"The Tower will keep guessing. The factions will keep lying. And I cannot stop either of them with intuition."*
+
+---
+
+### Final close - Full / partial Success
 
 > *She lets the layered projections overlap-soil, water, tremor, light.*
 >
@@ -302,7 +307,7 @@ Run this after reviewing the data.
 >
 > *"We witnessed a process."*
 
-If the party recovered no credible science, replace the Final close with:
+### Final close - Complete Failure
 
 > *She gathers the scattered notes into one neat stack, as if tidiness might compensate for uncertainty.*
 >
@@ -312,27 +317,6 @@ If the party recovered no credible science, replace the Final close with:
 >
 > *"That is the difference between dread and knowledge."*
 
-## Science Point Tally
-
-After the debrief, tally SP earned during the survey. See [Bastion Rules](../../../Core-Rules/Bastion.md) for the full system.
-
-| Instrument | Result | SP |
-|:---|:---|:---|
-| Soil Micro-Lens Kit (Uncommon) | Success / Failure | +1 / 0 |
-| Aqua-Vital Assay Kit (Uncommon) | Success / Failure | +1 / -1 |
-| Seismic Resonance Rods (Uncommon) | Success / Failure | +1 / 0 |
-| Vital Density Obelisk (Rare) | Success / Failure | +2 / 0 |
-| Vital Density Obelisk | Perfect Reading Bonus | +1 |
-| | **Maximum possible** | **6** |
-
-If cumulative SP reaches **6**, the Tower advances to **Level 5** before Survey 1. Level 5 benefits (Expedition Wing, +1 Camp Point for Tower gear, pre-survey briefings, and 2 new roster slots) become available at the start of Survey 1.
-
-## Roster Update
-
-If the party earned Alric Venn's trust (ALLY status), he offers **2 militia members** willing to transfer to Tower service. These NPCs can fill open roster slots at Level 5 and become fully playable characters.
-
-If Alric is NEUTRAL or ENEMY, this offer does not happen.
-
 ## End
 
-Survey 0 complete. Advance the [Collapse Wheel](../../../World-Lore/Collapse-Wheel.md). Update the [High Tower Bastion tracker](../../../Locations/High-Tower.md#bastion). Track what has been established.
+follow [Updates](../run/60-debrief-update.md)

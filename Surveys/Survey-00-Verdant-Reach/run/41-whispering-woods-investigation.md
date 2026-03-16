@@ -11,7 +11,7 @@
 <a id="the-quiet-clearing"></a>
 ## The Quiet Clearing
 
-**Type:** Environment | **Threat:** None | **Skill Challenge:** 1 success per stage
+**Type:** Investigation | **Threat:** None | **Skill Challenge:** 1 success per stage
 
 Run both simultaneously.
 
@@ -78,7 +78,7 @@ On failure, mark on the table:
 <a id="trappers-forest-cache"></a>
 ## Trapper's Forest Cache
 
-**Type:** Find | **Threat:** None | **Delivers:** Nonmagical control tools + signs of human retreat
+**Type:** Treasure | **Threat:** None | **Delivers:** Nonmagical control tools + signs of human retreat
 
 >*A slanted roof made of large leaves nearly disappeared into bark and vine. Inside, the remains of a trapper's cache wait exactly where they were hidden, as if the owner meant to return before the woods went wrong.*
 

@@ -1,6 +1,6 @@
 # Start
 
-**Type:** Intro / tone set | **Goal:** "ending with quiet" + mission framing
+**Type:** Location | **Goal:** "ending with quiet" + mission framing
 
 ## Introduction
 
