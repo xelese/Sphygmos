@@ -24,8 +24,10 @@ The Tower's current theory is incomplete. The obelisk is being field-tested to d
 You are not expected to solve anything. You are expected to come back with data.
 
 **PAYMENT & CLAIM**
-- Hazard pay paid in advance upon signing.
-- Bonus for intact instrument recovery and usable readings.
+- Hazard pay: **15 gp per surveyor** paid in advance upon signing.
+- Return pay: **20 gp per surveyor** upon return with field notes and at least one sealed sample.
+- Instrument recovery bonus: **75 gp to the party** for returning the Vital Density Obelisk core intact.
+- Usable reading bonus: **10 gp per instrument to the party** for obtaining Tower-usable instrument data.
 - Salvage rights to unclaimed goods found beyond settled boundaries (excluding marked Tower property).
 - Medical care upon return (limited; triage priority to instrument carriers).
 
