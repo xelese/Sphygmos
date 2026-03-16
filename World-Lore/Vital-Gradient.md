@@ -2,7 +2,7 @@
 
 > - **Purpose:** Canon reference for the Vital field model that underlies life, collapse, and stabilization across the setting.
 > - **Short Version:** Deep planetary source pressure feeds a deep Vital reservoir below and a living biosphere above. The field across that gap is the Vital Gradient. Life draws usable Vital Current through it. A Collapse happens when that surface system loses coherence.
-> - **Use:** Reference this file when explaining the cosmology, Collapse behavior, Grey Bloom, Dormancy, or the role of magic.
+> - **Use:** Reference this file when explaining the cosmology, Collapse behavior, Verdant Stasis, Dormancy, or the role of magic.
 
 ## Core Model
 
@@ -216,11 +216,11 @@ In other words, the upper plate does try to restore coherence after local failur
 
 That is why repeated local Collapses do not stay local for long.
 
-## Grey Bloom and Dormancy
+## Verdant Stasis and Dormancy
 
-### Grey Bloom
+### Verdant Stasis
 
-Grey Bloom means local surface support has fallen below a sustainable threshold.
+Verdant Stasis means local surface support has fallen below a sustainable threshold.
 
 - Decay stops.
 - Insects vanish.
@@ -228,7 +228,7 @@ Grey Bloom means local surface support has fallen below a sustainable threshold.
 - Corpses remain intact instead of breaking down.
 - Wounds stop closing at a normal pace.
 
-Grey Bloom is not ordinary death.
+Verdant Stasis is not ordinary death.
 
 It is ecological standstill caused by loss of usable surface access.
 
@@ -296,7 +296,7 @@ Recovery usually falls into one of three outcomes:
 
 1. Full recovery: the field restores strongly.
 2. Partial recovery: support returns, but weaker and with a lower complexity ceiling.
-3. Failed recovery: some regions never regain enough coherence and remain dormant or blighted.
+3. Failed recovery: some regions never regain enough coherence and remain Collapsed or blighted.
 
 For this setting, partial recovery is the strongest default.
 

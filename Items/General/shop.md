@@ -9,8 +9,8 @@ To reinforce the setting’s tone:
 | Well-supplied | Charge normal prices |
 | Strained | Apply a 25% markup |
 | Unstable | Apply a 35% markup |
-| Grey Bloom | Apply a 50% markup |
-| Dormant | Apply a 100% markup |
+| Verdant Stasis | Apply a 50% markup |
+| Collapsed | Apply a 100% markup |
 
 ### Core Survey Supplies
 

@@ -68,7 +68,7 @@ Run all three tests in sequence.
 - Nature + Medicine, or Nature + Arcana for an Arcanist, DC 15
   - **Success:** Assign AMI 0-5 and confirm foundational micro-organism failure in water.
   - **Success by 5+:** Determine recent shock vs long decline through cyst formation or die-off patterns.
-  - **Failure:** Sample "goes still" in vial as a Grey Bloom stasis artifact; the reading is unusable, but the phenomenon is obvious.
+  - **Failure:** Sample "goes still" in vial as a Verdant Stasis stasis artifact; the reading is unusable, but the phenomenon is obvious.
 
 ### Outcome
 

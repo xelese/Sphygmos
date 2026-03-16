@@ -67,5 +67,5 @@
 
 ### Field Use Summary
 
-- Best for route planning around Grey Bloom fringes.
+- Best for route planning around Verdant Stasis fringes.
 - Strongest value appears when paired with Collapse timing and seismic tools.

@@ -42,9 +42,9 @@ When spellwork becomes too intense, too frequent, or badly phased, it distorts w
 
 High-level spellcasting does not merely react to the collapse. In already stressed places, it can accelerate it.
 
-### Grey Bloom Zones
+### Verdant Stasis Zones
 
-Grey Bloom is the most dangerous visible manifestation of the collapse short of full Dormancy.
+Verdant Stasis is the most dangerous visible manifestation of the collapse short of full Dormancy.
 
 In these regions:
 
@@ -54,13 +54,13 @@ In these regions:
 - Carcasses do not rot.
 - Wounds stop closing at a normal pace.
 
-Grey Bloom is not ordinary death. It is a state in which surface life can no longer draw enough Vital Current to maintain normal cycles of decay, renewal, and recovery.
+Verdant Stasis is not ordinary death. It is a state in which surface life can no longer draw enough Vital Current to maintain normal cycles of decay, renewal, and recovery.
 
 Exploration here should feel like walking across an abandoned operating table.
 
-### Dormant Regions
+### Collapsed Regions
 
-Dormant regions are worse.
+Collapsed regions are worse.
 
 The Vital support is still in the planetary system, but it has retreated too far downward for ordinary surface life to use.
 
@@ -82,7 +82,7 @@ It is disconnection.
 - The land is weakening in patches.
 - Animals disappear before settlements understand why.
 - Some places feel wrong long before they become openly deadly.
-- Grey Bloom regions are feared like cursed ground.
+- Verdant Stasis regions are feared like cursed ground.
 - Large-scale magic, ancient ruins, and unstable frontiers are all treated with suspicion.
 
 Most people do not know the phrase Vital Gradient.
@@ -113,7 +113,7 @@ This is a strong mid-campaign knowledge tier: useful, credible, and incomplete.
 
 ### What the Party Can Confirm in the Field
 
-- Grey Bloom is not ordinary death.
+- Verdant Stasis is not ordinary death.
 - The collapse can be measured indirectly through ecological and physiological changes.
 - Different regions fail at different rates.
 - A Collapse is a real event with repeatable warning signs.
@@ -127,7 +127,7 @@ This tier fits successful surveys, careful observation, and instrument-driven in
 - It is a plague spreading through soil and water.
 - It is divine punishment for magical arrogance.
 - It was caused by one rival nation, species, or faction.
-- Grey Bloom means the dead are trapped and haunting the land.
+- Verdant Stasis means the dead are trapped and haunting the land.
 - Sacrifice, prayer, or evacuation alone can prevent the next Collapse.
 
 These theories should remain common because they create fear, blame, and political friction without requiring people to be irrational.
@@ -142,9 +142,9 @@ When a Collapse hits:
 - Water ripples inward as if tugged toward depth.
 - Clocks skip half a second.
 
-In Grey Bloom zones, the Collapse causes visible air distortion like heat haze.
+In Verdant Stasis zones, the Collapse causes visible air distortion like heat haze.
 
-In Dormant zones, almost nothing happens, because almost nothing still reacts.
+In Collapsed zones, almost nothing happens, because almost nothing still reacts.
 
 ### Social Effects of a Pulsing World
 
@@ -166,7 +166,7 @@ After each Collapse:
 
 > - **Campaign Pressure:** After each Collapse, a region already in Strained or worse is at risk of civic breakdown.
 > - **Common Outcomes:** Resource contributions drop, leaders blame the Tower, and factions form around fear, scarcity, or local protection.
-> - **Escalation Point:** Once a region reaches Grey Bloom, outside support may stop entirely unless the players intervene.
+> - **Escalation Point:** Once a region reaches Verdant Stasis, outside support may stop entirely unless the players intervene.
 > - **Practical Tempo:** Two surveys should feel like a countdown clock between major deterioration events.
 
 ### What Investigators May Eventually Learn
@@ -280,11 +280,11 @@ Urban centers, magical nexuses, and biodiverse regions all depend on high, stabl
 
 That is why regions degrade in a visible sequence:
 
-**Stable -> Strained -> Unstable -> Grey Bloom -> Dormant**
+**Stable -> Strained -> Unstable -> Verdant Stasis -> Collapsed**
 
-Grey Bloom means the local surface support has fallen below a sustainable threshold.
+Verdant Stasis means the local surface support has fallen below a sustainable threshold.
 
-Dormant means local mantle-biosphere coupling is too weak for ordinary surface life to use.
+Collapsed means local mantle-biosphere coupling is too weak for ordinary surface life to use.
 
 Not dead.
 

@@ -31,7 +31,7 @@ One PC rolls Nature, and a second rolls Medicine or Survival, or one PC rolls bo
 | 3 | Root-zone "holes," surface still active |
 | 2 | Deep layers dead first, surface "last gasp" |
 | 1 | Only rare cysts or spores remain |
-| 0 | Dormant / ecological standstill |
+| 0 | Collapsed / ecological standstill |
 
 ---
 ## GM Reference
@@ -53,8 +53,8 @@ One PC rolls Nature, and a second rolls Medicine or Survival, or one PC rolls bo
   - Stable DC 13
   - Strained DC 14
   - Unstable DC 15
-  - Grey Bloom DC 17
-  - Dormant DC 16, easier to confirm "empty," harder to learn how fast it happened
+  - Verdant Stasis DC 17
+  - Collapsed DC 16, easier to confirm "empty," harder to learn how fast it happened
 
 #### Microbial Density Index (MDI)
 
@@ -63,9 +63,9 @@ One PC rolls Nature, and a second rolls Medicine or Survival, or one PC rolls bo
 | 5 | Normal web (Stable) |
 | 4 | Thinning + patchy colonies (Strained) |
 | 3 | Root-zone "holes," surface still active (Unstable) |
-| 2 | Deep layers dead first, surface "last gasp" (Grey Bloom onset) |
-| 1 | Only rare cysts or spores remain (late Grey Bloom) |
-| 0 | Sterile (Dormant / ecological standstill) |
+| 2 | Deep layers dead first, surface "last gasp" (Verdant Stasis onset) |
+| 1 | Only rare cysts or spores remain (late Verdant Stasis) |
+| 0 | Sterile (Collapsed / ecological standstill) |
 
 ### Outcome
 

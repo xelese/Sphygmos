@@ -92,7 +92,7 @@ Complication: A father refuses evacuation while panic surges.
 >***Father:** If we're going to die, we die where our names mean something.*
 
 ### Skill Challenge
-- DC 15 Medicine [Subtle] -> Show the family Grey Bloom effects are real and healing is "thin."
+- DC 15 Medicine [Subtle] -> Show the family Verdant Stasis effects are real and healing is "thin."
     - CH -1
     - choose AI -1 (frame as safety/command) or DI -1 (frame as informed consent/data)
 - Persuasion DC 16: promise ration share + escort plan
@@ -242,7 +242,7 @@ Consequence: martial isolation; Tower writs questioned; you need stealth/bribes 
 >
 >*And the village sees only hunger.*
 
-Consequence: splintered enclaves (matches Grey Bloom behavior: fracture, violence, refusal to spend resources elsewhere).
+Consequence: splintered enclaves (matches Verdant Stasis behavior: fracture, violence, refusal to spend resources elsewhere).
 
 ### Uneasy Truce (default)
 

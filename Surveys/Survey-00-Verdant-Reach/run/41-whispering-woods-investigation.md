@@ -67,7 +67,7 @@ Party can sample soil via challenge:
 On success, mark on the table:
 - MDI 2
 - Deep layers dead first, surface "last gasp"
-- Grey Bloom onset in the forest floor
+- Verdant Stasis onset in the forest floor
 - **Science Points:** +1
 
 On failure, mark on the table:

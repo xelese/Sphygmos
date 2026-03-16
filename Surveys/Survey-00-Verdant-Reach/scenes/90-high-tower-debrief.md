@@ -19,7 +19,7 @@ Give the players a moment.
 
 Then:
 
->*"The Verdant Reach is now classified Grey Bloom."*
+>*"The Verdant Reach is now classified Verdant Stasis."*
 
 The words feel bureaucratic. Wrong and small.
 

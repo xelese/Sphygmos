@@ -57,9 +57,9 @@ Run [Collapse Event](../run/60-cataclysmic-collapse.md)
 
 Let the players breathe, then describe the aftermath.
 
-## Final Grey Bloom
+## Final Verdant Stasis
 
-### Grey Bloom Manifestation
+### Verdant Stasis Manifestation
 
 As they leave, read:
 

@@ -13,14 +13,14 @@ Each region moves through these states:
 1. Stable (day 1-4)
 2. Strained (day 5-8)
 3. Unstable (day 9-12)
-4. Grey Bloom (day 13-16)
-5. Dormant (after day 16)
+4. Verdant Stasis (day 13-16)
+5. Collapsed (after day 16)
 
 Each state usually lasts about 4 days.
 
 After that, the region becomes eligible to tip into the next state whenever a Collapse, survey result, or narrative trigger strips away more surface accessibility.
 
-> If a region is on day 14, it is already in the Grey Bloom window. You do not need to wait until day 16 exactly. The Collapse does not create the weakness from nothing. It pushes a thinned region past the point where the surface can no longer respond normally.
+> If a region is on day 14, it is already in the Verdant Stasis window. You do not need to wait until day 16 exactly. The Collapse does not create the weakness from nothing. It pushes a thinned region past the point where the surface can no longer respond normally.
 
 ## How the Wheel Advances
 
@@ -66,7 +66,7 @@ They cannot stop the wheel outright.
 - Dead zones, surges, and weak recovery appear side by side.
 - The region feels increasingly fragile, reactive, and depleted.
 
-### Grey Bloom
+### Verdant Stasis
 
 - Accessible surface support has fallen below a sustainable threshold.
 - Decay stops.
@@ -75,11 +75,11 @@ They cannot stop the wheel outright.
 - Long rests become impossible.
 - Corpses remain intact instead of breaking down.
 
-Grey Bloom is not normal death. It is ecological standstill.
+Verdant Stasis is not normal death. It is ecological standstill.
 
 The field still exists in the planetary system, but the surface no longer answers it normally.
 
-### Dormant
+### Collapsed
 
 - Local depth-surface coupling is almost entirely gone.
 - Microbial activity is gone.

@@ -48,7 +48,7 @@ Distance from High Tower: 2 days by caravan
 
 Biome: River-fed agricultural basin bordered by old-growth forest and low granite ridges
 
-Current State: Unstable (about to become Grey Bloom)
+Current State: Unstable (about to become Verdant Stasis)
 
 [Full regional profile](../../../Locations/Verdant-Reach.md)
 </div>

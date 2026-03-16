@@ -17,7 +17,7 @@ If any of those are missing, that character cannot gain a **Full Long Rest**.
 
 - Safe towns, secured inns, Tower-safe houses, and other real refuges usually allow proper recovery.
 - Field rests depend on how dangerous the current region is and how well the party secures camp.
-- Grey Bloom and Dormant regions resist recovery even if no enemy is present.
+- Verdant Stasis and Collapsed regions resist recovery even if no enemy is present.
 - The GM should ask how the party makes camp safe before deciding what kind of rest they get.
 
 ### Rest Outcomes
@@ -68,8 +68,8 @@ Use this for severe travel segments, not every night.
 | Stable | 10 | Use the Stable column on the Night Result table. |
 | Strained | 12 | Use the Strained column on the Night Result table. |
 | Unstable | 14 | Use the Unstable column on the Night Result table. |
-| Grey Bloom | 18 | Use the Grey Bloom column on the Night Result table. |
-| Dormant | 16 | Use the Dormant column on the Night Result table. |
+| Verdant Stasis | 18 | Use the Verdant Stasis column on the Night Result table. |
+| Collapsed | 16 | Use the Collapsed column on the Night Result table. |
 
 ## Camp Safety Checks
 
@@ -106,7 +106,7 @@ Use Camp Points to measure how well the party prepared the camp.
 | Lack of clean water | -1 |
 | Open weather exposure | -1 |
 | Active pursuit or nearby enemies | -1 |
-| Noticeable Grey Bloom contamination nearby | -1 |
+| Noticeable Verdant Stasis contamination nearby | -1 |
 | Tremors, whispers, or Collapse disturbance | -1 |
 | Problems backed by the fiction (per issue) | -1 |
 
@@ -119,7 +119,7 @@ Minimum Camp Points after penalties is 0.
 > If a character lacks the required ration or clean water, cap that character's best possible result at:
 >
 > - **Strained Long Rest** in Safe Haven, Stable, or Strained regions
-> - **Poor Rest** in Unstable, Grey Bloom, or Dormant regions
+> - **Poor Rest** in Unstable, Verdant Stasis, or Collapsed regions
 
 Use total Camp Points and the region's current state.
 
@@ -129,8 +129,8 @@ Use total Camp Points and the region's current state.
 | Stable | Strained Long Rest + Minor challenge | Full Long Rest + Quiet night | Full Long Rest + Quiet night |
 | Strained | Poor Rest + Minor challenge | Strained Long Rest + Minor challenge | Full Long Rest + Quiet night |
 | Unstable | Poor Rest + Major challenge | Strained Long Rest + Minor challenge | Strained Long Rest + Quiet night |
-| Grey Bloom | Poor Rest + Severe challenge | Poor Rest + Major challenge | Poor Rest + Minor challenge |
-| Dormant | Poor Rest + Severe challenge | Poor Rest + Severe challenge | Poor Rest + Major challenge |
+| Verdant Stasis | Poor Rest + Severe challenge | Poor Rest + Major challenge | Poor Rest + Minor challenge |
+| Collapsed | Poor Rest + Severe challenge | Poor Rest + Severe challenge | Poor Rest + Major challenge |
 
 ### Step 5: Run the Challenge
 
@@ -141,7 +141,7 @@ When the Night Result table gives a challenge, choose or roll an event that fits
 | Quiet | The night passes without a meaningful interruption. |
 | Minor | A brief problem disturbs the camp: cold rain, failing fire, scavengers, spoiled food, or nerves on watch. Usually one group check or a simple choice. |
 | Major | The camp faces a real problem: tremor burst, exposed position, tainted water, prowling beast, hostile scout, or damaged shelter. Usually one or two checks, with failure costing supplies, sleep quality, or position. |
-| Severe | The rest is threatened outright: Collapse echo, active collapse, major contamination, Grey Bloom intrusion, or a dangerous encounter. The camp may have to move, spend rare resources, or abandon hope of recovery. |
+| Severe | The rest is threatened outright: Collapse echo, active collapse, major contamination, Verdant Stasis intrusion, or a dangerous encounter. The camp may have to move, spend rare resources, or abandon hope of recovery. |
 
 ### Quick Challenge Prompts
 
@@ -149,5 +149,5 @@ When the Night Result table gives a challenge, choose or roll an event that fits
 |:---|---|
 | Minor | Rain gets through the shelter, the fire starts dying, someone hears movement outside the watch line, or a ration cache turns foul. |
 | Major | A tremor shifts the ground, a beast circles camp, a watch failure exposes the party, or water storage is contaminated. |
-| Severe | A Collapse tears through the camp, the shelter partially collapses, Grey Bloom pressure rolls in, or enemies arrive on the party's resting place. |
+| Severe | A Collapse tears through the camp, the shelter partially collapses, Verdant Stasis pressure rolls in, or enemies arrive on the party's resting place. |
 

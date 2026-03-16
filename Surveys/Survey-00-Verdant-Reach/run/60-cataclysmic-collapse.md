@@ -122,7 +122,7 @@ If a PC drops to **0 HP** during the Collapse:
 | 3 | 12 | Neural Stress | None | Wisdom save 14 or become frightened of nearest large structure until end of next round. |
 | 4 | 13 | Metabolic Collapse | Healing magic restores only 25% of normal amount. | Anyone above half HP makes an extra Con save 14 or falls prone, vomits blood, and takes 1d6 force. |
 | 5 | 14 | Vital Floor Breach | None | Each PC loses 1 Hit Die worth of HP. |
-| 6 | 15 | Grey Bloom Wave | All concentration ends. Failed Global Con saves give 2 Exhaustion instead of 1. | One PC is kicked sideways, pinned, separated, or slowed unless an ally cancels it. |
+| 6 | 15 | Verdant Stasis Wave | All concentration ends. Failed Global Con saves give 2 Exhaustion instead of 1. | One PC is kicked sideways, pinned, separated, or slowed unless an ally cancels it. |
 | 7 | 16 | Aftershock Implosion | None | Dex save 16 or take 4d6 bludgeoning damage. |
 | 8 | 17 | Total Collapse | None | Immediate drop to 0 HP. |
 
@@ -186,7 +186,7 @@ If a PC drops to **0 HP** during the Collapse:
 ---
 
 <a id="round-6-grey-bloom-wave-dc-15"></a>
-## Round 6 - Grey Bloom Wave (DC 15)
+## Round 6 - Verdant Stasis Wave (DC 15)
 **Scene:** A wave rolls through the area-air goes wrong, sound warps.
 
 **Rule Change (start of round):**
