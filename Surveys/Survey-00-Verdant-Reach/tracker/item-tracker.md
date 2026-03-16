@@ -20,7 +20,7 @@
 - [x] | Aqua-Vital Assay Kit
 - [x] | Leyline Compass
 - [x] | Seismic Resonance Rods 
-- [x] | Soil Micro-Lense Kit 
+- [x] | Soil Micro-Lens Kit 
 
 ### Rare (1)
 

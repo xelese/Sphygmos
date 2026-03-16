@@ -7,6 +7,10 @@
 
 - Interview locals and record timelines of abnormalities.
 
+> **Run This Fast:** Offer the party 2 or 3 leads, let them resolve the ones they care about, then point them toward Dagna or the obelisk site once they have enough evidence.
+
+> **Carry Forward:** Use `DI` for Dagna Feldrun in later Survey 00 political tracking. `DI -1` means the party improved her trust. `DI +1` means they worsened it.
+
 <a id="anomalies"></a>
 ## Anomalies
 
@@ -19,11 +23,13 @@
 
 **Type:** Investigation | **Threat:** None | **Skill Challenge:** 2 successes
 
->*A halfling beekeeper is extremely sad and moping on the side of his street. I have lost it all...*
+> *A halfling beekeeper sits beside a row of silent hives, staring at them as if waiting for one last sound.*
 
 If approached
 
->*beekeeper shows the party 40 intact hives. It must be the Dursley's and their Apple orchard... they poisoned my pollinators*
+> *The beekeeper gestures helplessly at forty intact hives.*
+>
+> *"Look at them. Whole. Quiet. It has to be the Dursleys and that apple orchard of theirs. They poisoned my pollinators."*
 
 - DC 12 Nature [Subtle] -> Identify absence of parasites/disease.
 - DC 14 Investigation [Subtle] -> Notice honey crystallization pattern inconsistent with temperature.
@@ -32,11 +38,11 @@ If approached
 **Success:**
 - **Scientific Clue:** Party confirms insect disappearance precedes crop decline.
 - **Science Points:** +1
-- **Political Alignment:** Dagna -1 DC
+- **DI -1**
 
 **Failure:**
 - Farmers assume poison.
-- **Political Alignment:** Dagna +1 DC
+- **DI +1**
 
 ### Silent Apiary Cache
 
@@ -62,7 +68,7 @@ If approached
 
 - DC 14 Investigation [Subtle] -> Confirm grain is lighter.
 - DC 15 Nature [Subtle] -> Determine kernels are hollowed from poor pollination.
-- DC 13 Insight [Subtle] -> Realize accusation is misdirected fear
+- DC 13 Insight [Subtle] -> Realize the accusation is fear looking for a target.
 
 **Success:**
 - **Scientific Clue:** Pollination failure precedes visible crop death.
@@ -70,7 +76,7 @@ If approached
 
 **Failure:**
 - Shoving match escalates. Militia intervenes harshly.
-- **Political Alignment:** Dagna +1 DC
+- **DI +1**
 
 <a id="blacksmiths-tool-crate"></a>
 ## Blacksmith's Tool Crate
@@ -81,9 +87,9 @@ If approached
 
 - **Method:** Buy, bargain for, or steal
 - **Location:** Briar Hollow blacksmith
-- **Checks:**
+- **Run:** Make **one** of the following approaches.
 	- DC 12 Persuasion -> The blacksmith sells the crate at a fair scarcity price if the party sounds useful.
-	- DC 14 Persuasion or Insight [Subtle] -> The blacksmith agrees to knock the price down or accept barter for food, medicine, or field news.
+	- DC 14 Persuasion or Insight [Subtle] -> The blacksmith lowers the price or accepts barter for food, medicine, or field news.
 	- DC 14 Sleight of Hand or Stealth -> Take the crate after hours without immediately alerting the town.
 - **Contents:**
 	- 1 Crowbar
@@ -98,6 +104,12 @@ If approached
 >*The leyline compass starts humming. It seems to be reacting to something.*
 
 Players can use [Leyline Compass](../../../Items/Homebrew/Scientific-Equipment/Leyline-Compass.md) to locate an Obelisk site.
+
+**Run:** One PC makes a DC 13 Arcana, Nature, or Investigation check to read the shifting pull.
+
+**Success:** The compass locks toward the best nearby obelisk site. Point the party toward the calibration scene.
+
+**Failure:** The reading is real but muddy. The party still knows the site is near Briar Hollow, but they need local help from Dagna or Alric, or they must commit to a best guess under pressure.
 
 ### Narration Cues
 

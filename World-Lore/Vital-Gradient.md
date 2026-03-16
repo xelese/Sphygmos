@@ -218,6 +218,9 @@ That is why repeated local Collapses do not stay local for long.
 
 ## Verdant Stasis and Dormancy
 
+On the Collapse Wheel and in regional field reports, the final state is usually tracked as **Collapsed**.
+In deeper cosmology writing, that same state is often described as **Dormancy**: the surface system has not been annihilated, but it is no longer responsive enough for ordinary life to use.
+
 ### Verdant Stasis
 
 Verdant Stasis means local surface support has fallen below a sustainable threshold.
@@ -235,6 +238,8 @@ It is ecological standstill caused by loss of usable surface access.
 ### Dormancy
 
 Dormancy means local mantle-biosphere coupling is too weak for ordinary surface life to use.
+
+In practical campaign terms, this is the **Collapsed** state.
 
 - Microbial activity fails.
 - Natural healing collapses.

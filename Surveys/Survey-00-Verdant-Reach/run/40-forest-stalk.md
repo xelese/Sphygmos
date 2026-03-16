@@ -9,11 +9,11 @@
 
 ### Success
 
-You notice two wolf packs fighting each other mid-forest. Not for territory - for food. The packs don't notice you yet but they're about to.
+You spot two wolf packs tearing into each other in the mid-forest. Not for territory. For food. They have not noticed you yet, but they are close.
 
 ### Failure
 
-You notice two wolf packs fighting each other mid-forest. Not for territory - for food. The packs look at you and immediately start charging. Roll for initiative.
+You stumble into two wolf packs already fighting over food. Both groups break off at once and turn on you. Roll initiative.
 
 <a id="objective"></a>
 ## Objective
@@ -25,9 +25,9 @@ You notice two wolf packs fighting each other mid-forest. Not for territory - fo
 
 **Type:** Combat | **Threat:** Deadly | **Skill Challenge:** Demoralize or defeat the wolves
 
-[Northern Forest Edge wolves - DND Beyond](https://www.dndbeyond.com/encounters/96f734ad-b8f4-4180-9523-6c1af4a0b7d8)
+[Northern Forest Edge Wolves - D&D Beyond](https://www.dndbeyond.com/encounters/96f734ad-b8f4-4180-9523-6c1af4a0b7d8)
 
-Difficult combat encounter, at least 2 players down.
+Run this as a difficult combat encounter. The wolves should feel hungry, desperate, and willing to press an advantage.
 
 - 4 x Dire wolf - Large Beast CR 1
 

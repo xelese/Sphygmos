@@ -8,6 +8,8 @@
 - Calibrate the obelisk and secure the core if possible.
 - Capture proof that the Reach's symptoms belong to one underlying phenomenon if the waveform stabilizes.
 
+> **Run This Fast:** Run the obelisk item's challenge first. If the party earns the perfect read moment, stop and ask which final choice they make before the Collapse hits.
+
 <a id="hidden-tower-emergency-satchel"></a>
 ## Hidden Tower Emergency Satchel
 
@@ -29,13 +31,15 @@
 
 Players calibrate [Vital-Density-Obelisk](../../../Items/Homebrew/Scientific-Equipment/Vital-Density-Obelisk.md).
 
+Use the obelisk item's structured challenge here.
+
 ### Perfect Read
 
 Players get one round to act. No DC check. Advantage on the party's first progress check during the escape.
 
-- **Brace the obelisk:** you're choosing "data over safety." 
-- **Abandon it:** you're choosing "survival over proof." 
-- **Grab the core:** you're choosing "proof in hand."
+- **Brace the obelisk:** choose data over safety. The party keeps the full waveform result, but whoever braces is exposed when the Collapse starts.
+- **Abandon it:** choose survival over proof. The party escapes cleanly, but the frame and site are lost.
+- **Grab the core:** choose proof in hand. One PC extracts the core before the frame fails, carrying it into the escape and debrief.
 
 ### Narration Cues
 

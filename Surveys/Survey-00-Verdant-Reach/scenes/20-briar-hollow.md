@@ -3,14 +3,14 @@
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#briar-hollow)
 
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Briar-Hollow-Before.png" alt="Briar Hollow" width="800" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Briar-Hollow-Before.png" alt="Briar Hollow" width="800" style="border-radius:8px;" />
 
 ## Introduction
 
 >*Briar Hollow Village is a small farming settlement, but it is behaving like a place already bracing for siege. As your party moves through town, you notice the following things.*
 > - *Two farmers argue in whispers, not shouts. However, conversations stop when the party approaches.*
 > - *At the edge of the square, a halfling beekeeper sits beside silent hives, staring at them as if waiting for a sound that will not come back.*
-> - *You notice a blacksmith is forging tools instead of horseshoes.*
+> - *A blacksmith is forging tools instead of horseshoes.*
 > - *A sign reads: "No Grain Loans."*
 > - *A cart is already packed for departure.*
 > - *A barn door is reinforced from the inside.*
@@ -19,9 +19,11 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#briar-ho
 
  Run: [Briar Hollow Investigations](../run/20-briar-hollow-investigations.md)
 
+Return here after each lead resolves. Once the party has enough evidence or commits to the town crisis, move to Dagna or directly to the Collapse sequence.
+
 ## Dagna Feldrun
 
-All encounters will eventually lead to meeting Dagna. Regional Yield Director.
+Most paths through Briar Hollow eventually lead to Dagna, the Regional Yield Director.
 
 <div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
 <div style="flex:0 0 180px; width:180px; max-width:100%; align-self:stretch;">
@@ -41,12 +43,14 @@ All encounters will eventually lead to meeting Dagna. Regional Yield Director.
 
 </div>
 
-- Dagna asks them for their objectives and how far they have come through.
-- Dagna will let players know about soil samples in Northern forest and water samples in the river bank, and about the seismic activity in Granite Ridge.
-- Party may rest in this town. It is considered a safe haven before the panic, After the Panic it's considered unstable.
+- Dagna asks what the party was sent to do and what they have already seen.
+- She points them toward soil samples in the northern forest, water samples at the river bank, and seismic activity at Granite Ridge.
+- The party may rest here. Before the panic fully breaks, Briar Hollow counts as a Safe Haven. After the panic, treat it as Unstable.
 
 >*What do you do?*
 
+If the party has spoken with Dagna and dealt with the local leads they care about, move to [Vital Collapse](./50-vital-collapse.md).
+
 ## End
 
-Move to [Vital Collapse](./50-vital-collapse.md) when ready.
+Move to [Vital Collapse](./50-vital-collapse.md) when the table is ready to trigger the town crisis.

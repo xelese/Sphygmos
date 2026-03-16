@@ -26,7 +26,7 @@ They walked into Verdant Stasis regions when most people still thought they were
 
 They did this three times.
 
-After the third region slipped past Stasis into full Collapse, [Dead PC] stopped filing reports. They walked south. They spent time among refugees and folk communities that had already begun living as though the world was ending — reducing draw, abandoning magic, mourning what they used to be.
+After the third region slipped from Verdant Stasis into full Collapse, [Dead PC] stopped filing reports. They walked south. They spent time among refugees and folk communities that had already begun living as though the world was ending — reducing draw, abandoning magic, mourning what they used to be.
 
 When the ancient ruins were uncovered and the Church of the Last Descent formed around their implications, [Dead PC] did not need to be converted. They had already arrived at the same conclusion through fieldwork.
 
@@ -42,7 +42,7 @@ They believe the Tower's researchers are brilliant, rigorous, and fundamentally 
 
 They do not think the Tower is evil. They think it is afraid, and that its fear is killing the world slowly instead of letting it die quickly enough to heal.
 
-Their own binding proves their conviction. They severed their coupling willingly. They draw nothing from the biosphere. They are proof — walking, speaking, slowly diminishing proof — that letting go of the field is survivable, meaningful, and necessary.
+Their own binding proves their conviction. They severed their coupling willingly. They draw nothing from the biosphere now. They are proof — walking, speaking, slowly diminishing proof — that letting go of the field is survivable, meaningful, and necessary.
 
 ---
 
@@ -101,7 +101,7 @@ They call Tower personnel by their titles. They call the party by their names if
 
 - Immune to Metabolic Drift and Collapse-zone environmental effects.
 - Does not need to breathe, eat, drink, or rest.
-- Resistant to field-disruption effects (Counterspell, Dispel Magic, antimagic zones affect them less because their continuity is hardware-based, not spell-based).
+- Less dependent on active spellcasting than a living caster. Counterspell and Dispel Magic are usually poor answers to them, but relic-core disruption and antimagic pressure can still interfere with their continuity.
 - Melee-focused. Fights with a heavy longsword and tower shield. No flashy magic.
 - Their attacks carry a faint field-drain effect: on a critical hit, the target feels a brief pulse of Vital Current being redirected into the relic core, as if the sword is sipping from the wound.
 - As their reservoir depletes, their speed drops, their damage dims, and their voice thins. A long fight is a losing fight for them, and they know it. They fight to accomplish objectives, not to prove dominance.

@@ -5,12 +5,14 @@
 <a id="player-introduction"></a>
 ## Player Introduction
 
-Let Players introduce themselves. Move this along quickly as they should not have any backstories.
+Let the players introduce their characters.
+Keep this brief. They do not need full backstories yet.
 
 <a id="objective"></a>
 ## Objective
 
-Ask player what their objective is. Hint is in [Contract Handout](../handouts/contract.md)
+Ask the players what they think the assignment is.
+The answer is in the [Contract Handout](../handouts/contract.md).
 
 >- Install a Tower-issued Vital Density Obelisk in the region.
 >- Capture a clean obelisk waveform if possible.
@@ -28,7 +30,7 @@ Ask player what their objective is. Hint is in [Contract Handout](../handouts/co
 Inform Players that the scientific equipment has been manufactured for this Survey and entrusted to them.
 
 - [Vital Density Obelisk](../../../Items/Homebrew/Scientific-Equipment/Vital-Density-Obelisk.md)
-- [Soil-Micro-Lense-Kit](../../../Items/Homebrew/Scientific-Equipment/Soil-Micro-Lense-Kit.md)
+- [Soil-Micro-Lens-Kit](../../../Items/Homebrew/Scientific-Equipment/Soil-Micro-Lens-Kit.md)
 - [Aqua-Vital-Assay-Kit](../../../Items/Homebrew/Scientific-Equipment/Aqua-Vital-Assay-Kit.md)
 - [Seismic-Resonance-Rods](../../../Items/Homebrew/Scientific-Equipment/Seismic-Resonance-Rods.md)
 - [Leyline-Compass](../../../Items/Homebrew/Scientific-Equipment/Leyline-Compass.md)

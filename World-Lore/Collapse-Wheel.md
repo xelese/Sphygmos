@@ -54,7 +54,7 @@ They cannot stop the wheel outright.
 
 - The field still supports life, but unevenly.
 - Wildlife encounters become less common.
-- Rest becomes less reliable and may require a Constitution save.
+- Rest becomes less reliable, and even a decent camp may yield only a Strained Long Rest.
 - Healing slows.
 - Food spoils in odd or premature ways.
 
@@ -72,7 +72,7 @@ They cannot stop the wheel outright.
 - Decay stops.
 - Insects are absent.
 - Sound feels muffled.
-- Long rests become impossible.
+- Field recovery effectively fails. Expect Poor Rest rather than a true Long Rest.
 - Corpses remain intact instead of breaking down.
 
 Verdant Stasis is not normal death. It is ecological standstill.
@@ -85,7 +85,7 @@ The field still exists in the planetary system, but the surface no longer answer
 - Microbial activity is gone.
 - The air feels thin and wrong.
 - Natural healing fails.
-- Necromancy fails.
+- Ordinary necromancy fails.
 - Nothing grows.
 
 It is not dead.

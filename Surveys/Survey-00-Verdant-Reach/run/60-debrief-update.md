@@ -1,5 +1,8 @@
 # End of Survey 00
 
+> **Quick Nav:** [Science Point Tally](#science-point-tally) | [Roster Update](#roster-update) | [Collapse Wheel](#collapse-wheel) | [Tracker](#tracker)
+
+<a id="science-point-tally"></a>
 ## Science Point Tally
 
 After the debrief, tally SP earned during the survey. See [Bastion Rules](../../../Core-Rules/Bastion.md) for the full system.
@@ -15,6 +18,7 @@ After the debrief, tally SP earned during the survey. See [Bastion Rules](../../
 
 If cumulative SP reaches **6**, the Tower advances to **Level 5** before Survey 1. Level 5 benefits (Expedition Wing, +1 Camp Point for Tower gear, pre-survey briefings, and 2 new roster slots) become available at the start of Survey 1.
 
+<a id="roster-update"></a>
 ## Roster Update
 
 If the party earned Alric Venn's trust (ALLY status), he offers **2 militia members** willing to transfer to Tower service. These NPCs can fill open roster slots at Level 5 and become fully playable characters.
@@ -22,8 +26,10 @@ If the party earned Alric Venn's trust (ALLY status), he offers **2 militia memb
 If Alric is NEUTRAL or ENEMY, this offer does not happen.
 
 
-## Collapse wheel
+<a id="collapse-wheel"></a>
+## Collapse Wheel
 - Advance the [Collapse Wheel](../../../World-Lore/Collapse-Wheel.md) for other regions. 
 
+<a id="tracker"></a>
 ## Tracker
 - Update the [High Tower Bastion tracker](../../../Locations/High-Tower.md#bastion). Track what has been established.

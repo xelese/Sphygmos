@@ -9,6 +9,8 @@
 - DC increases or decreases based on political alignment + total Science Points.
 - Shorthand: AI = Alric, DI = Dagna, CH = Crowd Heat
 
+> **Run This Fast:** Resolve Tensions 1-3 in any order. Let each PC usually commit to one intervention at a time. After those outcomes land, run Tension 4 and then check the outcome table.
+
 <a id="science-points"></a>
 ## Science Points
 
@@ -19,7 +21,7 @@
 <a id="tension-1-who-owns-the-grain"></a>
 ## Tension 1 - "Who owns the grain?"
 
-**Type:** Social | **Threat:** None | **Skill Challenge:** 1 successes
+**Type:** Social | **Threat:** None | **Skill Challenge:** 1 success
 
 Militia begins confiscations; Dagna refuses to release stores without an audit.
 
@@ -130,12 +132,16 @@ Complication: Someone tries to destroy or steal ledgers/samples because Dagna's 
 >***Agitator (crowd):** They've got charts. You've got empty bowls.*
 
 ### Spot it
-- DC 15 Perception or Investigation [Subtle] -> Identify a saboteur before they act.
+- One PC makes DC 15 Perception or Investigation [Subtle] -> Identify the saboteur before they act.
 
-### Stop it (If Spot it succeeds) x2 PCs
+### Stop it
+If the saboteur is spotted early, any **two successful interventions** stop the sabotage cleanly.
+
 - Sleight of Hand DC 15: swap the ledger case
 - Athletics DC 15: tackle/arrest cleanly
 - Deception DC 16: misdirect crowd ("that's not the real ledger")
+
+If nobody spots it first, the saboteur acts and the party deals with the failure result immediately.
 
 **Success:**
 
@@ -249,6 +255,8 @@ Consequence: splintered enclaves (matches Verdant Stasis behavior: fracture, vio
 #### Virtu Deck Setup
 
 Populate this in [Virtu Deck](https://pwlinkas.github.io/virtudeck/).
+
+Use this only if no clear outcome above applies and you want a fast tie-breaker for how the square turns.
 
 one card per line.
 

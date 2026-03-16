@@ -79,7 +79,7 @@ This is why class differences exist. They are not just differences in power. The
 
 ## Class-by-Class Interpretation
 
-Each class represents a distinct mode of Vital field interaction. The categories below use the 2024 Player's Handbook (5.5e) class list.
+Each class represents a distinct mode of Vital field interaction. The categories below use the 2024 Player's Handbook class list.
 
 ### Full Casters
 
@@ -269,13 +269,13 @@ The monk represents the most sophisticated non-magical interaction with the Vita
 - **Coherence:** Exceptional. Monks maintain internal stability that resists external disruption.
 - **Control:** High internally, minimal externally. Monks shape their own coupling, not the surrounding field.
 
-Ki (or Focus in 5.5e) is internally regulated Vital Current. Stunning Strike is a disruptive coupling pulse delivered through physical contact. Deflect Missiles and Slow Fall represent real-time internal field adjustment.
+Ki (or Focus in the 2024 rules) is internally regulated Vital Current. Stunning Strike is a disruptive coupling pulse delivered through physical contact. Deflect Missiles and Slow Fall represent real-time internal field adjustment.
 
 At higher levels, monks develop effects that look like magic (Astral Projection, Empty Body) because their internal regulation has become so precise that they can temporarily decouple from the biosphere plate entirely.
 
 ---
 
-## Stress Testing Against 5.5e
+## Stress Testing Against The 2024 Rules
 
 The model must hold against known mechanical and narrative edge cases in the 2024 rules. Each case below identifies a potential contradiction and resolves it.
 
@@ -353,7 +353,7 @@ The 10-minute casting time is the cost of building field alignment manually rath
 
 **Resolution:** A dead organism's coupling has collapsed. Resurrection magic re-establishes coupling between the organism's structure and the biosphere field, then uses that restored coupling to restart biological processes.
 
-This explains several 5.5e constraints:
+This explains several 2024-rules constraints:
 - **Material costs** (diamonds): gemstones with specific crystalline structures may act as coupling scaffolds that help re-establish the field connection.
 - **Time limits:** The longer a body remains dead, the more its biological structures degrade, making re-coupling harder.
 - **Willing soul:** The soul must be willing because re-coupling requires the organism's own field signature to participate. An unwilling soul is one whose signature resists re-alignment.
@@ -412,7 +412,7 @@ This also explains why Rage grants resistance to physical damage: the body is so
 
 **Resolution:** Ki occupies the boundary between biological draw and field shaping. Most Ki abilities are internal coupling regulation, not external field manipulation. But at high levels, monks develop effects that cross into genuine field interaction.
 
-The 5.5e rules reflect this: some monk abilities are explicitly magical (Astral Projection, Empty Body), while others are extraordinary biological feats.
+The 2024 rules reflect this: some monk abilities are explicitly magical (Astral Projection, Empty Body), while others are extraordinary biological feats.
 
 In model terms, monks start as internal regulators and gradually develop enough internal precision that their regulation begins to affect the external field.
 

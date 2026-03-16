@@ -19,7 +19,7 @@ Give the players a moment.
 
 Then:
 
->*"The region of Verdant Reach has collapsed. This phenomenon is now being referred to as the "Verdant stasis"."*
+>*"The region of Verdant Reach has suffered a Collapse event and entered Verdant Stasis. This state is now being referred to as 'Verdant Stasis'."*
 
 The words feel bureaucratic. Wrong and small.
 
@@ -121,6 +121,12 @@ Start with 0 and add 1 point per success. Each point allows them to claim one be
 > Their gaze is flat as stone. "But you did not bring it home."
 
 ## Verdant Reach - Political Stability
+
+Use the final Survey 00 political state to choose which Alric and Dagna entries apply here.
+
+- `ALLY` if the party clearly earned that NPC's trust.
+- `NEUTRAL` if the relationship held but did not improve enough to become a partnership.
+- `ENEMY` if the party openly worsened the relationship or left that NPC hostile.
 
 ### Captain Alric Venn (Militia / Order)
 

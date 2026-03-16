@@ -84,11 +84,11 @@ You don’t need to act. You can speak in character, or just describe intent.
 > “My character tries to be polite and get more information.”
 
 
-Sometimes you roll If the outcome is uncertain, we’ll ask for a roll. Usually that means rolling a d20 and adding a bonus from your sheet. 
-DndBeyond bakes this complexity so all you have to do is click a button.
+Sometimes you roll. If the outcome is uncertain, we’ll ask for a roll. Usually that means rolling a d20 and adding a bonus from your sheet.
+D&D Beyond handles that complexity, so most of the time you just click a button.
 
 
-The story changes Success moves things forward. Failure still moves things forward, just usually with a cost, complication, or surprise.
+The story changes. Success moves things forward. Failure still moves things forward, just usually with a cost, complication, or surprise.
 
 ---
 ## What matters on your character sheet
@@ -235,8 +235,8 @@ If the d20 itself shows:
 - 20 = a natural 20
 - 1 = a natural 1
 
-For attacks, a natural 20 is critical success. Most of the time it means success with bonus.
-A natural 1 a critical miss. Often it's a failure with really negative outcome.
+For attacks, a natural 20 is a critical success. Most of the time it means success with a bonus.
+A natural 1 is a critical miss. Often it's a failure with a really negative outcome.
 
 ---
 ## Campaign-specific expectations

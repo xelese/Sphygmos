@@ -8,6 +8,8 @@
 - Seismic rod placement
 - Path to Briar Hollow
 
+> **Run This Fast:** Let the party inspect the singing stone first if they want context, then run the rod procedure, then offer the satchel or hidden path as follow-up options.
+
 <a id="singing-stone"></a>
 ## Singing Stone
 
@@ -33,7 +35,12 @@ Micro-fracture erupts -> Dex DC 14 or take 2d6 slashing from stone shards.
 
 Party can determine the tremors via [Seismic-Resonance-Rods](../../../Items/Homebrew/Scientific-Equipment/Seismic-Resonance-Rods.md)
 
-Note: may have **Advantage** on locating the placement for Seismic Rods.
+Use the rod item's structured challenge here.
+
+- If **Singing Stone** succeeded, grant **advantage on the first choose-site roll**.
+- If the party has proper tools, apply the item's normal setup bonus.
+- 2 rods succeeding is enough to confirm periodicity and earn the science result here.
+- 3 rods succeeding gives the full triangulation clue.
 
 ### Narration Cues
 
@@ -75,7 +82,8 @@ Note: may have **Advantage** on locating the placement for Seismic Rods.
 
 Party can determine a path to the village. 
 
-- DC 12 Luck (Unless this is the only path then no DC)
+- DC 12 Survival or Perception -> Find a crossing or descent route toward Briar Hollow.
+- If this is the only remaining route, skip the check and let the party find it with time.
 
 <a id="end"></a>
 ## End

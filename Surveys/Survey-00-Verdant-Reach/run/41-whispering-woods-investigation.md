@@ -8,12 +8,14 @@
 - Collect soil sample
 - Path to Briar Hollow
 
+> **Run This Fast:** Resolve Stage A and Stage B as separate leads in the same clearing. Each success helps the soil sample later, but neither stage blocks the other.
+
 <a id="the-quiet-clearing"></a>
 ## The Quiet Clearing
 
 **Type:** Investigation | **Threat:** None | **Skill Challenge:** 1 success per stage
 
-Run both simultaneously.
+Run Stage A and Stage B as parallel investigation options.
 
 **Stage A:**
 
@@ -48,7 +50,7 @@ Run both simultaneously.
 ## Soil Sample
 
 Party can sample soil via challenge:
-[Soil-Micro-Lense-Kit](../../../Items/Homebrew/Scientific-Equipment/Soil-Micro-Lense-Kit.md)
+[Soil-Micro-Lens-Kit](../../../Items/Homebrew/Scientific-Equipment/Soil-Micro-Lens-Kit.md)
 
 ### Narration Cues
 
@@ -105,7 +107,8 @@ On failure, mark on the table:
 
 Party can determine a path to the village.
 
-- DC 12 Luck (Unless this is the only path then no DC)
+- DC 12 Survival or Perception -> Find a safe crossing or game trail toward Briar Hollow.
+- If this is the only practical way forward, skip the roll and let the party find it with time.
 
 <a id="end"></a>
 ## End

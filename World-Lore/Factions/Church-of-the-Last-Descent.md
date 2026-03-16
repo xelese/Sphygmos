@@ -83,7 +83,7 @@ Their most dangerous capability is undead engineering.
 
 The Knights recovered ancient relic cores and custodian-binding techniques from the ruins of the first civilization. They use these to create Pinned soldiers — obedient, tireless, and capable of operating in zones where living troops would suffer Metabolic Drift or die.
 
-Their elite are the **Death Knights**: volunteer officers who undergo a ritual binding that preserves their identity, will, and combat skill inside a finite artificial reservoir. They accept the Returned state willingly as a sacrament — proof that they have already surrendered their claim on the living field.
+Their elite are the **Death Knights**: volunteer officers who undergo a ritual binding that preserves identity, will, and combat skill inside a finite relic-core reservoir. In setting terms, they are a specialized, militant form of the **Returned** state accepted willingly as a sacrament — proof that they have already surrendered their claim on the living field.
 
 ---
 
@@ -105,7 +105,7 @@ In practice, the binding grants:
 
 - Immunity to Metabolic Drift and Collapse-zone debuffs.
 - Sustained combat function without rest, food, or healing.
-- Resistance to field-disruption effects that would stagger living casters.
+- Reduced dependence on active spellcasting, though relic-core disruption and anti-magic effects still matter.
 - A slow, visible decline as the reservoir depletes — voice thinning, reflexes slowing, skin greying.
 
 Their armor is distinctive: black iron reinforced with relic-core housings at the sternum, spine, and joints. Etched with descent iconography — downward spirals, roots breaking stone, open palms releasing light.

@@ -2,7 +2,7 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#granite-ridge)
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/rift.png" alt="Granite Ridge" width="800" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/rift.png" alt="Granite Ridge" width="800" style="border-radius:8px;" />
 
 ## Introduction
 
@@ -10,13 +10,17 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#granite-
 >
 > *Farther along the ridge, several granite outcrops seem to answer the shaking with a low harmonic hum, as if the rock itself is trying to sing back.*
 
-Run [Ridge Fissure](../run/30-ridge-fissure.md) first as this happens immediately. Then,
+Run [Ridge Fissure](../run/30-ridge-fissure.md) first. It happens immediately on arrival.
+
+After the fissure resolves, return here and continue with the site description below.
 
 > *As things settle, you finally have time to read the place instead of merely survive it. The fissure has changed the runoff, some stone faces still hum under your hands, and a few stable ledges look wide enough to plant instruments if you dare approach them. In the distance, one stretch of river looks shallower than it should.*
 
 > *What do you do?*
 
-Run [Seismic Site](../run/31-seismic-site.md) which is a bunch of experiments and a potential path to Briar Hollow
+Run [Seismic Site](../run/31-seismic-site.md) for the measurements and possible crossing route.
+
+Return here after the Seismic Site resolves and use the outcome below.
 
 ## Outcome
 
@@ -32,3 +36,5 @@ Party discovers a viable crossing point to reach Briar Hollow.
 There is nothing more to do here than to return back.
 - [Alieth River Bank - East](./10-alieth-river-bank.md)
 - [Whispering Woods - North](./40-whispering-woods.md)
+
+If the ridge does not give them a path forward, send them back to the route they choose next.

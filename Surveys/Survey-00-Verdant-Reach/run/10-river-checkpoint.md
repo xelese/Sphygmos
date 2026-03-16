@@ -8,6 +8,10 @@
 - Collect samples of river water. 
 - Interview locals and record timelines of abnormalities.
 
+> **Run This Fast:** Present the crowd and militia positions, give the fisherman anomaly, allow the water sample if the party wants proof, then resolve the checkpoint social challenge. Only run combat if the party starts it.
+
+> **Carry Forward:** Use `AI` for Captain Alric Venn in later Survey 00 political tracking. `AI -1` means the party improved his trust. `AI +1` means they worsened it.
+
 <a id="political-tension"></a>
 ## Political Tension
 
@@ -18,14 +22,15 @@ Two groups present here:
 
 **Mob**
 
-- The mob is unhappy about the grain seizure and demands more proof that the food they carry is poisoned
-- A fisherman reports fish are thinner but not diseased. Since the fish is not poisoned the water cannot be poisoned either
+- Angry, frightened, and hungry.
+- They want proof before they surrender food.
+- The fisherman's point matters: fish are thinner, not diseased, so locals assume the river cannot be poisoned.
 
 **Militia**
 
-- The militia does not believe the mob. It demands the grain be handed to them so the region does not starve to death.
-
-- The militia is not unreasonable. Alric will listen to scientific results.
+- Tired, rigid, and trying to prevent panic.
+- They want grain under guard so the region does not starve.
+- They are not unreasonable. Alric will listen to scientific results.
 
 <a id="grain-seizure"></a>
 ## Grain Seizure
@@ -38,7 +43,7 @@ Two groups present here:
 - 2 x Berserker - Humanoid CR 2
 - 1 x Guard Captain - Humanoid CR 4
 
-This should be non combat encounter but in case players attack. This will be lethal.
+This should stay non-combat. If the party attacks first, run it as a lethal fight.
 
 ### Challenge
 
@@ -50,14 +55,14 @@ This should be non combat encounter but in case players attack. This will be let
 - DC 13 Insight [Subtle] -> Reveal Alric has lost two children to stillbirth in the past year. He believes something is poisoning the future. His aggression is grief wearing armor. (Advantage on next Persuasion check)
 
 **Success:**
-- **Political Alignment:** Alric -1 DC
+- **AI -1**
 - He assigns 2 guards for escort later (replacement PCs if PC dies)
 - Allows passage to Briar Hollow
 
 **Failure:**
 - Grain and food seized.
 - Party is refused entry. Go find refuge somewhere else.
-- **Political Alignment:** Alric +1 DC
+- **AI +1**
 
 <a id="anomaly"></a>
 ## Anomaly
@@ -120,7 +125,7 @@ On failure, mark on the table:
     - [common item roll](../tracker/item-tracker.md)
     - 15 gp in militia script
 
-If the party steals it, increase suspicion around them. Apply **Political Alignment: Alric +1 DC** at minimum, or carry that hostility forward into later instability if the theft becomes public.
+If the party steals it, increase suspicion around them. Apply **AI +1** at minimum, or carry that hostility forward into later instability if the theft becomes public.
 
 <a id="end"></a>
 ## End

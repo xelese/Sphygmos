@@ -2,7 +2,7 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#alieth-river-bank)
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/river-crossing.png" alt="Alieth River Bank" width="800" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/river-crossing.png" alt="Alieth River Bank" width="800" style="border-radius:8px;" />
 
 ## Introduction
 
@@ -12,7 +12,7 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#alieth-r
 > 
 > *A fisherman is holding up a string of unnaturally thin fish while shouting that the river cannot be poisoned if it still runs clear.*
 >
-> *Captain Alric Venn stands at the center of it with the militia, he commands them.*
+> *Captain Alric Venn stands at the center of it with the militia arranged around him like a wall. He is clearly the one holding this line together.*
 
 ## The River Checkpoint
 
@@ -35,25 +35,31 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#alieth-r
 
 ### Read-Aloud
 
-Halt says one of the guards.
+> *"Halt," one of the guards says.*
 
->*Captain Alric Venn demands that all grains, supplies and travel bags be seized at this checkpoint before entering Briar Hollow. We believe the food, water and equipment you carry is poisoned and will harm you. Turn around if you must. But if you have to pass through the bridge we will need to confiscate your food, water and any unauthorized supplies.*
+> *"Captain Alric Venn has ordered all grain, supplies, and travel packs inspected before anyone enters Briar Hollow. We believe food, water, and equipment moving through this crossing may be tainted. Turn back if you want. If you insist on crossing, we confiscate food, water, and any unauthorized supplies."*
 
 >*What do you do?*
 
 Run [River Checkpoint](../run/10-river-checkpoint.md)
 
+Return here after the checkpoint challenge resolves and use the outcome below.
+
 ## Outcome
 
 ### Success
 
->*Captain Alric Venn empathizes with your cause. I know we are at odds, but please see Dagna Feldrun. She is the Regional Yield Director and can use your help.*
+> *Captain Alric Venn lowers his voice.*
+>
+> *"We may be at odds, but this village still needs help. Go find Dagna Feldrun. She is the Regional Yield Director, and if anyone here will hear you out, it will be her."*
 
 Proceed to [Briar Hollow - East](./20-briar-hollow.md)
 
 ### Failure
 
->*The High Tower experiments while people starve. We have too many hungry and desperate, we cannot let you deplete whatever little that remains. Please leave immediately.*
+> *"The High Tower experiments while people starve. We have too many hungry and desperate already. We will not let you deplete what little remains. Leave. Now."*
 
 - [Whispering Woods - North](./40-whispering-woods.md)
 - [Granite Ridge - South](./30-granite-ridge.md)
+
+If the party is denied entry, send them to the route they pick next.

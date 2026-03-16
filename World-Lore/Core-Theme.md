@@ -69,6 +69,8 @@ The Vital support is still in the planetary system, but it has retreated too far
 - Natural healing collapses.
 - Stable magic becomes rare, weak, or distorted.
 
+In technical cosmology, this state is often described as **Dormancy**. In field reports and the Collapse Wheel, it is usually tracked simply as **Collapsed**.
+
 Dormancy is not annihilation.
 
 It is disconnection.

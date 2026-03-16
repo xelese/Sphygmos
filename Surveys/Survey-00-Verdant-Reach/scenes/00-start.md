@@ -16,7 +16,7 @@ Read Opening World Introduction.
 <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
     <p><strong>Seraphine Ilyra</strong></p>
     <p><strong>First Impression:</strong> Curious. Brilliant. Slightly detached. She's obsessed with oscillation theory.</p>
-    <p><strong>Hidden Depth:</strong> She suspects the anomalies reveal a real field held between depth and the living surface. She refuses to name the structure until the obelisk gives her proof.</p>
+    <p><strong>Hidden Depth:</strong> She suspects the anomalies reveal a real field held between something deep below and something broad across the living surface. She refuses to name the structure until the obelisk gives her proof.</p>
     <p><a href="../../../NPCs/Seraphine-Ilyra.md">Full profile</a></p>
 </div>
 </div>
@@ -34,9 +34,11 @@ Show [Contract Handout](../handouts/contract.md) to PCs in Roll20.
 
 Run [Opening Brief](../run/00-opening-brief.md)
 
+After the brief, return here and let the party choose a direction from the crossroads.
+
 ## Location
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Verdant Reach.png" alt="Verdant Reach" width="800" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Verdant%20Reach.png" alt="Verdant Reach" width="800" style="border-radius:8px;" />
 
 <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
 
@@ -82,3 +84,5 @@ Pause.
 - [Whispering Woods - North](./40-whispering-woods.md)
 - [Town of Briar Hollow - East](./10-alieth-river-bank.md)
 - [Granite Ridge - South](./30-granite-ridge.md)
+
+Pick the route the party names and move directly to that scene.

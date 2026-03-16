@@ -2,7 +2,7 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#whispering-woods)
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant Reach/Whispering-Woods.png" alt="Whispering Woods" width="800" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Whispering-Woods.png" alt="Whispering Woods" width="800" style="border-radius:8px;" />
 
 ## Introduction
 
@@ -12,29 +12,35 @@ Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#whisperi
 
 Run [The Forest Stalk](../run/40-forest-stalk.md) immediately.
 
+After the stalk resolves, return here and continue with the clearing investigation.
+
 >*That seems to be the last of them. As you catch your breath, the forest settles into a silence that feels wrong instead of peaceful...*
 
 >*The first thing you notice is that the soil seems unstable in certain parts, but something about it is wrong. You see fallen trees in what should be an insect-dense clearing, yet the place feels silent. The wood is wrong too: no rot on the fallen logs, no beetles, no soft fungal bloom.*
 >
 >*Nearby, an uprooted massive oak reveals a deep root cluster intertwined with crystalline veins. The roots nearest the crystal look partially desiccated, dry as old rope.*
 >
->*There are other signs too:Aa narrow game trail bending toward the river, and patches of ground that sink too easily under a careful boot.*
+>*There are other signs too: a narrow game trail bending toward the river, and patches of ground that sink too easily under a careful boot.*
 
 >*What do you do?*
 
-Run [Whispering Woods Investigation](../run/41-whispering-woods-investigation.md). This also has a random luck chance to lead to Briar Hollow.
+Run [Whispering Woods Investigation](../run/41-whispering-woods-investigation.md).
+
+Return here after the investigation resolves and use the outcome below.
 
 ## Outcome
 
 ### Success
 
->*You find a wide and a tall tree that has fallen over the river, this allows you to cross safely into Briar Hollow*
+>*You find a broad fallen tree laid cleanly across the river. It is unstable, but it will carry you safely into Briar Hollow if you cross carefully.*
 
 Proceed to [Briar Hollow - East](./20-briar-hollow.md)
 
 ### Failure
 
->*You have to return back*
+>*There is no safe crossing here. You will have to turn back.*
 
-- [Alieth River - East](./10-alieth-river-bank.md)
+- [Alieth River Bank - East](./10-alieth-river-bank.md)
 - [Granite Ridge - South](./30-granite-ridge.md)
+
+If the forest does not yield a crossing, send them back to the route they choose next.
