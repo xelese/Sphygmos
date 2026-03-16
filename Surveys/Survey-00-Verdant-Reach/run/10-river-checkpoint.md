@@ -30,7 +30,7 @@ Two groups present here:
 <a id="grain-seizure"></a>
 ## Grain Seizure
 
-**Type:** Social + Investigation | **Threat:** Medium (mob + militia) | **Delivers:** Not contamination + Alric hook
+**Type:** Social | **Threat:** Medium (mob + militia) | **Delivers:** Not contamination + Alric hook
 
 ### Combat
 

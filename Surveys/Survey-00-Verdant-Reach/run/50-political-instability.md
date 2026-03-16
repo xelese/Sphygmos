@@ -119,7 +119,7 @@ Complication: A father refuses evacuation while panic surges.
 <a id="tension-3-the-records-spark"></a>
 ## Tension 3 - "The records Spark"
 
-**Type:** Social + Investigation | **Threat:** Medium (arson/sabotage) | **Skill Challenge:** 2 successes
+**Type:** Investigation | **Threat:** Medium (arson/sabotage) | **Skill Challenge:** 2 successes
 
 Complication: Someone tries to destroy or steal ledgers/samples because Dagna's records decide who gets fed.
 

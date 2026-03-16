@@ -17,7 +17,7 @@
 <a id="the-silent-apiary"></a>
 ## The Silent Apiary
 
-**Type:** Social + Investigation | **Threat:** None | **Skill Challenge:** 2 successes
+**Type:** Investigation | **Threat:** None | **Skill Challenge:** 2 successes
 
 >*A halfling beekeeper is extremely sad and moping on the side of his street. I have lost it all...*
 
@@ -56,7 +56,7 @@ If approached
 <a id="grain-weighing-dispute"></a>
 ## Grain Weighing Dispute
 
-**Type:** Social + Investigation | **Threat:** None | **Skill Challenge:** 2 successes
+**Type:** Social | **Threat:** None | **Skill Challenge:** 2 successes
 
 >*Two farmers accuse each other of watering down grain sacks.*
 
