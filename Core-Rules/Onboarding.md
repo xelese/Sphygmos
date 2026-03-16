@@ -6,6 +6,45 @@ Welcome! You do not need to know D&D already. We’ll guide you through it.
 At our table, we use D&D Beyond for your character sheet and most mechanics, and Roll20 for maps, tokens, and visuals. 
 Your main job is simple: describe what your character tries to do, and we’ll help with the rules. This game uses the 2024 D&D rules.
 
+## Campaign tone and character fit
+
+This is a 2024 D&D campaign about field survey teams working in a world that is not ending loudly. It is going wrong quietly.
+
+Expect:
+
+- dangerous travel
+- strange environmental changes
+- stressed towns and scared locals
+- investigation, survival, and hard choices
+- a mix of tension, discovery, and small human moments
+
+Mechanically, you can play any class. Story-wise, your character should be someone willing to sign a High Tower field contract and go into unsafe places with a team.
+
+### The main custom rules to know
+
+- Long Rests are not automatic in the wild.
+- Food, water, shelter, and camp setup matter.
+- Some knowledge and awareness checks may be handled subtly, so you play what your character knows instead of what the dice told you.
+
+### Easy character concepts for contract signers
+
+Pick one, steal one, or mix two together:
+
+- **Debt runner:** you need the hazard pay now, not later.
+- **Curious scholar:** you think the Tower is missing something and want proof.
+- **Disgraced guard or soldier:** this job is your way back into respectability.
+- **Priest, medic, or caretaker:** people are suffering and you want to help before things get worse.
+- **Scout, hunter, or smuggler:** you know bad roads, rough camps, and how to bring people home alive.
+- **Exile or runaway:** a dangerous contract is still better than the life you left.
+- **True believer:** you trust the Tower, the mission, or the idea that knowledge can still save people.
+- **Opportunist:** you signed for salvage rights, status, or first claim on something valuable.
+
+For personality, keep it simple:
+
+- What made you sign?
+- What do you want out of this job besides money?
+- What kind of teammate are you when things go bad?
+
 ## What to have open
 
 Keep these open during play:
