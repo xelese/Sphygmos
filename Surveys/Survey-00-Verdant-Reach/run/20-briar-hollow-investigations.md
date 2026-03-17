@@ -122,8 +122,8 @@ If approached
 - **Locked:** Yes [DC 20]
 - **Trapped:** No
 - **Run:** Make **one** of the following approaches.
-	- DC 12 Persuasion -> The blacksmith sells the crate at a fair scarcity price if the party sounds useful. [225GP]
-	- DC 14 Persuasion or Insight [Subtle] -> The blacksmith lowers the price or accepts barter for food, medicine, or field news. [150GP]
+	- DC 12 Persuasion -> The blacksmith sells the crate at a fair scarcity price if the party sounds useful. [100GP]
+	- DC 14 Persuasion or Insight [Subtle] -> The blacksmith lowers the price or accepts barter for food, medicine, or field news. [50GP]
 	- DC 14 Sleight of Hand or Stealth -> Take the crate after hours without immediately alerting the town.
 - **Contents:**
 	- 1 Crowbar
