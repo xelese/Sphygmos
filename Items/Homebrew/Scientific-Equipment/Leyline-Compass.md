@@ -1,10 +1,19 @@
 # Leyline Compass
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Leyline-Compass.png" alt="Leyline Compass" style="width:100%; border-radius:8px; margin:8px 0;" />
-
-> - **Purpose:** Detect shifting Vital/ley stress and help identify the next region likely to degrade.
-> - **Item Type:** Wondrous item, uncommon.
-> - **Description:** *A crystal-needle compass that leans with hidden flow. During major tremors, it may spin and lock to a new bearing.*
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+  <div style="flex:0 0 180px; width:180px; max-width:100%; align-self:stretch;">
+    <img 
+    src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Leyline-Compass.png" 
+    alt="Leyline Compass" 
+    style="width:100%; border-radius:8px; margin:8px 0;" 
+    />
+  </div>
+  <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <p><strong>Purpose:</strong> Detect shifting Vital/ley stress and help identify the next region likely to degrade.</p>
+    <p><strong>Item Type:</strong> Wondrous item, uncommon.</p>
+    <p><strong>Description:</strong> A crystal-needle compass that leans with hidden flow. During major tremors, it may spin and lock to a new bearing.</p>
+  </div>
+</div>
 
 ## Player Reference
 

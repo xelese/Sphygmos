@@ -1,9 +1,18 @@
 # Soil Micro-Lens Kit
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Soil-Micro-Lense-Kit.png" alt="Soil Micro-Lens Kit" style="width:100%; border-radius:8px; margin:8px 0;" />
-
-> - **Purpose:** Detect and stage microbial collapse in soil; determine whether extinction is bottom-up or toxin-based.
-> - **Description:** *A brass fold-microscope with arcane focusing crystal, stain ampoules, slide plates, a depth-auger, and a viability clock that counts how long a sample remains readable.*
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+  <div style="flex:0 0 180px; width:180px; max-width:100%; align-self:stretch;">
+    <img 
+    src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Soil-Micro-Lense-Kit.png" 
+    alt="Soil Micro-Lens Kit" 
+    style="width:100%; border-radius:8px; margin:8px 0;" 
+    />
+  </div>
+  <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <p><strong>Purpose:</strong> Detect and stage microbial collapse in soil; determine whether extinction is bottom-up or toxin-based.</p>
+    <p><strong>Description:</strong> A brass fold-microscope with arcane focusing crystal, stain ampoules, slide plates, a depth-auger, and a viability clock that counts how long a sample remains readable.</p>
+  </div>
+</div>
 
 ## Player Reference
 

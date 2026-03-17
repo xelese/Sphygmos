@@ -1,9 +1,18 @@
 # Vital Density Obelisk (Regional Vital Potential)
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Vital-Density-Obelisk.png" alt="Vital Density Obelisk" style="width:100%; border-radius:8px; margin:8px 0;" />
-
-> - **Purpose:** Test whether a region's tremors, ecological thinning, and Collapse behavior belong to one connected field phenomenon; if the read stabilizes, it confirms a measurable field and helps predict the next Collapse timing.
-> - **Description:** *A waist-high brass obelisk with a crystal core and anchor struts. When powered, it projects a faint waveform shimmer.*
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+  <div style="flex:0 0 180px; width:180px; max-width:100%; align-self:stretch;">
+    <img 
+    src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Vital-Density-Obelisk.png" 
+    alt="Vital Density Obelisk" 
+    style="width:100%; border-radius:8px; margin:8px 0;" 
+    />
+  </div>
+  <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <p><strong>Purpose:</strong> Test whether a region's tremors, ecological thinning, and Collapse behavior belong to one connected field phenomenon; if the read stabilizes, it confirms a measurable field and helps predict the next Collapse timing.</p>
+    <p><strong>Description:</strong> A waist-high brass obelisk with a crystal core and anchor struts. When powered, it projects a faint waveform shimmer.</p>
+  </div>
+</div>
 
 ## Player Reference
 

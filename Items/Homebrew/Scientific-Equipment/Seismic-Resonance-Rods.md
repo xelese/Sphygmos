@@ -1,9 +1,18 @@
 # Seismic Resonance Rods
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Seismic-Resonance-Rods.png" alt="Seismic Resonance Rods" style="width:100%; border-radius:8px; margin:8px 0;" />
-
-> - **Purpose:** Measure subsurface oscillation and prove tremors are periodic.
-> - **Description:** *Three iron rods (18-24 inches) with crystal reed sleeves and etched tick-marks. When planted, micro-vibration patterns imprint into wax caps.*
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+  <div style="flex:0 0 180px; width:180px; max-width:100%; align-self:stretch;">
+    <img 
+    src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Seismic-Resonance-Rods.png" 
+    alt="Seismic Resonance Rods" 
+    style="width:100%; border-radius:8px; margin:8px 0;" 
+    />
+  </div>
+  <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <p><strong>Purpose:</strong> Measure subsurface oscillation and prove tremors are periodic.</p>
+    <p><strong>Description:</strong> Three iron rods (18-24 inches) with crystal reed sleeves and etched tick-marks. When planted, micro-vibration patterns imprint into wax caps.</p>
+  </div>
+</div>
 
 ## Player Reference
 

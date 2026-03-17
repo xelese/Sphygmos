@@ -1,9 +1,18 @@
 # Aqua-Vital Assay Kit
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Aqua-Vital-Assay-Kit.png" alt="Aqua-Vital Assay Kit" style="width:100%; border-radius:8px; margin:8px 0;" />
-
-> - **Purpose:** Test river health and identify whether collapse is happening at the smallest living level in water.
-> - **Description:** *A field filter cone with three reagent vials (clarifier, oxygen froth, vital stain), a glass float hydrometer, and a wax-sealed sample tube.*
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+  <div style="flex:0 0 180px; width:180px; max-width:100%; align-self:stretch;">
+    <img 
+    src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Items/Aqua-Vital-Assay-Kit.png" 
+    alt="Aqua-Vital Assay Kit" 
+    style="width:100%; border-radius:8px; margin:8px 0;" 
+    />
+  </div>
+  <div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+    <p><strong>Purpose:</strong> Test river health and identify whether collapse is happening at the smallest living level in water.</p>
+    <p><strong>Description:</strong> A field filter cone with three reagent vials (clarifier, oxygen froth, vital stain), a glass float hydrometer, and a wax-sealed sample tube.</p>
+  </div>
+</div>
 
 ## Player Reference
 
