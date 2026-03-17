@@ -25,6 +25,16 @@
 
 > *A halfling beekeeper sits beside a row of silent hives, staring at them as if waiting for one last sound.*
 
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+<div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+	<p><strong>Mara Thistlewick (Beekeeper)</strong></p>
+	<p><strong>Voice:</strong> Soft, exact, and one bad answer away from becoming sharp.</p>
+	<p><strong>First Impression:</strong> She sits beside the silent hives like a mourner at a wake, watching for movement that never comes.</p>
+	<p><strong>Table Beat:</strong> Taps the side of a hive whenever someone says something foolish.</p>
+	<p><strong>Funny Line:</strong> "If one more person says the bees are resting, I'll tuck them into a hive and let them prove it."</p>
+</div>
+</div>
+
 If approached
 
 > *The beekeeper gestures helplessly at forty intact hives.*
@@ -66,6 +76,16 @@ If approached
 
 >*Two farmers accuse each other of watering down grain sacks.*
 
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+<div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+	<p><strong>Nella Wren (Mill Assistant)</strong></p>
+	<p><strong>Voice:</strong> Bright, confidential, and always leaning half a sentence ahead of everyone else.</p>
+	<p><strong>First Impression:</strong> She smiles too quickly for the mood of the square and seems to know exactly which argument started where.</p>
+	<p><strong>Table Beat:</strong> Drops to a dramatic whisper for information that is not remotely secret.</p>
+	<p><strong>Funny Line:</strong> "I don't gossip. I preserve community memory in a highly portable form."</p>
+</div>
+</div>
+
 - DC 14 Investigation [Subtle] -> Confirm grain is lighter.
 - DC 15 Nature [Subtle] -> Determine kernels are hollowed from poor pollination.
 - DC 13 Insight [Subtle] -> Realize the accusation is fear looking for a target.
@@ -84,6 +104,16 @@ If approached
 **Type:** Treasure | **Threat:** Low | **Delivers:** Practical survey gear
 
 >*The blacksmith is not turning out horseshoes anymore. Near the forge sits a banded crate of salvageable field tools, the kind a settlement keeps making when beauty has become a luxury.*
+
+<div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
+<div style="flex:1; min-width:260px; padding:12px 16px; border-left:4px solid #999; background:rgba(255,255,255,0.03); border-radius:8px;">
+	<p><strong>Hesk Bramm (Blacksmith)</strong></p>
+	<p><strong>Voice:</strong> Dry, slow, and too tired to waste words.</p>
+	<p><strong>First Impression:</strong> Broad-shouldered and soot-darkened, he studies boots before faces and seems to have already judged both.</p>
+	<p><strong>Table Beat:</strong> Checks a speaker's footwear before answering, as if bad boots make bad opinions.</p>
+	<p><strong>Funny Line:</strong> "Used to shoe horses. Now I make shovels for problems you can't hit."</p>
+</div>
+</div>
 
 - **Method:** Buy, bargain for, or steal
 - **Location:** Briar Hollow blacksmith
