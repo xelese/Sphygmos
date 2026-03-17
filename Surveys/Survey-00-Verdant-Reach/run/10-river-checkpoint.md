@@ -116,12 +116,15 @@ On failure, mark on the table:
 >*A militia lockbox sits under a confiscation table, close enough to the emergency grain that anyone opening it is admitting what matters most here: medicine, food, and the right to decide who keeps them.*
 
 - **Method:** Steal
-- **Location:** River checkpoint or militia confiscation post
+- **Location:** River checkpoint or militia confiscation pos
+- **Locked:** Yes [DC 20]
+- **Trapped:** No
 - **Checks:**
     - DC 13 Investigation [Subtle] -> Notice which confiscation crate is a real medical lockbox and when it is left unattended.
     - DC 14 Sleight of Hand or Stealth -> Lift it during the argument without drawing militia attention.
 - **Contents:**
     - 1 Potion of Healing
+    - [common item roll](../tracker/item-tracker.md)
     - [common item roll](../tracker/item-tracker.md)
     - 15 gp in militia script
 

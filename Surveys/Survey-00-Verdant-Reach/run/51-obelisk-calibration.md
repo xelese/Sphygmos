@@ -19,11 +19,14 @@
 
 - **Method:** Find
 - **Location:** Near an obelisk site, ruined survey camp, or old field station
+- **Locked:** No
+- **Trapped:** Yes [DC 15]
 - **Checks:**
 	- DC 12 Investigation [Subtle] -> Identify the old Tower field sigil and realize the debris pile is deliberate cover.
 	- DC 12 Perception -> Notice the tarp edge, stake bundle, or note case before the site is fully unpacked.
 - **Contents:**
 	- 1 Potion of Healing
+	- [common item roll](../tracker/item-tracker.md)
 	- 1 field note about tremors, ley shifts, or early signs of collapse (Advantage on the first read of the obelisk if found before calibration)
 
 <a id="calibration"></a>

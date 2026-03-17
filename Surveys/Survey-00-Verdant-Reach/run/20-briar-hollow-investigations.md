@@ -62,6 +62,8 @@ If approached
 
 - **Method:** Find
 - **Location:** Near abandoned hives, orchard sheds, or a beekeeper's storehouse
+- **Locked:** Yes [DC 15]
+- **Trapped:** Yes [DC 15]
 - **Checks:**
 	- DC 12 Investigation [Subtle] -> Notice a shed panel or hive base that was opened recently enough to hide supplies.
 	- DC 12 Survival [Subtle] -> Follow old beekeeper traffic and smoke-stains to the stash.
@@ -101,7 +103,7 @@ If approached
 <a id="blacksmiths-tool-crate"></a>
 ## Blacksmith's Tool Crate
 
-**Type:** Treasure | **Threat:** Low | **Delivers:** Practical survey gear
+**Type:** Treasure | **Threat:** None | **Delivers:** Practical survey gear
 
 >*The blacksmith is not turning out horseshoes anymore. Near the forge sits a banded crate of salvageable field tools, the kind a settlement keeps making when beauty has become a luxury.*
 
@@ -117,15 +119,17 @@ If approached
 
 - **Method:** Buy, bargain for, or steal
 - **Location:** Briar Hollow blacksmith
+- **Locked:** Yes [DC 20]
+- **Trapped:** No
 - **Run:** Make **one** of the following approaches.
-	- DC 12 Persuasion -> The blacksmith sells the crate at a fair scarcity price if the party sounds useful.
-	- DC 14 Persuasion or Insight [Subtle] -> The blacksmith lowers the price or accepts barter for food, medicine, or field news.
+	- DC 12 Persuasion -> The blacksmith sells the crate at a fair scarcity price if the party sounds useful. [225GP]
+	- DC 14 Persuasion or Insight [Subtle] -> The blacksmith lowers the price or accepts barter for food, medicine, or field news. [150GP]
 	- DC 14 Sleight of Hand or Stealth -> Take the crate after hours without immediately alerting the town.
 - **Contents:**
 	- 1 Crowbar
 	- 1 Shovel
 	- 10 Pitons
-	- 2 Flasks of Oil
+	- [common item roll](../tracker/item-tracker.md)
 	- [common item roll](../tracker/item-tracker.md)
 
 <a id="leyline-compass"></a>

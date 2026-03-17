@@ -65,6 +65,8 @@ Use the rod item's structured challenge here.
 
 - **Method:** Find
 - **Location:** Granite Ridge, abandoned survey post, or dead courier
+- **Locked:** No
+- **Trapped:** No
 - **Checks:**
 	- DC 13 Perception [Subtle] -> Spot torn survey cloth or drag marks between the stones.
 	- DC 12 Investigation -> Free the satchel from shale without damaging the contents.

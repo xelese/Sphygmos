@@ -86,6 +86,8 @@ On failure, mark on the table:
 
 - **Method:** Find
 - **Location:** Whispering Woods, old blind, or hidden lean-to
+- **Locked:** Yes [DC 15]
+- **Trapped:** Yes [DC 15]
 - **Checks:**
 	- DC 13 Survival [Subtle] -> Recognize old trap lines and the sort of cover a woodsman would use to cover tracks.
 	- DC 12 Investigation -> Pull the cache free from brush and bark without springing the trap inside.
