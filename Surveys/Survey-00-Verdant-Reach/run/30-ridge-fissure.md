@@ -21,16 +21,14 @@
 **Initial Save:** Dex save 10 or suffer **disadvantage** on skill checks.
 
 Each successful check advances the group one step toward stable ground.
-Each failed check triggers a complication. Pick one that fits:
-
-- A rope slips or anchor tears free.
-- Stone shards burst loose; one exposed PC makes Dex DC 12 or takes 1d6 slashing.
-- A PC loses footing and needs immediate help before the next check.
-
 - Nature DC 14 -> Predict tremor timing.
 - Investigation DC 15 -> Identify stable rock.
 - Athletics DC 15 -> Secure rope anchors.
 - Acrobatics DC 14 -> Cross unstable ledge.
+
+Each failed check triggers a complication. Pick one that fits:
+- Stone shards burst loose; one exposed PC makes Dex DC 12 or takes 1d6 slashing.
+- A PC loses footing and needs immediate help before the next check.
 
 <a id="resolution"></a>
 ## Resolution
@@ -39,7 +37,7 @@ Each failed check triggers a complication. Pick one that fits:
 - The party reaches stable ground.
 - They can proceed to the Seismic Site.
 
-**On 3 failures:**
+**On 2 failures:**
 - Major fracture. Everyone takes 4d6 damage and falls or is left clinging to the ridge.
 - Require immediate climbing, rope use, or rescue before the party can move on.
 - After recovery, they can still continue, but they arrive battered and behind pace.
