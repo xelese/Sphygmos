@@ -3,7 +3,7 @@
 <div style="display:flex; gap:16px; align-items:stretch; flex-wrap:wrap; margin:16px 0;">
 <div style="flex:0 0 180px; width:180px; max-width:100%; align-self:stretch;">
   <img
-    src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/NPC/ [Dead PC]_portrait.png"
+    src=""
     alt=" [Dead PC]"
     style="width:100%; height:100%; object-fit:cover; border-radius:8px; display:block;"
   />
