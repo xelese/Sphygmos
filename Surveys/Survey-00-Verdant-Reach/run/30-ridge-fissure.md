@@ -37,8 +37,8 @@ Each failed check triggers a complication. Pick one that fits:
 - The party reaches stable ground.
 - They can proceed to the Seismic Site.
 
-**On 2 failures:**
-- Major fracture. Everyone takes 4d6 damage and falls or is left clinging to the ridge.
+**On 3 failures:**
+- Major fracture. Everyone takes 3d6 damage and falls or is left clinging to the ridge.
 - Require immediate climbing, rope use, or rescue before the party can move on.
 - After recovery, they can still continue, but they arrive battered and behind pace.
 

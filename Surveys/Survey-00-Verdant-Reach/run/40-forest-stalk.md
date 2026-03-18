@@ -23,13 +23,14 @@ You stumble into two wolf packs already fighting over food. Both groups break of
 <a id="wolf-encounter"></a>
 ## Wolf Encounter
 
-**Type:** Combat | **Threat:** Deadly | **Skill Challenge:** Demoralize or defeat the wolves
+**Type:** Combat | **Threat:** Moderate | **Skill Challenge:** Demoralize or defeat the wolves
 
 [Northern Forest Edge Wolves - D&D Beyond](https://www.dndbeyond.com/encounters/96f734ad-b8f4-4180-9523-6c1af4a0b7d8)
 
-Run this as a difficult combat encounter. The wolves should feel hungry, desperate, and willing to press an advantage.
+Run this as a moderate fight on paper that can still feel dangerous because of hunger, terrain, and surprise. The wolves should feel desperate and willing to press an advantage.
 
-- 4 x Dire wolf - Large Beast CR 1
+- 6 x Dire wolf - Large Beast CR 1
+- Stage them as two packs of 3 to preserve the fiction cleanly.
 
 **Post-Combat Checks:**
 - DC 13 Medicine [Subtle] -> Severe malnutrition. Stomach contents nearly empty.

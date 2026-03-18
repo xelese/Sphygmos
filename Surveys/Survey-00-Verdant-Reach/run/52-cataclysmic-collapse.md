@@ -11,7 +11,7 @@ Escape the collapse before it swallows you.
 
 - Escape before the Collapse swallows the party.
 
-**Type:** Environment | **Threat:** Lethal | **Skill Challenge:** **Shelter Clock (Earn up to 4 Shelter Tokens)** | **Duration:** Up to 8 rounds (DM discretion)
+**Type:** Environment | **Threat:** Lethal | **Skill Challenge:** **Shelter Clock (Earn up to 4 Shelter Tokens)** | **Duration:** Up to 6 rounds
 
 <a id="quick-setup"></a>
 ## Quick Setup
@@ -27,11 +27,11 @@ Before the first round, do all of the following:
 <a id="gm-summary"></a>
 ## GM Summary
 
-- The Collapse lasts up to **8 rounds**.
+- The Collapse lasts up to **6 rounds**.
 - Each round has a **Global Con Save** and one **Lead Check**.
 - A successful Lead Check gives **1 Shelter Token**.
 - A failed Lead Check triggers that round's hazard.
-- At the end of Round 8, any PC who is **not Lost** survives.
+- At the end of Round 6, any PC who is **not Lost** survives.
 
 ---
 
@@ -40,14 +40,13 @@ Before the first round, do all of the following:
 
 ### Survive
 
-At the end of **Round 8**, any PC who is **not Lost** reaches the edge of the kill-zone alive.
+At the end of **Round 6**, any PC who is **not Lost** reaches the edge of the kill-zone alive.
 
 ### Lost
 
 A PC becomes **Lost** if any of the following occur:
 
 - They are still at 0 HP at the end of a round and **no ally dragged them** that round.
-- Round 8's Hazard Trigger hits them while they are still in the kill-zone.
 - The GM rules they are separated beyond recovery within the round.
 
 ---
@@ -123,8 +122,6 @@ If a PC drops to **0 HP** during the Collapse:
 | 4 | 13 | Metabolic Collapse | Healing magic restores only 25% of normal amount. | Anyone above half HP makes an extra Con save 14 or falls prone, vomits blood, and takes 1d6 force. |
 | 5 | 14 | Vital Floor Breach | None | Each PC loses 1 Hit Die worth of HP. |
 | 6 | 15 | Verdant Stasis Wave | All concentration ends. Failed Global Con saves give 2 Exhaustion instead of 1. | One PC is kicked sideways, pinned, separated, or slowed unless an ally cancels it. |
-| 7 | 16 | Aftershock Implosion | None | Dex save 16 or take 4d6 bludgeoning damage. |
-| 8 | 17 | Total Collapse | None | Immediate drop to 0 HP. |
 
 ---
 
@@ -196,24 +193,6 @@ If a PC drops to **0 HP** during the Collapse:
 **Hazard Trigger:**
 - The wave "kicks" one PC sideways: separated / pinned / slowed (GM picks a fitting complication).
   A successful mitigation check by an ally can cancel it.
-
----
-
-<a id="round-7-aftershock-implosion-dc-16"></a>
-## Round 7 - Aftershock Implosion (DC 16)
-**Scene:** A structure collapses inward like it's folding itself.
-
-**Hazard Trigger:**
-- **Dex save DC 16** or take **4d6 bludgeoning damage** from collapse.
-
----
-
-<a id="round-8-total-collapse-dc-17"></a>
-## Round 8 - Total Collapse (DC 17)
-**Scene:** The zone fails completely.
-
-**Hazard Trigger:**
-- **Immediate drop to 0 HP.**
 
 ---
 
