@@ -2,7 +2,7 @@
 
 Regional reference: [Verdant Reach](../../../Locations/Verdant-Reach.md#points-of-interest)
 
-<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Briar-Hollow-After.png" alt="Briar Hollow" width="800" style="border-radius:8px;" />
+<img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Briar-Hollow-post-collapse.png" alt="Briar Hollow" width="800" style="border-radius:8px;" />
 
 ## Introduction
 
