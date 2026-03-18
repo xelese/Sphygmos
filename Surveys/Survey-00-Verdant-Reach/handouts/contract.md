@@ -42,7 +42,7 @@ By signing, you accept field risk and acknowledge that the High Tower's duty is 
 Witnessed by: *Seraphine Ilyra* (Tower Field Scholar)
 
 <div style="position:relative; min-height:120px; margin-top:8px;">
-    <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Symbols/tower-symbol.png" alt="High Tower symbol" width="120" style="position:absolute; right:0; top:0; opacity:1; transform: rotate(10deg); transform-origin: center;" />
+    <img src="https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Symbols/tower-symbol.png" alt="High Tower symbol" width="120" style="position:absolute; left:300; top:0; opacity:0.75; transform: rotate(10deg); transform-origin: center;" />
     <div style="padding-top:56px;">
         Signed: ________________________ (Volunteer)
     </div>
