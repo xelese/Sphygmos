@@ -121,6 +121,7 @@ On failure, mark on the table:
 - **Trapped:** No
 - **Checks:**
     - DC 13 Investigation [Subtle] -> Notice which confiscation crate is a real medical lockbox and when it is left unattended.
+    - DC 13 Perception [Subtle] -> Spot the lockbox among the confiscation crates by watch behavior, handling, and where the militia keeps glancing.
     - DC 14 Sleight of Hand or Stealth -> Lift it during the argument without drawing militia attention.
 - **Contents:**
     - 1 Potion of Healing

@@ -47,14 +47,14 @@ no one is writing it down.*
 - DC 15 Investigation [Subtle] -> Catch false weights / prove the shortage is structural.
     - DI -1 
     - CH -1
-- Persuasion DC 16: "audit then distribute" speech to crowd 
+- Persuasion DC 15: "audit then distribute" speech to crowd 
     - DI -1
     - CH -1 and if success by 5+ CH -2
 
 >***Alric:** While you count, they burn. While you argue, they take. Truth is expensive. It costs time. We don't have time - look at their eyes.*
 
 ### Compromise
-- DC 16 Insight [Subtle] -> Read what each side actually fears.
+- DC 15 Insight [Subtle] -> Read what each side actually fears.
 
 **Success:**
 
@@ -65,7 +65,7 @@ swearing it wasn't their hand*
 
 - Advantage on Persuasion.
 
-Then Persuasion DC 16.
+Then Persuasion DC 15.
 
 **Success:**
 
@@ -97,7 +97,7 @@ Complication: A father refuses evacuation while panic surges.
 - DC 15 Medicine [Subtle] -> Show the family Verdant Stasis effects are real and healing is "thin."
     - CH -1
     - choose AI -1 (frame as safety/command) or DI -1 (frame as informed consent/data)
-- Persuasion DC 16: promise ration share + escort plan
+- Persuasion DC 15: promise ration share + escort plan
     - CH -2
     - if you publicly promise extra grain: DI -1 but AI +1 (militia resentment)
 - Survival DC 15: find safe route / staging point
@@ -139,7 +139,7 @@ If the saboteur is spotted early, any **two successful interventions** stop the 
 
 - Sleight of Hand DC 15: swap the ledger case
 - Athletics DC 15: tackle/arrest cleanly
-- Deception DC 16: misdirect crowd ("that's not the real ledger")
+- Deception DC 15: misdirect crowd ("that's not the real ledger")
 
 If nobody spots it first, the saboteur acts and the party deals with the failure result immediately.
 

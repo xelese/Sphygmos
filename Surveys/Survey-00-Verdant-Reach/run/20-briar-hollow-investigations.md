@@ -66,6 +66,7 @@ If approached
 - **Trapped:** Yes [DC 15]
 - **Checks:**
 	- DC 12 Investigation [Subtle] -> Notice a shed panel or hive base that was opened recently enough to hide supplies.
+	- DC 12 Perception [Subtle] -> Spot disturbed wax, shifted boards, or a hollow behind the abandoned hives.
 	- DC 12 Survival [Subtle] -> Follow old beekeeper traffic and smoke-stains to the stash.
 - **Contents:**
 	- 1 Potion of Healing

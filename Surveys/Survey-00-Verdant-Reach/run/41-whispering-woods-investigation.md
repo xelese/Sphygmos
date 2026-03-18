@@ -35,7 +35,7 @@ Run Stage A and Stage B as parallel investigation options.
 
 **Stage B:**
 
-- DC 16 Arcana [Subtle] -> Roots reacting to energy withdrawal.
+- DC 15 Arcana [Subtle] -> Roots reacting to energy withdrawal.
 - DC 15 Nature [Subtle] -> Root density unusually deep for region.
 
 **Success:**
