@@ -6,11 +6,12 @@
 ## 1. Rest Context
 
 - [ ] Safe Haven
-- [ ] Stable
-- [ ] Strained
 - [ ] Unstable
 - [ ] Verdant Stasis
-- [ ] Collapsed
+
+![Campsite](https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Campsite-night.png)
+
+![Inn](https://s3.us-east-2.wasabisys.com/campaign-sphygmos-public-images/Locations/Verdant%20Reach/Seasonal-Farmer-Quarters.png)
 
 ## 2. Supply Caps
 
