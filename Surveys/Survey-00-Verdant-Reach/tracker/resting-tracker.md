@@ -115,8 +115,21 @@ Check each penalty that applies.
 - [ ] Major
 - [ ] Severe
 
-**Night Notes:**
+### Minor and Major Challenges by Rest Context
 
-- __________________________________________
-- __________________________________________
-- __________________________________________
+Use these when the party is resting somewhere safer than the wilderness, or when you want a quick context-specific complication instead of rolling broadly.
+
+| Rest Context | Minor Challenge | Major Challenge |
+|---|---|---|
+| In town | The party's sleep is interrupted by caravans trying to leave in the middle of the night. Resolve with a short conversation, one group check, or a simple choice about whether to get involved. | Bandits trying to Rob supplies. The party may lose rest quality unless they intervene, relocate, spend coin, or call in influence. |
+| Camped outside | The night turns uncomfortable but manageable: wind tears at the shelter, the fire gutters low, scavengers nose around the packs, drizzle soaks bedrolls, or watch hears movement that may or may not be hostile. Usually one check or one quick resource decision. | Bandits trying to Rob supplies. The party may lose rest quality unless they intervene, relocate, spend coin, or call in influence. |
+
+If the party is in a true Safe Haven, prefer town complications that create pressure without automatically turning the night into combat. If they are outside town walls or sleeping in alleys, yards, ruins, or roadside lean-tos, use the outdoor row instead.
+
+### Rest Outcomes
+
+| Outcome | Effect |
+|---|---|
+| Full Long Rest | Gain the normal benefits of a Long Rest. |
+| Strained Long Rest | Regain hit points, spell slots, and class resources as normal, but **do not remove Exhaustion** and **do not recover spent Hit Dice**. |
+| Poor Rest | Gain the benefits of a **Short Rest** only. |
